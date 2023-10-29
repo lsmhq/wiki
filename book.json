@@ -1,0 +1,34 @@
+{
+    "title": "Wizard101 电子书",
+    "description": "Wizard101 电子书",
+    "author": "lsmhq",
+    "language": "zh-hans",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "Subata官网": "https://www.subata.top/"
+        }
+    },
+    "plugins": [
+        "page-treeview",
+        "simple-page-toc",
+        "page-toc",
+        "page-treeview-simple"
+    ],
+    "pluginsConfig": {
+        "page-toc": {
+            "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
+            "position": "before-first",
+            "showByDefault": true
+          },
+          "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "page-treeview": {
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    }
+}
