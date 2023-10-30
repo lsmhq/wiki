@@ -1,5 +1,7 @@
 {
     "scripts": {
-        "init": ""
+        "installPlugin": "npx gitbook install",
+        "start": "npx gitbook serve",
+        "build": "npx gitbook build"
     }
 }
