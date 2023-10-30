@@ -43,9 +43,9 @@
                 ".gitbook-link", ".copyright"
             ]
         },
-        "favicon": "/image/logo_subata.ico",
+        "favicon": "./image/logo_subata.ico",
         "insert-logo": {
-            "url": "/image/empty.gif",
+            "url": "./image/empty.gif",
             "style": "background: none; max-height: 80px; min-height: 80px; border-radius: 80px"
         },
         "edit-link-plus": {
