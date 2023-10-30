@@ -3,7 +3,7 @@
     "description": "Wizard101 电子书",
     "author": "lsmhq",
     "language": "zh-hans",
-    "root": ".",
+    "root": "/pages",
     "links": {
         "sidebar": {
             "Subata官网": "https://www.subata.top/"
@@ -43,9 +43,9 @@
                 ".gitbook-link", ".copyright"
             ]
         },
-        "favicon": "./image/logo_subata.ico",
+        "favicon": "/image/logo_subata.ico",
         "insert-logo": {
-            "url": "./image/empty.gif",
+            "url": "/image/empty.gif",
             "style": "background: none; max-height: 80px; min-height: 80px; border-radius: 80px"
         },
         "edit-link-plus": {
@@ -55,11 +55,11 @@
         "change_girls": {
             "time": 5,
             "urls": [
-                "./image/logo_subata.ico"
+                "/image/logo_subata.ico"
             ]
         },
         "tbfed-pagefooter": {
-            "modify_label": "该文章修订时间：",
+            "modify_label": "此页最近修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "sharing": {
