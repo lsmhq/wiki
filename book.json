@@ -15,7 +15,8 @@
         "page-toc",
         "page-treeview-simple",
         "expandable-chapters",
-        "hide-element"
+        "hide-element",
+        "search-pro"
     ],
     "pluginsConfig": {
         "page-toc": {
