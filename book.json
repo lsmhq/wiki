@@ -1,6 +1,6 @@
 {
-    "title": "Wizard101 电子书",
-    "description": "Wizard101 电子书",
+    "title": "苏巴塔",
+    "description": "苏巴塔",
     "author": "lsmhq",
     "language": "zh-hans",
     "root": "/pages",
@@ -13,11 +13,15 @@
         "website": "styles/custom.css"
     },
     "plugins": [
-        "page-toc",
+        "-lunr",
+        "-sharing",
+        "-search",
+        "-favicon",
+        "-page-toc",
+        "-insert-logo",
         "expandable-chapters",
         "hide-element",
         "search-pro",
-        "insert-logo",
         "custom-favicon",
         "edit-link-plus",
         "back-to-top-button",
@@ -25,12 +29,14 @@
         "splitter",
         "pageview-count",
         "tbfed-pagefooter",
-        "-sharing",
         "sharing-plus",
         "change_girls",
         "sidebar-style",
         "back-to-top-button",
-        "popup"
+        "popup",
+        "theme-lou",
+        "copy-code-button",
+        "valine"
     ],
     "pluginsConfig": {
         "page-toc": {
@@ -40,14 +46,11 @@
         },
         "hide-element": {
             "elements": [
-                ".gitbook-link", ".copyright"
+                ".gitbook-link",
+                ".copyright"
             ]
         },
         "favicon": "/image/logo_subata.ico",
-        "insert-logo": {
-            "url": "/image/empty.gif",
-            "style": "background: none; max-height: 80px; min-height: 80px; border-radius: 80px"
-        },
         "edit-link-plus": {
             "base": "https://gitee.com/lsmhq/my-wiki/blob/master/pages",
             "label": "编辑此页"
@@ -55,7 +58,7 @@
         "change_girls": {
             "time": 5,
             "urls": [
-                "/image/logo_subata.ico"
+                "/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico"
             ]
         },
         "tbfed-pagefooter": {
@@ -76,6 +79,54 @@
         "sidebar-style": {
             "title": "苏巴塔",
             "author": "苏巴塔"
+        },
+        "valine": {
+            "appId": "EvVbrEptndNRxkxHBgq36539-gzGzoHsz",
+            "appKey": "A8zorKFVa8nnyiVsVMqN3Cqu"
+        },
+        "theme-lou": {
+            "color": "#2096FF",
+            "favicon": "/image/empty.gif",
+            "logo": "/image/empty.gif",
+            "copyrightLogo": "",
+            "autoNumber": "",
+            "titleColor": {
+                "h1": "#8b008b",
+                "h2": "#20b2aa",
+                "h3": "#a52a2a"
+            },
+            "forbidCopy": false,
+            "search-placeholder": "",
+            "hide-elements": [
+                ".summary .gitbook-link", "#vcomments .txt-right"
+            ],
+            "copyright": {
+                "author": "cesi"
+            }
+        }
+    },
+    "variables": {
+        "themeLou": {
+            "nav": [
+                {
+                    "target": "_blank",
+                    "url": "",
+                    "name": "我是菜"
+                },
+                {
+                    "target": "_blank",
+                    "url": "",
+                    "name": "我是单"
+                },
+                {
+                    "target": "_blank",
+                    "url": "",
+                    "name": "我是菜单"
+                }
+            ],
+            "footer": {
+                "copyright": true
+            }
         }
     }
 }
