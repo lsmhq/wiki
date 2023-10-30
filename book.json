@@ -9,32 +9,73 @@
             "Subata官网": "https://www.subata.top/"
         }
     },
+    "styles": {
+        "website": "styles/custom.css"
+    },
     "plugins": [
-        "page-treeview",
-        "simple-page-toc",
         "page-toc",
-        "page-treeview-simple",
         "expandable-chapters",
         "hide-element",
-        "search-pro"
+        "search-pro",
+        "insert-logo",
+        "custom-favicon",
+        "edit-link-plus",
+        "back-to-top-button",
+        "code",
+        "splitter",
+        "pageview-count",
+        "tbfed-pagefooter",
+        "-sharing",
+        "sharing-plus",
+        "change_girls",
+        "sidebar-style",
+        "back-to-top-button",
+        "popup"
     ],
     "pluginsConfig": {
         "page-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4",
             "position": "before-first",
             "showByDefault": true
-          },
-          "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
-        },
-        "page-treeview": {
-            "copyright": "Copyright &#169; aleen42",
-            "minHeaderCount": "2",
-            "minHeaderDeep": "2"
         },
         "hide-element": {
-            "elements": [".gitbook-link"]
+            "elements": [
+                ".gitbook-link", ".copyright"
+            ]
+        },
+        "favicon": "/image/logo_subata.ico",
+        "insert-logo": {
+            "url": "/image/empty.gif",
+            "style": "background: none; max-height: 80px; min-height: 80px; border-radius: 80px"
+        },
+        "edit-link-plus": {
+            "base": "https://gitee.com/lsmhq/my-wiki/blob/master",
+            "label": "编辑此页"
+        },
+        "change_girls": {
+            "time": 5,
+            "urls": [
+                "./image/logo_subata.ico"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "twitter": false,
+            "weibo": false,
+            "all": []
+        },
+        "sidebar-style": {
+            "title": "苏巴塔",
+            "author": "苏巴塔"
         }
     }
 }
