@@ -4,11 +4,7 @@
     "author": "lsmhq",
     "language": "zh-hans",
     "root": "/pages",
-    "links": {
-        "sidebar": {
-            "Subata官网": "https://www.subata.top/"
-        }
-    },
+    "links": {},
     "styles": {
         "website": "styles/custom.css"
     },
@@ -47,18 +43,25 @@
         "hide-element": {
             "elements": [
                 ".gitbook-link",
-                ".copyright"
+                ".copyright",
+                ".book-summary-title"
             ]
         },
         "favicon": "/image/logo_subata.ico",
         "edit-link-plus": {
             "base": "https://gitee.com/lsmhq/my-wiki/blob/master/pages",
-            "label": "编辑此页"
+            "label": "编辑"
         },
         "change_girls": {
-            "time": 5,
+            "time": 10,
             "urls": [
-                "/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico","/image/logo_subata.ico"
+                "/image/1698656222715.jpg",
+                "/image/1698656222720.jpg",
+                "/image/1698656222726.jpg",
+                "/image/1698656222731.jpg",
+                "/image/1698656222736.jpg",
+                "/image/1698656222748.jpg",
+                "/image/1698656222757.jpg"
             ]
         },
         "tbfed-pagefooter": {
@@ -85,9 +88,9 @@
             "appKey": "A8zorKFVa8nnyiVsVMqN3Cqu"
         },
         "theme-lou": {
-            "color": "#2096FF",
-            "favicon": "/image/empty.gif",
-            "logo": "/image/empty.gif",
+            "color": "#e81b25",
+            "favicon": "/image/logo_subata.ico",
+            "logo": "/image/logo_subata.ico",
             "copyrightLogo": "",
             "autoNumber": "",
             "titleColor": {
@@ -96,12 +99,13 @@
                 "h3": "#a52a2a"
             },
             "forbidCopy": false,
-            "search-placeholder": "",
+            "search-placeholder": "关键词搜索",
             "hide-elements": [
-                ".summary .gitbook-link", "#vcomments .txt-right"
+                ".summary .gitbook-link",
+                "#vcomments .txt-right"
             ],
             "copyright": {
-                "author": "cesi"
+                "author": "lsmhq"
             }
         }
     },
@@ -125,7 +129,7 @@
                 }
             ],
             "footer": {
-                "copyright": true
+                "copyright": false
             }
         }
     }

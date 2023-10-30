@@ -447,15 +447,15 @@ body {
   color: var(--H6Color);
 }
 :root { 
---ThemeColor: #2096FF; 
+--ThemeColor: #e81b25; 
 }
 :root { 
   --H1Color: #8b008b; 
   --H2Color: #20b2aa; 
   --H3Color: #a52a2a; 
-  --H4Color: #2096FF; 
-  --H5Color: #2096FF; 
-  --H6Color: #2096FF; 
+  --H4Color: #e81b25; 
+  --H5Color: #e81b25; 
+  --H6Color: #e81b25; 
 }
 
         .markdown-section img {

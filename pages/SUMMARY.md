@@ -1,5 +1,6 @@
 # Summary
 
+* [启动](README.md)
 * 入坑准备
   * [收费方式与福利介绍](/Introduction/INDEX1.md)
   * [下载注册与创建角色](/Introduction/INDEX2.md)
