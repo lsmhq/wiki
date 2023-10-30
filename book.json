@@ -49,7 +49,7 @@
             "style": "background: none; max-height: 80px; min-height: 80px; border-radius: 80px"
         },
         "edit-link-plus": {
-            "base": "https://gitee.com/lsmhq/my-wiki/blob/master",
+            "base": "https://gitee.com/lsmhq/my-wiki/blob/master/pages",
             "label": "编辑此页"
         },
         "change_girls": {
