@@ -11,11 +11,11 @@ heroText: Subata
 tagline: 宇宙无敌攻略
 actions:
   - text: 游戏攻略
-    link: ./main/
+    link: /main/
 
   - text: 下载客户端v2.1.3
     type: primary
-    link: ./
+    link: /
 
 highlights:
   - header: 启动器v2.1.3基本功能
@@ -37,47 +37,47 @@ highlights:
       - title: 入坑准备
         icon: clipboard-check
         # details: 描述
-        link: ./main
+        link: /main
 
       - title: 新人基础指南
         icon: box-archive
         # details: 描述
-        link: ./base
+        link: /base
 
       - title: 深入游戏指南
         icon: table-columns
         # details: 描述
-        link: ./deep
+        link: /deep
 
       - title: 常用工具
         icon: code
         # details: 描述
-        link: ./tools
+        link: /tools
 
       - title: 日常休闲
         icon: align-center
         # details: 描述
-        link: ./daily
+        link: /daily
 
       - title: 战斗玩法
         icon: code
         # details: 描述
-        link: ./fight
+        link: /fight
 
       - title: 特殊玩法(轮换周常)
         icon: superscript
         # details: 描述
-        link: ./special
+        link: /special
 
       - title: 生产采集
         icon: quote-left
         # details: 描述
-        link: ./manufacture
+        link: /manufacture
 
       - title: 其他
         icon: highlighter
         # details: 描述
-        link: ./other
+        link: /other
 
 
   - header: 布局
@@ -119,7 +119,7 @@ highlights:
       - title: 新功能！！！
         icon: comment-dots
         # details: 
-        link: ./
+        link: /
 
   - header: 博客
     description: 通过主题创建个人博客
