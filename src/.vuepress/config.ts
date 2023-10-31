@@ -10,7 +10,21 @@ export default defineUserConfig({
   plugins:[
     searchProPlugin({
       // 配置选项
-      searchDelay: 500
+      searchDelay: 500,
+      customFields: [
+        {
+          getter: (page) => page.frontmatter.category,
+          formatter: {
+            "/": "Category: $content",
+          },
+        },
+        {
+          getter: (page) => page.frontmatter.tag,
+          formatter: {
+            "/": "标签：$content",
+          },
+        },
+      ],
     }),
   ]
   // Enable it with pwa

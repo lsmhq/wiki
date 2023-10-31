@@ -6,21 +6,6 @@ category:
   - 使用指南
 tag:
   - 禁用
-
-navbar: false
-sidebar: false
-
-breadcrumb: false
-pageInfo: false
-contributors: false
-editLink: false
-lastUpdated: false
-prev: false
-next: false
-comment: false
-footer: false
-
-backtotop: false
 ---
 
 你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。
