@@ -14,10 +14,9 @@ export default hopeTheme({
 
   logo: "/assets/logo.ico",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
-
   docsDir: "src",
-
+  docsRepo: 'https://gitee.com/lsmhq/my-wiki',
+  docsBranch: 'v-wiki',
   // navbar
   navbar,
 
@@ -30,15 +29,14 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/wiki/index1.html": ["1234"],
+      // "/wiki/index1.html": [""],
     },
   },
 
   // page meta
   metaLocales: {
-    editLink: "在 Gitee 上编辑此页",
-    lastUpdated: '最近修改时间:',
-    tag: 's'
+    editLink: "前往 Gitee 编辑此页",
+    lastUpdated: '最近修改时间:'
   },
 
   plugins: {
