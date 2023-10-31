@@ -3,16 +3,16 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "蓝色灭火器",
+    url: "https://subata.top",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/assets/logo.ico",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -30,13 +30,15 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      "/wiki/index1.html": ["1234"],
     },
   },
 
   // page meta
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "在 Gitee 上编辑此页",
+    lastUpdated: '最近修改时间:',
+    tag: 's'
   },
 
   plugins: {
@@ -47,8 +49,12 @@ export default hopeTheme({
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
+      comment: false
     },
-
+    feed:{
+      json: true,
+      rss: true
+    },
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
