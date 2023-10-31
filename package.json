@@ -1,7 +1,9 @@
 {
-    "scripts": {
-        "installPlugin": "npx gitbook install",
-        "start": "npx gitbook serve",
-        "build": "npx gitbook build"
-    }
+  "name": "v-wiki",
+  "version": "1.0.0",
+  "description": "基于vue+md的wiki静态页面",
+  "main": "index.js",
+  "repository": "https://gitee.com/lsmhq/my-wiki.git",
+  "author": "lsmhq",
+  "license": "MIT"
 }
