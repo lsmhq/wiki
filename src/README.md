@@ -8,14 +8,14 @@ bgImageDark:
 bgImageStyle:
   background-attachment: fixed
 heroText: Subata
-tagline: 宇宙无敌攻略
+tagline: 专注于游戏攻略和汉化
 actions:
   - text: 游戏攻略
     link: ./main/index.html
 
   - text: 下载客户端v2.1.3
     type: primary
-    # link: /
+    link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe
 
 highlights:
   - header: 启动器v2.1.3
