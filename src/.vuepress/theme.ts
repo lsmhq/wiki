@@ -49,7 +49,14 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
       comment: false
     },
-    
+    components:{
+      components:[
+        'Badge',
+        'BiliBili',
+        'PDF',
+        'Share'
+      ]
+    },
     photoSwipe: true,
 
     copyCode:{

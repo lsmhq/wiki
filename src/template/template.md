@@ -32,24 +32,28 @@ banner: /assets/background/1698762378210.jpg
 ---
 
 <!-- 一级标题 -->
+## Markdown基本写法展示
+
 ## 图片引入展示
 
-<img src="/assets/background/1698762378175.jpg" alt="图片名称" width=250/>
+![图片名称](/assets/background/1698762378175.jpg =200x300)
 
-## 图片代码展示
+### 图片代码展示
 
 ::: tabs
 
 @tab:active md
 
+<Badge type="tip">推荐写法</Badge>
+
 ``` md
-![图片名称](/assets/background/1698762378175.jpg)
+![图片名称](/assets/background/1698762378175.jpg =200x300)
 ```
 
 @tab html
 
 ``` html
-<img src="/assets/background/1698762378175.jpg" alt="图片名称" width=250/>
+<img src="/assets/background/1698762378175.jpg" alt="图片名称" width=200 height=300/>
 ```
 
 :::
@@ -68,7 +72,7 @@ tab2的内容
 
 :::
 
-## Tab标签代码展示
+### Tab标签代码展示
 
 ``` md
     ::: tabs
@@ -82,4 +86,86 @@ tab2的内容
         tab2的内容
 
     :::
+```
+
+## Card样式
+
+```card
+    title: 蓝色灭火器
+    desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
+    logo: /assets/background/1698762378195.jpg
+    link: https://gitee.com/lsmhq
+    color: #ecf4fa
+```
+
+### Card代码展示
+
+```md
+    ```card
+        title: 蓝色灭火器
+        desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
+        logo: /assets/background/1698762378195.jpg
+        link: https://gitee.com/lsmhq
+        color: #ecf4fa
+    ```
+```
+## 标记
+
+Subata ==宇宙== 无敌!
+
+### 标记代码
+
+```md
+Subata ==宇宙== 无敌!
+```
+## 组件展示
+
+## 标签
+
+- <Badge text="tip" type="tip" vertical="middle" />
+- <Badge text="warning" type="warning" vertical="middle" />
+- <Badge text="danger" type="danger" vertical="middle" />
+- <Badge text="info" type="info" vertical="middle" />
+- <Badge text="note" type="note" vertical="middle" />
+
+### 标签代码
+
+```html
+    - <Badge text="tip" type="tip" vertical="middle" />
+    - <Badge text="warning" type="warning" vertical="middle" />
+    - <Badge text="danger" type="danger" vertical="middle" />
+    - <Badge text="info" type="info" vertical="middle" />
+    - <Badge text="note" type="note" vertical="middle" />
+```
+
+## BiliBili
+
+<BiliBili bvid="BV12c411F7VF" />
+
+### BiliBili代码
+
+```html
+    <BiliBili bvid="BV12c411F7VF"/>
+```
+
+## PDF
+
+<PDF url="/assets/sample.pdf" />
+
+### PDF代码
+
+```html
+    <PDF url="/assets/sample.pdf" />
+```
+
+## 分享
+
+<Share services="qq,weibo" colorful />
+<Share colorful />
+
+### 分享代码
+
+```html
+    <Share services="qq,weibo" colorful />
+    <Share colorful />
 ```
