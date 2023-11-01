@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://101.43.174.221/v-wiki/sitemap.xml
