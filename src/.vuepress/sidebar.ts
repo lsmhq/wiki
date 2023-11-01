@@ -3,6 +3,12 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
+      text: "原初模板",
+      icon: "code",
+      prefix: "template/",
+      children: 'structure',
+      collapsible: true
+    },{
       text: "入坑准备",
       icon: "laptop-code",
       prefix: "main/",
