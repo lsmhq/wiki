@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://101.43.174.221/src/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://101.43.174.221/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://101.43.174.221/src/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://101.43.174.221/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Subata</title>
-    <link>https://101.43.174.221/src/</link>
+    <link>https://101.43.174.221/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Nov 2023 15:12:09 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2023 15:12:09 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 15:18:29 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 15:18:29 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>模板专属标签</category>
     <category>使用指南</category>
     <item>
       <title>模板汇总</title>
-      <link>https://101.43.174.221/src/template/template.html</link>
-      <guid>https://101.43.174.221/src/template/template.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">模板汇总</source>
+      <link>https://101.43.174.221/template/template.html</link>
+      <guid>https://101.43.174.221/template/template.html</guid>
+      <source url="https://101.43.174.221/rss.xml">模板汇总</source>
       <description>模板描述</description>
       <category>模板专属标签</category>
       <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
@@ -31,288 +31,288 @@
 <h3> Tab标签代码展示</h3>
 <div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> Card样式</h2>
 ]]></content:encoded>
-      <enclosure url="https://101.43.174.221/src/assets/background/1698762378210.jpg" type="image/jpeg"/>
+      <enclosure url="https://101.43.174.221/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>游戏背景介绍</title>
-      <link>https://101.43.174.221/src/base/index1.html</link>
-      <guid>https://101.43.174.221/src/base/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">游戏背景介绍</source>
+      <link>https://101.43.174.221/base/index1.html</link>
+      <guid>https://101.43.174.221/base/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">游戏背景介绍</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
       <content:encoded><![CDATA[<h1> asdasdasd</h1>
 ]]></content:encoded>
     </item>
     <item>
       <title>新人必知必会游戏核心</title>
-      <link>https://101.43.174.221/src/base/index2.html</link>
-      <guid>https://101.43.174.221/src/base/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">新人必知必会游戏核心</source>
+      <link>https://101.43.174.221/base/index2.html</link>
+      <guid>https://101.43.174.221/base/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">新人必知必会游戏核心</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>认识界面和设置</title>
-      <link>https://101.43.174.221/src/base/index3.html</link>
-      <guid>https://101.43.174.221/src/base/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">认识界面和设置</source>
+      <link>https://101.43.174.221/base/index3.html</link>
+      <guid>https://101.43.174.221/base/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">认识界面和设置</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>任务分类及重要支线</title>
-      <link>https://101.43.174.221/src/base/index4.html</link>
-      <guid>https://101.43.174.221/src/base/index4.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">任务分类及重要支线</source>
+      <link>https://101.43.174.221/base/index4.html</link>
+      <guid>https://101.43.174.221/base/index4.html</guid>
+      <source url="https://101.43.174.221/rss.xml">任务分类及重要支线</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>地图、移动</title>
-      <link>https://101.43.174.221/src/base/index5.html</link>
-      <guid>https://101.43.174.221/src/base/index5.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">地图、移动</source>
+      <link>https://101.43.174.221/base/index5.html</link>
+      <guid>https://101.43.174.221/base/index5.html</guid>
+      <source url="https://101.43.174.221/rss.xml">地图、移动</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>道具、背包与集市</title>
-      <link>https://101.43.174.221/src/base/index6.html</link>
-      <guid>https://101.43.174.221/src/base/index6.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">道具、背包与集市</source>
+      <link>https://101.43.174.221/base/index6.html</link>
+      <guid>https://101.43.174.221/base/index6.html</guid>
+      <source url="https://101.43.174.221/rss.xml">道具、背包与集市</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>认识装备</title>
-      <link>https://101.43.174.221/src/base/index7.html</link>
-      <guid>https://101.43.174.221/src/base/index7.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">认识装备</source>
+      <link>https://101.43.174.221/base/index7.html</link>
+      <guid>https://101.43.174.221/base/index7.html</guid>
+      <source url="https://101.43.174.221/rss.xml">认识装备</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>玩家交流</title>
-      <link>https://101.43.174.221/src/base/index8.html</link>
-      <guid>https://101.43.174.221/src/base/index8.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">玩家交流</source>
+      <link>https://101.43.174.221/base/index8.html</link>
+      <guid>https://101.43.174.221/base/index8.html</guid>
+      <source url="https://101.43.174.221/rss.xml">玩家交流</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>战斗基础</title>
-      <link>https://101.43.174.221/src/base/index9.html</link>
-      <guid>https://101.43.174.221/src/base/index9.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">战斗基础</source>
+      <link>https://101.43.174.221/base/index9.html</link>
+      <guid>https://101.43.174.221/base/index9.html</guid>
+      <source url="https://101.43.174.221/rss.xml">战斗基础</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>每日/每周任务</title>
-      <link>https://101.43.174.221/src/daily/index1.html</link>
-      <guid>https://101.43.174.221/src/daily/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">每日/每周任务</source>
+      <link>https://101.43.174.221/daily/index1.html</link>
+      <guid>https://101.43.174.221/daily/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">每日/每周任务</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>组队志愿者</title>
-      <link>https://101.43.174.221/src/daily/index2.html</link>
-      <guid>https://101.43.174.221/src/daily/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">组队志愿者</source>
+      <link>https://101.43.174.221/daily/index2.html</link>
+      <guid>https://101.43.174.221/daily/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">组队志愿者</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>城堡游戏</title>
-      <link>https://101.43.174.221/src/daily/index3.html</link>
-      <guid>https://101.43.174.221/src/daily/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">城堡游戏</source>
+      <link>https://101.43.174.221/daily/index3.html</link>
+      <guid>https://101.43.174.221/daily/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">城堡游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>小游戏</title>
-      <link>https://101.43.174.221/src/daily/index4.html</link>
-      <guid>https://101.43.174.221/src/daily/index4.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">小游戏</source>
+      <link>https://101.43.174.221/daily/index4.html</link>
+      <guid>https://101.43.174.221/daily/index4.html</guid>
+      <source url="https://101.43.174.221/rss.xml">小游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>练级指南</title>
-      <link>https://101.43.174.221/src/deep/index1.html</link>
-      <guid>https://101.43.174.221/src/deep/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">练级指南</source>
+      <link>https://101.43.174.221/deep/index1.html</link>
+      <guid>https://101.43.174.221/deep/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">练级指南</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>游戏设置详解</title>
-      <link>https://101.43.174.221/src/deep/index2.html</link>
-      <guid>https://101.43.174.221/src/deep/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">游戏设置详解</source>
+      <link>https://101.43.174.221/deep/index2.html</link>
+      <guid>https://101.43.174.221/deep/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">游戏设置详解</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>卡牌描述详解</title>
-      <link>https://101.43.174.221/src/deep/index3.html</link>
-      <guid>https://101.43.174.221/src/deep/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">卡牌描述详解</source>
+      <link>https://101.43.174.221/deep/index3.html</link>
+      <guid>https://101.43.174.221/deep/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">卡牌描述详解</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>副本介绍</title>
-      <link>https://101.43.174.221/src/deep/index4.html</link>
-      <guid>https://101.43.174.221/src/deep/index4.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">副本介绍</source>
+      <link>https://101.43.174.221/deep/index4.html</link>
+      <guid>https://101.43.174.221/deep/index4.html</guid>
+      <source url="https://101.43.174.221/rss.xml">副本介绍</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>组队、公会与冒险小队</title>
-      <link>https://101.43.174.221/src/deep/index5.html</link>
-      <guid>https://101.43.174.221/src/deep/index5.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">组队、公会与冒险小队</source>
+      <link>https://101.43.174.221/deep/index5.html</link>
+      <guid>https://101.43.174.221/deep/index5.html</guid>
+      <source url="https://101.43.174.221/rss.xml">组队、公会与冒险小队</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>民间货币系统(激励宝藏卡与金币)</title>
-      <link>https://101.43.174.221/src/deep/index6.html</link>
-      <guid>https://101.43.174.221/src/deep/index6.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
+      <link>https://101.43.174.221/deep/index6.html</link>
+      <guid>https://101.43.174.221/deep/index6.html</guid>
+      <source url="https://101.43.174.221/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>宠物指南</title>
-      <link>https://101.43.174.221/src/deep/index7.html</link>
-      <guid>https://101.43.174.221/src/deep/index7.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">宠物指南</source>
+      <link>https://101.43.174.221/deep/index7.html</link>
+      <guid>https://101.43.174.221/deep/index7.html</guid>
+      <source url="https://101.43.174.221/rss.xml">宠物指南</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>毕业装备</title>
-      <link>https://101.43.174.221/src/deep/index8.html</link>
-      <guid>https://101.43.174.221/src/deep/index8.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">毕业装备</source>
+      <link>https://101.43.174.221/deep/index8.html</link>
+      <guid>https://101.43.174.221/deep/index8.html</guid>
+      <source url="https://101.43.174.221/rss.xml">毕业装备</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>PVE普通副本</title>
-      <link>https://101.43.174.221/src/fight/index1.html</link>
-      <guid>https://101.43.174.221/src/fight/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">PVE普通副本</source>
+      <link>https://101.43.174.221/fight/index1.html</link>
+      <guid>https://101.43.174.221/fight/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">PVE普通副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>PVE金钥匙副本</title>
-      <link>https://101.43.174.221/src/fight/index2.html</link>
-      <guid>https://101.43.174.221/src/fight/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">PVE金钥匙副本</source>
+      <link>https://101.43.174.221/fight/index2.html</link>
+      <guid>https://101.43.174.221/fight/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">PVE金钥匙副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>PVE困难副本</title>
-      <link>https://101.43.174.221/src/fight/index3.html</link>
-      <guid>https://101.43.174.221/src/fight/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">PVE困难副本</source>
+      <link>https://101.43.174.221/fight/index3.html</link>
+      <guid>https://101.43.174.221/fight/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">PVE困难副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>PVP玩家对战</title>
-      <link>https://101.43.174.221/src/fight/index4.html</link>
-      <guid>https://101.43.174.221/src/fight/index4.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">PVP玩家对战</source>
+      <link>https://101.43.174.221/fight/index4.html</link>
+      <guid>https://101.43.174.221/fight/index4.html</guid>
+      <source url="https://101.43.174.221/rss.xml">PVP玩家对战</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>家园副本/首领重赛</title>
-      <link>https://101.43.174.221/src/fight/index5.html</link>
-      <guid>https://101.43.174.221/src/fight/index5.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">家园副本/首领重赛</source>
+      <link>https://101.43.174.221/fight/index5.html</link>
+      <guid>https://101.43.174.221/fight/index5.html</guid>
+      <source url="https://101.43.174.221/rss.xml">家园副本/首领重赛</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>团队副本</title>
-      <link>https://101.43.174.221/src/fight/index6.html</link>
-      <guid>https://101.43.174.221/src/fight/index6.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">团队副本</source>
+      <link>https://101.43.174.221/fight/index6.html</link>
+      <guid>https://101.43.174.221/fight/index6.html</guid>
+      <source url="https://101.43.174.221/rss.xml">团队副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>打造系统</title>
-      <link>https://101.43.174.221/src/manufacture/index1.html</link>
-      <guid>https://101.43.174.221/src/manufacture/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">打造系统</source>
+      <link>https://101.43.174.221/manufacture/index1.html</link>
+      <guid>https://101.43.174.221/manufacture/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">打造系统</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>种植系统</title>
-      <link>https://101.43.174.221/src/manufacture/index2.html</link>
-      <guid>https://101.43.174.221/src/manufacture/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">种植系统</source>
+      <link>https://101.43.174.221/manufacture/index2.html</link>
+      <guid>https://101.43.174.221/manufacture/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">种植系统</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>钓鱼指南</title>
-      <link>https://101.43.174.221/src/manufacture/index3.html</link>
-      <guid>https://101.43.174.221/src/manufacture/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">钓鱼指南</source>
+      <link>https://101.43.174.221/manufacture/index3.html</link>
+      <guid>https://101.43.174.221/manufacture/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">钓鱼指南</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>阿尼姆斯提取-捉魂</title>
-      <link>https://101.43.174.221/src/other/index1.html</link>
-      <guid>https://101.43.174.221/src/other/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">阿尼姆斯提取-捉魂</source>
+      <link>https://101.43.174.221/other/index1.html</link>
+      <guid>https://101.43.174.221/other/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">阿尼姆斯提取-捉魂</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>坎坎普斯-场外魔法</title>
-      <link>https://101.43.174.221/src/other/index2.html</link>
-      <guid>https://101.43.174.221/src/other/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">坎坎普斯-场外魔法</source>
+      <link>https://101.43.174.221/other/index2.html</link>
+      <guid>https://101.43.174.221/other/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>兽月狩猎</title>
-      <link>https://101.43.174.221/src/special/index1.html</link>
-      <guid>https://101.43.174.221/src/special/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">兽月狩猎</source>
+      <link>https://101.43.174.221/special/index1.html</link>
+      <guid>https://101.43.174.221/special/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">兽月狩猎</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>卡牌之塔马拉松</title>
-      <link>https://101.43.174.221/src/special/index2.html</link>
-      <guid>https://101.43.174.221/src/special/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">卡牌之塔马拉松</source>
+      <link>https://101.43.174.221/special/index2.html</link>
+      <guid>https://101.43.174.221/special/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">卡牌之塔马拉松</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>时尚大赛</title>
-      <link>https://101.43.174.221/src/special/index3.html</link>
-      <guid>https://101.43.174.221/src/special/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">时尚大赛</source>
+      <link>https://101.43.174.221/special/index3.html</link>
+      <guid>https://101.43.174.221/special/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">时尚大赛</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>黑话缩略语词典</title>
-      <link>https://101.43.174.221/src/tools/index1.html</link>
-      <guid>https://101.43.174.221/src/tools/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">黑话缩略语词典</source>
+      <link>https://101.43.174.221/tools/index1.html</link>
+      <guid>https://101.43.174.221/tools/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">黑话缩略语词典</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>副本攻略</title>
-      <link>https://101.43.174.221/src/tools/index2.html</link>
-      <guid>https://101.43.174.221/src/tools/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">副本攻略</source>
+      <link>https://101.43.174.221/tools/index2.html</link>
+      <guid>https://101.43.174.221/tools/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">副本攻略</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>染色</title>
-      <link>https://101.43.174.221/src/other/%E5%A4%96%E8%A7%82/index1.html</link>
-      <guid>https://101.43.174.221/src/other/%E5%A4%96%E8%A7%82/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">染色</source>
+      <link>https://101.43.174.221/other/%E5%A4%96%E8%A7%82/index1.html</link>
+      <guid>https://101.43.174.221/other/%E5%A4%96%E8%A7%82/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">染色</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>缝合</title>
-      <link>https://101.43.174.221/src/other/%E5%A4%96%E8%A7%82/index2.html</link>
-      <guid>https://101.43.174.221/src/other/%E5%A4%96%E8%A7%82/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">缝合</source>
+      <link>https://101.43.174.221/other/%E5%A4%96%E8%A7%82/index2.html</link>
+      <guid>https://101.43.174.221/other/%E5%A4%96%E8%A7%82/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">缝合</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>下载注册与创建角色</title>
-      <link>https://101.43.174.221/src/main/index1.html</link>
-      <guid>https://101.43.174.221/src/main/index1.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">下载注册与创建角色</source>
+      <link>https://101.43.174.221/main/index1.html</link>
+      <guid>https://101.43.174.221/main/index1.html</guid>
+      <source url="https://101.43.174.221/rss.xml">下载注册与创建角色</source>
       <description>页面内容</description>
       <category>使用指南</category>
       <pubDate>Tue, 31 Oct 2023 12:33:11 GMT</pubDate>
@@ -321,23 +321,23 @@
     </item>
     <item>
       <title>安装汉化</title>
-      <link>https://101.43.174.221/src/main/index2.html</link>
-      <guid>https://101.43.174.221/src/main/index2.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">安装汉化</source>
+      <link>https://101.43.174.221/main/index2.html</link>
+      <guid>https://101.43.174.221/main/index2.html</guid>
+      <source url="https://101.43.174.221/rss.xml">安装汉化</source>
       <pubDate>Tue, 31 Oct 2023 12:33:11 GMT</pubDate>
     </item>
     <item>
       <title>系别选择</title>
-      <link>https://101.43.174.221/src/main/index3.html</link>
-      <guid>https://101.43.174.221/src/main/index3.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">系别选择</source>
+      <link>https://101.43.174.221/main/index3.html</link>
+      <guid>https://101.43.174.221/main/index3.html</guid>
+      <source url="https://101.43.174.221/rss.xml">系别选择</source>
       <pubDate>Tue, 31 Oct 2023 12:33:11 GMT</pubDate>
     </item>
     <item>
       <title>游戏收费方式与福利介绍</title>
-      <link>https://101.43.174.221/src/main/index4.html</link>
-      <guid>https://101.43.174.221/src/main/index4.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">游戏收费方式与福利介绍</source>
+      <link>https://101.43.174.221/main/index4.html</link>
+      <guid>https://101.43.174.221/main/index4.html</guid>
+      <source url="https://101.43.174.221/rss.xml">游戏收费方式与福利介绍</source>
       <description>沃尔学院美服采用地图买断/月卡并行的计费模式，同时对于刚入坑的新人提供免费试玩魔法城部分区域等多重福利。 免费试玩 沃尔学院美服可以免费试玩独角兽大道及海神大街任务线，大约能到5-8级左右。 当然，免费试玩账号有一定功能上的限制，比如不能发词库之外的单词（包括数字，中文等，看到别人很多内容会被过滤为“...”）。 当你首充（最低2美元-14元）之后，就...</description>
       <pubDate>Tue, 31 Oct 2023 12:33:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1> 沃尔学院美服的收费模式与入坑福利</h1>
@@ -355,9 +355,9 @@
     </item>
     <item>
       <title>布局与功能禁用</title>
-      <link>https://101.43.174.221/src/demo/disable.html</link>
-      <guid>https://101.43.174.221/src/demo/disable.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">布局与功能禁用</source>
+      <link>https://101.43.174.221/demo/disable.html</link>
+      <guid>https://101.43.174.221/demo/disable.html</guid>
+      <source url="https://101.43.174.221/rss.xml">布局与功能禁用</source>
       <description>你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。 本页面就是一个示例，禁用了如下功能:导航栏; 侧边栏; 路径导航; 页面信息; 贡献者; 编辑此页链接; 更新时间; 上一篇/下一篇 链接; 评论; 页脚; 返回顶部按钮;</description>
       <category>使用指南</category>
       <pubDate>Tue, 31 Oct 2023 10:02:11 GMT</pubDate>
@@ -381,9 +381,9 @@
     </item>
     <item>
       <title>密码加密的文章</title>
-      <link>https://101.43.174.221/src/demo/encrypt.html</link>
-      <guid>https://101.43.174.221/src/demo/encrypt.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">密码加密的文章</source>
+      <link>https://101.43.174.221/demo/encrypt.html</link>
+      <guid>https://101.43.174.221/demo/encrypt.html</guid>
+      <source url="https://101.43.174.221/rss.xml">密码加密的文章</source>
       <description>实际的文章内容。 段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。 段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 ...</description>
       <category>使用指南</category>
       <pubDate>Tue, 31 Oct 2023 10:02:11 GMT</pubDate>
@@ -395,9 +395,9 @@
     </item>
     <item>
       <title>Markdown 展示</title>
-      <link>https://101.43.174.221/src/demo/markdown.html</link>
-      <guid>https://101.43.174.221/src/demo/markdown.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">Markdown 展示</source>
+      <link>https://101.43.174.221/demo/markdown.html</link>
+      <guid>https://101.43.174.221/demo/markdown.html</guid>
+      <source url="https://101.43.174.221/rss.xml">Markdown 展示</source>
       <description>VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。 你应该创建和编写 Markdown 文件，以便 VuePress 可以根据文件结构将它们转换为不同的页面。 Markdown 介绍 如果你是一个新手，还不会编写 Markdown，请先阅读 Markdown 介绍 (https://theme-hope...</description>
       <category>使用指南</category>
       <pubDate>Tue, 31 Oct 2023 10:02:11 GMT</pubDate>
@@ -502,9 +502,9 @@
     </item>
     <item>
       <title>页面配置</title>
-      <link>https://101.43.174.221/src/demo/page.html</link>
-      <guid>https://101.43.174.221/src/demo/page.html</guid>
-      <source url="https://101.43.174.221/src/rss.xml">页面配置</source>
+      <link>https://101.43.174.221/demo/page.html</link>
+      <guid>https://101.43.174.221/demo/page.html</guid>
+      <source url="https://101.43.174.221/rss.xml">页面配置</source>
       <description>more 注释之前的内容被视为文章摘要。 页面信息 你可以在 Markdown 的 Frontmatter 中设置页面信息。作者设置为 Ms.Hope。; 写作日期为 2020 年 1 月 1 日; 分类为 “使用指南”; 标签为 “页面配置” 和 “使用指南”; 页面内容 你可以自由在这里书写你的 Markdown。 ::: tip你可以将...</description>
       <category>使用指南</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
@@ -553,25 +553,25 @@
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://101.43.174.221/src/demo/</link>
-      <guid>https://101.43.174.221/src/demo/</guid>
-      <source url="https://101.43.174.221/src/rss.xml">主要功能与配置演示</source>
+      <link>https://101.43.174.221/demo/</link>
+      <guid>https://101.43.174.221/demo/</guid>
+      <source url="https://101.43.174.221/rss.xml">主要功能与配置演示</source>
       <description>目录Markdown 展示 (markdown.md); 页面展示 (page.md); 禁用展示 (disable.md); 加密展示 (encrypt.md);</description>
       <category>使用指南</category>
       <pubDate>Tue, 31 Oct 2023 10:02:11 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 目录</h2>
 <ul>
 <li>
-<p><a href="/src/demo/markdown.html" target="blank">Markdown 展示</a></p>
+<p><a href="/demo/markdown.html" target="blank">Markdown 展示</a></p>
 </li>
 <li>
-<p><a href="/src/demo/page.html" target="blank">页面展示</a></p>
+<p><a href="/demo/page.html" target="blank">页面展示</a></p>
 </li>
 <li>
-<p><a href="/src/demo/disable.html" target="blank">禁用展示</a></p>
+<p><a href="/demo/disable.html" target="blank">禁用展示</a></p>
 </li>
 <li>
-<p><a href="/src/demo/encrypt.html" target="blank">加密展示</a></p>
+<p><a href="/demo/encrypt.html" target="blank">加密展示</a></p>
 </li>
 </ul>
 ]]></content:encoded>
