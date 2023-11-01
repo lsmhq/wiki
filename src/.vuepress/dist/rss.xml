@@ -6,33 +6,11 @@
     <link>https://101.43.174.221/my-wiki/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 01 Nov 2023 15:20:33 GMT</pubDate>
-    <lastBuildDate>Wed, 01 Nov 2023 15:20:33 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Nov 2023 16:00:04 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Nov 2023 16:00:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>模板专属标签</category>
     <category>使用指南</category>
-    <item>
-      <title>模板汇总</title>
-      <link>https://101.43.174.221/my-wiki/template/template.html</link>
-      <guid>https://101.43.174.221/my-wiki/template/template.html</guid>
-      <source url="https://101.43.174.221/my-wiki/rss.xml">模板汇总</source>
-      <description>模板描述</description>
-      <category>模板专属标签</category>
-      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<!-- 一级标题 -->
-<h2> Markdown基本写法展示</h2>
-<h2> 图片引入展示</h2>
-<figure><img src="/assets/background/1698762378175.jpg" alt="图片名称" width="200" height="300" tabindex="0" loading="lazy"><figcaption>图片名称</figcaption></figure>
-<h3> 图片代码展示</h3>
-
-<h2> Tab标签</h2>
-
-<h3> Tab标签代码展示</h3>
-<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> Card样式</h2>
-]]></content:encoded>
-      <enclosure url="https://101.43.174.221/my-wiki/assets/background/1698762378210.jpg" type="image/jpeg"/>
-    </item>
     <item>
       <title>游戏背景介绍</title>
       <link>https://101.43.174.221/my-wiki/base/index1.html</link>
