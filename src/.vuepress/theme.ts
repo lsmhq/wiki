@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "",
+  hostname: "101.43.174.221",
 
   author: {
     name: "蓝色灭火器",
@@ -38,7 +38,6 @@ export default hopeTheme({
     editLink: "前往 Gitee 编辑此页",
     lastUpdated: '最近修改时间:'
   },
-
   plugins: {
     // You should generate and use your own comment service
     comment: {
@@ -49,6 +48,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
       comment: false
     },
+    activeHeaderLinks: false,
     components:{
       components:[
         'Badge',
