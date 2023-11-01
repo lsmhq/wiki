@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "101.43.174.221",
 
   author: {
-    name: "蓝色灭火器",
+    name: "lsmhq",
     url: "https://subata.top",
   },
 
@@ -23,20 +23,21 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "默认页脚",
+  footer: "文章内容由Subata全员创作",
 
   displayFooter: true,
 
   encrypt: {
     config: {
       // "/wiki/index1.html": [""],
+      "/template/template.html": ["subata"]
     },
   },
 
   // page meta
   metaLocales: {
     editLink: "前往 Gitee 编辑此页",
-    lastUpdated: '最近修改时间:'
+    lastUpdated: '最近修改时间'
   },
   plugins: {
     // You should generate and use your own comment service

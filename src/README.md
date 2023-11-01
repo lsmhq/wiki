@@ -82,6 +82,6 @@ highlights:
         # details: 描述
         link: /other
 
-copyright: 蓝色灭火器
+copyright: Subata
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
 ---

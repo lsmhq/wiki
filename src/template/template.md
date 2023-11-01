@@ -31,6 +31,7 @@ banner: /assets/background/1698762378210.jpg
 #---下方的为md正文内容
 ---
 
+
 <!-- 一级标题 -->
 ## Markdown基本写法展示
 
@@ -75,39 +76,39 @@ tab2的内容
 ### Tab标签代码展示
 
 ``` md
-    ::: tabs
+::: tabs
 
-    @tab:active tab1
+@tab:active tab1
 
-        tab1的内容
+    tab1的内容
 
-    @tab tab2
+@tab tab2
 
-        tab2的内容
+    tab2的内容
 
-    :::
+:::
 ```
 
 ## Card样式
 
 ```card
-    title: 蓝色灭火器
-    desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
-    logo: /assets/background/1698762378195.jpg
-    link: https://gitee.com/lsmhq
-    color: #ecf4fa
+title: 蓝色灭火器
+desc: 蓝色灭火器简介
+logo: /assets/background/1698762378195.jpg
+link: https://gitee.com/lsmhq
+color: rgba(253, 230, 138, 0.15)
 ```
 
 ### Card代码展示
 
 ```md
-    ```card
-        title: 蓝色灭火器
-        desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
-        logo: /assets/background/1698762378195.jpg
-        link: https://gitee.com/lsmhq
-        color: #ecf4fa
-    ```
+```card
+title: 蓝色灭火器
+desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
+logo: /assets/background/1698762378195.jpg
+link: https://gitee.com/lsmhq
+color: #ecf4fa
+```
 ```
 ## 标记
 
@@ -140,12 +141,12 @@ Subata ==宇宙== 无敌!
 
 ## BiliBili
 
-<BiliBili bvid="BV12c411F7VF" />
+<BiliBili bvid="BV1H3411C7ZJ" />
 
 ### BiliBili代码
 
 ```html
-    <BiliBili bvid="BV12c411F7VF"/>
+    <BiliBili bvid="BV1H3411C7ZJ"/>
 ```
 
 ## PDF
