@@ -11,11 +11,11 @@ heroText: Subata
 tagline: 宇宙无敌攻略
 actions:
   - text: 游戏攻略
-    link: /main
+    link: ./main/index.html
 
   - text: 下载客户端v2.1.3
     type: primary
-    link: /
+    # link: /
 
 highlights:
   - header: 启动器v2.1.3

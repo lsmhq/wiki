@@ -49,6 +49,12 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
       comment: false
     },
+    
+    photoSwipe: true,
+
+    copyCode:{
+      showInMobile: true,
+    },
     feed:{
       json: true,
       rss: true
