@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Nov 2023 06:39:03 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2023 06:39:03 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 08:02:16 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 08:02:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>模板专属标签</category>
@@ -20,9 +20,95 @@
       <description>模板描述</description>
       <category>模板专属标签</category>
       <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<!-- 一级标题 -->
+      <content:encoded><![CDATA[<h2> 文章信息配置代码展示</h2>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><!-- 一级标题 -->
 <h2> Markdown基本写法展示</h2>
-<h2> 图片引入展示</h2>
+<h2> 标题</h2>
+<h3> 标题</h3>
+<h4> 标题</h4>
+<h5> 标题</h5>
+<h3> 标题代码</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 标记</h2>
+<p><em>Subata</em> <mark>宇宙无敌</mark>!</p>
+<p>这句话里拥有<strong>加粗</strong>、<em>倾斜</em>和<s>删除</s></p>
+<h3> 标记代码</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 段落</h2>
+<p>这是一个段落。</p>
+<p>这是另一个段落。</p>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 换行</h2>
+<p>拦路雨偏似雪花 饮泣的你冻吗<br>
+这风褛我给你磨到有襟花<br>
+连调了职也不怕 怎么始终牵挂<br>
+苦心选中今天想车你回家<br>
+原谅我不再送花 伤口应要结疤<br>
+花瓣铺满心里坟场才害怕<br>
+如若你非我不嫁 彼此终必火化<br>
+一生一世等一天需要代价</p>
+<h3> 换行代码展示</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 列表</h2>
+<ul>
+<li>DUO
+<ul>
+<li>富士山下</li>
+<li>落花流水</li>
+</ul>
+</li>
+<li>Eason's Moving On
+<ul>
+<li>马里奥派对</li>
+<li>浮夸</li>
+</ul>
+</li>
+<li>列表换行
+<ul>
+<li>比如这里有很多内容<br>
+需要进行一个行的换</li>
+<li>比如这里有很多内容<br>
+需要进行一个行的换</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>DUO</li>
+<li>Eason's Moving On</li>
+<li>比如这里有很多内容<br>
+需要进行一个行的换</li>
+</ol>
+<h2> 列表代码</h2>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 超链接</h2>
+<p><a href="https://www.bilibili.com" target="_blank" rel="noopener noreferrer">Bilibili</a></p>
+<h3> 超链接代码</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> 可复制代码块</h2>
+<div class="language-typescript line-numbers-mode" data-ext="ts"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 代码展示</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 表格</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">居中</th>
+<th style="text-align:right">右对齐</th>
+<th style="text-align:left">左对齐</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">居中使用<code>:-:</code></td>
+<td style="text-align:right">右对齐使用<code>-:</code></td>
+<td style="text-align:left">左对齐使用<code>:-</code></td>
+</tr>
+<tr>
+<td style="text-align:center">b</td>
+<td style="text-align:right">aaaaaaaaa</td>
+<td style="text-align:left">aaaa</td>
+</tr>
+<tr>
+<td style="text-align:center">c</td>
+<td style="text-align:right">aaaa</td>
+<td style="text-align:left">a</td>
+</tr>
+</tbody>
+</table>
+<h3> 表格代码展示</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 图片引入展示</h2>
 <figure><img src="/assets/background/1698762378175.jpg" alt="图片名称" width="200" height="300" tabindex="0" loading="lazy"><figcaption>图片名称</figcaption></figure>
 <h3> 图片代码展示</h3>
 
@@ -32,6 +118,34 @@
 <div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> Card样式</h2>
 ]]></content:encoded>
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>每日/每周任务</title>
+      <link>https://gitee.com/subata/daily/index1.html</link>
+      <guid>https://gitee.com/subata/daily/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队志愿者</title>
+      <link>https://gitee.com/subata/daily/index2.html</link>
+      <guid>https://gitee.com/subata/daily/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>城堡游戏</title>
+      <link>https://gitee.com/subata/daily/index3.html</link>
+      <guid>https://gitee.com/subata/daily/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>小游戏</title>
+      <link>https://gitee.com/subata/daily/index4.html</link>
+      <guid>https://gitee.com/subata/daily/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
       <title>游戏背景介绍</title>
@@ -99,76 +213,6 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>每日/每周任务</title>
-      <link>https://gitee.com/subata/daily/index1.html</link>
-      <guid>https://gitee.com/subata/daily/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队志愿者</title>
-      <link>https://gitee.com/subata/daily/index2.html</link>
-      <guid>https://gitee.com/subata/daily/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>城堡游戏</title>
-      <link>https://gitee.com/subata/daily/index3.html</link>
-      <guid>https://gitee.com/subata/daily/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>小游戏</title>
-      <link>https://gitee.com/subata/daily/index4.html</link>
-      <guid>https://gitee.com/subata/daily/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE普通副本</title>
-      <link>https://gitee.com/subata/fight/index1.html</link>
-      <guid>https://gitee.com/subata/fight/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE金钥匙副本</title>
-      <link>https://gitee.com/subata/fight/index2.html</link>
-      <guid>https://gitee.com/subata/fight/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE困难副本</title>
-      <link>https://gitee.com/subata/fight/index3.html</link>
-      <guid>https://gitee.com/subata/fight/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVP玩家对战</title>
-      <link>https://gitee.com/subata/fight/index4.html</link>
-      <guid>https://gitee.com/subata/fight/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>家园副本/首领重赛</title>
-      <link>https://gitee.com/subata/fight/index5.html</link>
-      <guid>https://gitee.com/subata/fight/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队副本</title>
-      <link>https://gitee.com/subata/fight/index6.html</link>
-      <guid>https://gitee.com/subata/fight/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>练级指南</title>
       <link>https://gitee.com/subata/deep/index1.html</link>
       <guid>https://gitee.com/subata/deep/index1.html</guid>
@@ -225,17 +269,45 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <title>PVE普通副本</title>
+      <link>https://gitee.com/subata/fight/index1.html</link>
+      <guid>https://gitee.com/subata/fight/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
+      <title>PVE金钥匙副本</title>
+      <link>https://gitee.com/subata/fight/index2.html</link>
+      <guid>https://gitee.com/subata/fight/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PVE困难副本</title>
+      <link>https://gitee.com/subata/fight/index3.html</link>
+      <guid>https://gitee.com/subata/fight/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PVP玩家对战</title>
+      <link>https://gitee.com/subata/fight/index4.html</link>
+      <guid>https://gitee.com/subata/fight/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>家园副本/首领重赛</title>
+      <link>https://gitee.com/subata/fight/index5.html</link>
+      <guid>https://gitee.com/subata/fight/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>团队副本</title>
+      <link>https://gitee.com/subata/fight/index6.html</link>
+      <guid>https://gitee.com/subata/fight/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -257,6 +329,20 @@
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
