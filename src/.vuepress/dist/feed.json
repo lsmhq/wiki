@@ -14,51 +14,15 @@
       "content_html": "<!-- 一级标题 -->\n<h2> Markdown基本写法展示</h2>\n<h2> 图片引入展示</h2>\n<figure><img src=\"/assets/background/1698762378175.jpg\" alt=\"图片名称\" width=\"200\" height=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption>图片名称</figcaption></figure>\n<h3> 图片代码展示</h3>\n\n<h2> Tab标签</h2>\n\n<h3> Tab标签代码展示</h3>\n<div class=\"language-markdown line-numbers-mode\" data-ext=\"md\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h2> Card样式</h2>\n",
       "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
       "date_published": "2023-11-01T00:00:00.000Z",
-      "date_modified": "2023-11-01T15:59:43.000Z",
-      "authors": [],
+      "date_modified": "2023-11-02T06:38:36.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
       "tags": [
         "模板专属标签"
       ]
-    },
-    {
-      "title": "每日/每周任务",
-      "url": "https://gitee.com/subata/daily/index1.html",
-      "id": "https://gitee.com/subata/daily/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "组队志愿者",
-      "url": "https://gitee.com/subata/daily/index2.html",
-      "id": "https://gitee.com/subata/daily/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "城堡游戏",
-      "url": "https://gitee.com/subata/daily/index3.html",
-      "id": "https://gitee.com/subata/daily/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "小游戏",
-      "url": "https://gitee.com/subata/daily/index4.html",
-      "id": "https://gitee.com/subata/daily/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
     },
     {
       "title": "游戏背景介绍",
@@ -144,6 +108,46 @@
       "title": "战斗基础",
       "url": "https://gitee.com/subata/base/index9.html",
       "id": "https://gitee.com/subata/base/index9.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每日/每周任务",
+      "url": "https://gitee.com/subata/daily/index1.html",
+      "id": "https://gitee.com/subata/daily/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "组队志愿者",
+      "url": "https://gitee.com/subata/daily/index2.html",
+      "id": "https://gitee.com/subata/daily/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "城堡游戏",
+      "url": "https://gitee.com/subata/daily/index3.html",
+      "id": "https://gitee.com/subata/daily/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "小游戏",
+      "url": "https://gitee.com/subata/daily/index4.html",
+      "id": "https://gitee.com/subata/daily/index4.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
@@ -291,6 +295,26 @@
       "tags": []
     },
     {
+      "title": "阿尼姆斯提取-捉魂",
+      "url": "https://gitee.com/subata/other/index1.html",
+      "id": "https://gitee.com/subata/other/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "坎坎普斯-场外魔法",
+      "url": "https://gitee.com/subata/other/index2.html",
+      "id": "https://gitee.com/subata/other/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "打造系统",
       "url": "https://gitee.com/subata/manufacture/index1.html",
       "id": "https://gitee.com/subata/manufacture/index1.html",
@@ -314,26 +338,6 @@
       "title": "钓鱼指南",
       "url": "https://gitee.com/subata/manufacture/index3.html",
       "id": "https://gitee.com/subata/manufacture/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "阿尼姆斯提取-捉魂",
-      "url": "https://gitee.com/subata/other/index1.html",
-      "id": "https://gitee.com/subata/other/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "坎坎普斯-场外魔法",
-      "url": "https://gitee.com/subata/other/index2.html",
-      "id": "https://gitee.com/subata/other/index2.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
@@ -374,10 +378,15 @@
       "title": "黑话缩略语词典",
       "url": "https://gitee.com/subata/tools/index1.html",
       "id": "https://gitee.com/subata/tools/index1.html",
-      "content_html": "",
+      "summary": "战斗类 TC：Treasure Card，即宝藏卡\\ BC：Battle Card，兽月模式中的宝藏卡\\ Spellments：技能碎片，用于解锁和升级技能\\ 虹豆/彩豆/学院豆：即学院魔豆，每个系的学院魔豆都可以作为该系的两个魔豆使用",
+      "content_html": "<h2> 战斗类</h2>\n<p>TC：Treasure Card，即宝藏卡<br>\nBC：Battle Card，兽月模式中的宝藏卡<br>\nSpellments：技能碎片，用于解锁和升级技能<br>\n虹豆/彩豆/学院豆：即学院魔豆，每个系的学院魔豆都可以作为该系的两个魔豆使用</p>\n",
       "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
+      "date_modified": "2023-11-02T06:38:36.000Z",
+      "authors": [
+        {
+          "name": "布雷兹"
+        }
+      ],
       "tags": []
     },
     {
@@ -417,7 +426,7 @@
       "summary": "页面内容",
       "content_html": "<h3> 页面内容</h3>\n",
       "date_published": "2023-10-31T12:33:11.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
+      "date_modified": "2023-11-02T06:38:36.000Z",
       "authors": [],
       "tags": [
         "使用指南"
