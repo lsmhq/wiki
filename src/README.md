@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: Subata
-heroImage: /assets/logo.ico
+heroImage: 
 bgImage:
 bgImageDark: 
 bgImageStyle:
@@ -21,7 +21,7 @@ highlights:
   - header: 启动器v2.1.3
     image: /assets/image/subata.png
     bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    bgImageDark: /assets/background/login-bg.webp
     highlights:
       - title: 更丰富的界面
       - title: 更高效的运行
@@ -31,7 +31,7 @@ highlights:
   - header: 通过下方快速跳转指定模块
     description: 
     # image: /assets/image/logo.ico
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImage: /assets/
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     bgImageStyle:
       background-repeat: repeat
