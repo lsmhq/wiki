@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 export default defineUserConfig({
-  base: "/my-wiki/",
+  base: "/subata/",
   lang: "zh-CN",
   title: "Subata",
   description: "Subata",

@@ -19,7 +19,7 @@ export default hopeTheme({
   logo: "/assets/logo.ico",
 
   docsDir: "src",
-  docsRepo: 'https://gitee.com/lsmhq/my-wiki',
+  docsRepo: 'https://gitee.com/lsmhq/subata',
   docsBranch: 'v-wiki',
   // navbar
   navbar,
@@ -34,7 +34,7 @@ export default hopeTheme({
   encrypt: {
     config: {
       // "/wiki/index1.html": [""],
-      "/template/template.html": ["subata"]
+      // "/template/template.html": ["subata"]
     },
   },
 
