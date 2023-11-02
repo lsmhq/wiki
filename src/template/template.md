@@ -9,7 +9,7 @@ description: 模板描述
 author: 蓝色灭火器
 # 分类
 category: 
-  - 模板专属标签
+  - 模板专属分类
 # 标签
 tag: 
   - 模板
