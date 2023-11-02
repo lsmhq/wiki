@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Nov 2023 08:13:59 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2023 08:13:59 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Nov 2023 08:38:50 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Nov 2023 08:38:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>模板专属标签</category>
@@ -185,31 +185,45 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>每日/每周任务</title>
-      <link>https://gitee.com/subata/daily/index1.html</link>
-      <guid>https://gitee.com/subata/daily/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
+      <title>PVE普通副本</title>
+      <link>https://gitee.com/subata/fight/index1.html</link>
+      <guid>https://gitee.com/subata/fight/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>组队志愿者</title>
-      <link>https://gitee.com/subata/daily/index2.html</link>
-      <guid>https://gitee.com/subata/daily/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
+      <title>PVE金钥匙副本</title>
+      <link>https://gitee.com/subata/fight/index2.html</link>
+      <guid>https://gitee.com/subata/fight/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>城堡游戏</title>
-      <link>https://gitee.com/subata/daily/index3.html</link>
-      <guid>https://gitee.com/subata/daily/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
+      <title>PVE困难副本</title>
+      <link>https://gitee.com/subata/fight/index3.html</link>
+      <guid>https://gitee.com/subata/fight/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>小游戏</title>
-      <link>https://gitee.com/subata/daily/index4.html</link>
-      <guid>https://gitee.com/subata/daily/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
+      <title>PVP玩家对战</title>
+      <link>https://gitee.com/subata/fight/index4.html</link>
+      <guid>https://gitee.com/subata/fight/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>家园副本/首领重赛</title>
+      <link>https://gitee.com/subata/fight/index5.html</link>
+      <guid>https://gitee.com/subata/fight/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>团队副本</title>
+      <link>https://gitee.com/subata/fight/index6.html</link>
+      <guid>https://gitee.com/subata/fight/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -269,45 +283,31 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE普通副本</title>
-      <link>https://gitee.com/subata/fight/index1.html</link>
-      <guid>https://gitee.com/subata/fight/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
+      <title>每日/每周任务</title>
+      <link>https://gitee.com/subata/daily/index1.html</link>
+      <guid>https://gitee.com/subata/daily/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE金钥匙副本</title>
-      <link>https://gitee.com/subata/fight/index2.html</link>
-      <guid>https://gitee.com/subata/fight/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
+      <title>组队志愿者</title>
+      <link>https://gitee.com/subata/daily/index2.html</link>
+      <guid>https://gitee.com/subata/daily/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE困难副本</title>
-      <link>https://gitee.com/subata/fight/index3.html</link>
-      <guid>https://gitee.com/subata/fight/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
+      <title>城堡游戏</title>
+      <link>https://gitee.com/subata/daily/index3.html</link>
+      <guid>https://gitee.com/subata/daily/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVP玩家对战</title>
-      <link>https://gitee.com/subata/fight/index4.html</link>
-      <guid>https://gitee.com/subata/fight/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>家园副本/首领重赛</title>
-      <link>https://gitee.com/subata/fight/index5.html</link>
-      <guid>https://gitee.com/subata/fight/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队副本</title>
-      <link>https://gitee.com/subata/fight/index6.html</link>
-      <guid>https://gitee.com/subata/fight/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
+      <title>小游戏</title>
+      <link>https://gitee.com/subata/daily/index4.html</link>
+      <guid>https://gitee.com/subata/daily/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
