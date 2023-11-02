@@ -8,10 +8,10 @@ description: 模板描述
 # 文章作者，不填，则会回退到默认作者
 author: 蓝色灭火器
 # 分类
-category:
+category: 
   - 模板专属标签
 # 标签
-tag:
+tag: 
   - 模板
 # 图标-详情请看：https://theme-hope.vuejs.press/zh/guide/interface/icon.html
 icon: book
