@@ -62,6 +62,7 @@ export default hopeTheme({
         'Share'
       ]
     },
+
     photoSwipe: true,
 
     copyCode:{

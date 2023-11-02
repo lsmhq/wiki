@@ -31,47 +31,46 @@ banner: /assets/background/1698762378210.jpg
 ## 文章信息配置代码展示
 
 ```md
-    ---
-    # 标题-sideBar在shortTitle不设置时使用title的文本
-    title: 模板汇总
-    
-    # sideBar标题
-    shortTitle: 如何书写你的文章？
-    
-    # 描述
-    description: 模板描述
-    
-    # 文章作者，不填，则会回退到默认作者
-    author: 蓝色灭火器
-    
-    # 分类
-    category: 
-    - 模板专属标签
-    
-    # 标签
-    tag: 
-    - 模板
+---
+# 标题-sideBar在shortTitle不设置时使用title的文本
+title: 模板汇总
 
-    # 图标
-    icon: book
-    
-    # 是否原创文章
-    isOriginal: true
-    
-    # 写作时间
-    date: 2023-11-01
-    
-    # 置顶-数字越大越靠上
-    sticky: 9
-    
-    # 时间线
-    timeline: true
-    
-    # 封面图
-    banner: /assets/background/1698762378210.jpg
-    
-    # ---下方的为md正文内容
-    ---
+# sideBar标题
+shortTitle: 如何书写你的文章？
+
+# 描述
+description: 模板描述
+
+# 文章作者，不填，则会回退到默认作者
+author: 蓝色灭火器
+
+# 分类
+category: 
+- 模板专属标签
+
+# 标签
+tag: 
+- 模板
+# 图标
+icon: book
+
+# 是否原创文章
+isOriginal: true
+
+# 写作时间
+date: 2023-11-01
+
+# 置顶-数字越大越靠上
+sticky: 9
+
+# 时间线
+timeline: true
+
+# 封面图
+banner: /assets/background/1698762378210.jpg
+
+# ---下方的为md正文内容
+---
 ```
 
 <!-- 一级标题 -->
@@ -88,13 +87,10 @@ banner: /assets/background/1698762378210.jpg
 ### 标题代码
 
 ```md
-    ## 标题
-
-    ### 标题
-
-    #### 标题
-
-    ##### 标题
+## 标题
+### 标题
+#### 标题
+##### 标题
 ```
 
 ## 标记
@@ -196,25 +192,27 @@ banner: /assets/background/1698762378210.jpg
 ### 超链接代码
 
 ```md
-    [Bilibili](https://www.bilibili.com)
+[Bilibili](https://www.bilibili.com)
 ```
 
 ## 可复制代码块
 
 ```ts
-    // 可复制的哦
-    const code: string = `代码块`
-    console.log(code)
+// 可复制的哦
+const code: string = `代码块`
+console.log(code)
 ```
 
 ### 代码展示
 
 ```md
+
     ```ts
         // 可复制的哦
         const code: string = `代码块`
         console.log(code)
     ```
+
 ```
 
 ## 表格
@@ -228,11 +226,11 @@ banner: /assets/background/1698762378210.jpg
 ### 表格代码展示
 
 ```md
-    |     居中      |         右对齐 | 左对齐         |
-    | :-----------: | -------------: | :------------- |
-    | 居中使用`:-:` | 右对齐使用`-:` | 左对齐使用`:-` |
-    |       b       |      aaaaaaaaa | aaaa           |
-    |       c       |           aaaa | a              |
+|     居中      |         右对齐 | 左对齐         |
+| :-----------: | -------------: | :------------- |
+| 居中使用`:-:` | 右对齐使用`-:` | 左对齐使用`:-` |
+|       b       |      aaaaaaaaa | aaaa           |
+|       c       |           aaaa | a              |
 ```
 
 ## 图片引入展示
@@ -324,11 +322,11 @@ color: rgba(253, 230, 138, 0.15)
 ### 标签代码
 
 ```html
-    - <Badge text="tip" type="tip" vertical="middle" />
-    - <Badge text="warning" type="warning" vertical="middle" />
-    - <Badge text="danger" type="danger" vertical="middle" />
-    - <Badge text="info" type="info" vertical="middle" />
-    - <Badge text="note" type="note" vertical="middle" />
+- <Badge text="tip" type="tip" vertical="middle" />
+- <Badge text="warning" type="warning" vertical="middle" />
+- <Badge text="danger" type="danger" vertical="middle" />
+- <Badge text="info" type="info" vertical="middle" />
+- <Badge text="note" type="note" vertical="middle" />
 ```
 
 ## BiliBili
@@ -338,7 +336,7 @@ color: rgba(253, 230, 138, 0.15)
 ### BiliBili代码
 
 ```html
-    <BiliBili bvid="BV1H3411C7ZJ"/>
+<BiliBili bvid="BV1H3411C7ZJ"/>
 ```
 
 ## PDF
@@ -348,7 +346,7 @@ color: rgba(253, 230, 138, 0.15)
 ### PDF代码
 
 ```html
-    <PDF url="/assets/sample.pdf" />
+<PDF url="/assets/sample.pdf" />
 ```
 
 ## 分享
@@ -359,6 +357,6 @@ color: rgba(253, 230, 138, 0.15)
 ### 分享代码
 
 ```html
-    <Share services="qq,weibo" colorful />
-    <Share colorful />
+<Share services="qq,weibo" colorful />
+<Share colorful />
 ```
