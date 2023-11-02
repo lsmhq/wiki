@@ -3,13 +3,17 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "101.43.174.221",
-
+  hostname: "https://gitee.com/",
+  favicon: "/assets/logo.ico",
   author: {
     name: "lsmhq",
     url: "https://subata.top",
   },
+  
+  themeColor: true,
 
+  fullscreen: true,
+  
   iconAssets: "fontawesome-with-brands",
 
   logo: "/assets/logo.ico",

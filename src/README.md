@@ -3,8 +3,8 @@ home: true
 icon: home
 title: Subata
 heroImage: 
-bgImage:
-bgImageDark: 
+bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Subata
@@ -17,11 +17,15 @@ actions:
     type: primary
     link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe
 
+  - text: 联系我们
+    type: primary
+    link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe
+
 highlights:
   - header: 启动器v2.1.3
     image: /assets/image/subata.png
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: /assets/background/login-bg.webp
+    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     highlights:
       - title: 更丰富的界面
       - title: 更高效的运行
@@ -31,8 +35,8 @@ highlights:
   - header: 通过下方快速跳转指定模块
     description: 
     # image: /assets/image/logo.ico
-    bgImage: /assets/
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
