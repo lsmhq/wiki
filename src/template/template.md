@@ -6,9 +6,7 @@ shortTitle: 如何书写你的文章？
 # 描述
 description: 模板描述
 # 文章作者，不填，则会回退到默认作者
-autho: 蓝色灭火器
-# 用时
-
+author: 蓝色灭火器
 # 分类
 category:
   - 模板专属标签
@@ -16,7 +14,7 @@ category:
 tag:
   - 模板
 # 图标-详情请看：https://theme-hope.vuejs.press/zh/guide/interface/icon.html
-icon: 
+icon: book
 # 是否原创文章
 isOriginal: true
 # 写作时间
@@ -27,7 +25,6 @@ sticky: 9
 timeline: true
 # 封面图
 banner: /assets/background/1698762378210.jpg
-
 #---下方的为md正文内容
 ---
 
@@ -102,14 +99,15 @@ color: rgba(253, 230, 138, 0.15)
 ### Card代码展示
 
 ```md
-```card
-title: 蓝色灭火器
-desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
-logo: /assets/background/1698762378195.jpg
-link: https://gitee.com/lsmhq
-color: #ecf4fa
+    ```card
+    title: 蓝色灭火器
+    desc: lsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhqlsmhq
+    logo: /assets/background/1698762378195.jpg
+    link: https://gitee.com/lsmhq
+    color: #ecf4fa
+    ```
 ```
-```
+
 ## 标记
 
 Subata ==宇宙== 无敌!

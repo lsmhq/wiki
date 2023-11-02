@@ -4,7 +4,7 @@ export default sidebar({
   "/": [
     {
       text: "原初模板",
-      icon: "code",
+      icon: "home",
       prefix: "template/",
       children: 'structure',
       collapsible: true
