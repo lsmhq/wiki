@@ -3,8 +3,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://gitee.com/",
+  hostname: "https://gitee.com",
+
   favicon: "/assets/logo.ico",
+
   author: {
     name: "lsmhq",
     url: "https://subata.top",
@@ -19,8 +21,11 @@ export default hopeTheme({
   logo: "/assets/logo.ico",
 
   docsDir: "src",
+
   docsRepo: 'https://gitee.com/lsmhq/subata',
+
   docsBranch: 'v-wiki',
+  
   // navbar
   navbar,
 
