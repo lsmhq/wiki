@@ -1,6 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
+import path from "path";
+
+
+
 export default defineUserConfig({
   
   base: "/subata/",
@@ -35,6 +40,11 @@ export default defineUserConfig({
         },
       ],
     }),
+    registerComponentsPlugin({
+      components: {
+        Icon: path.resolve(__dirname, "./components/Icon/Icon.vue"),
+      }
+    })
   ]
   // Enable it with pwa
   // shouldPrefetch: false,

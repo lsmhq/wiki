@@ -19,6 +19,8 @@
     "vuepress-theme-hope": "2.0.0-beta.243"
   },
   "dependencies": {
+    "@vuepress/plugin-register-components": "2.0.0-beta.67",
+    "path": "^0.12.7",
     "vuepress-plugin-components": "2.0.0-beta.243"
   }
 }

@@ -27,7 +27,6 @@ timeline: true
 banner: /assets/background/1698762378210.jpg
 #---下方的为md正文内容
 ---
-
 ## 文章信息配置代码展示
 
 ```md
