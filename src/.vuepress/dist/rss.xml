@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Nov 2023 02:45:21 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 02:45:21 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 02:48:44 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 02:48:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>本地环境</category>
@@ -95,7 +95,7 @@
 <figure><img src="/assets/image/git/QQ截图20231103104328.png" alt="点击后，等待转圈圈，转完表示提交完毕" tabindex="0" loading="lazy"><figcaption>点击后，等待转圈圈，转完表示提交完毕</figcaption></figure>
 <ul>
 <li>
-<p>如果出现账密登录，使用注册的gitee账密登录</p>
+<p><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></p>
 </li>
 <li>
 <p>结束</p>
@@ -115,7 +115,7 @@
 <li>点击VScode 顶部菜单的 <mark>终端</mark> ，我们新建终端，并执行下方代码</li>
 </ul>
 <div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
-<li><mark>如果弹出了账密登录窗口，就填写Gitee的账密</mark></li>
+<li><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
@@ -238,6 +238,62 @@
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
     <item>
+      <title>练级指南</title>
+      <link>https://gitee.com/subata/deep/index1.html</link>
+      <guid>https://gitee.com/subata/deep/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏设置详解</title>
+      <link>https://gitee.com/subata/deep/index2.html</link>
+      <guid>https://gitee.com/subata/deep/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡牌描述详解</title>
+      <link>https://gitee.com/subata/deep/index3.html</link>
+      <guid>https://gitee.com/subata/deep/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>副本介绍</title>
+      <link>https://gitee.com/subata/deep/index4.html</link>
+      <guid>https://gitee.com/subata/deep/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队、公会与冒险小队</title>
+      <link>https://gitee.com/subata/deep/index5.html</link>
+      <guid>https://gitee.com/subata/deep/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>民间货币系统(激励宝藏卡与金币)</title>
+      <link>https://gitee.com/subata/deep/index6.html</link>
+      <guid>https://gitee.com/subata/deep/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>宠物指南</title>
+      <link>https://gitee.com/subata/deep/index7.html</link>
+      <guid>https://gitee.com/subata/deep/index7.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">宠物指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>毕业装备</title>
+      <link>https://gitee.com/subata/deep/index8.html</link>
+      <guid>https://gitee.com/subata/deep/index8.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
       <title>游戏背景介绍</title>
       <link>https://gitee.com/subata/base/index1.html</link>
       <guid>https://gitee.com/subata/base/index1.html</guid>
@@ -331,62 +387,6 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>练级指南</title>
-      <link>https://gitee.com/subata/deep/index1.html</link>
-      <guid>https://gitee.com/subata/deep/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏设置详解</title>
-      <link>https://gitee.com/subata/deep/index2.html</link>
-      <guid>https://gitee.com/subata/deep/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡牌描述详解</title>
-      <link>https://gitee.com/subata/deep/index3.html</link>
-      <guid>https://gitee.com/subata/deep/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>副本介绍</title>
-      <link>https://gitee.com/subata/deep/index4.html</link>
-      <guid>https://gitee.com/subata/deep/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队、公会与冒险小队</title>
-      <link>https://gitee.com/subata/deep/index5.html</link>
-      <guid>https://gitee.com/subata/deep/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>民间货币系统(激励宝藏卡与金币)</title>
-      <link>https://gitee.com/subata/deep/index6.html</link>
-      <guid>https://gitee.com/subata/deep/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>宠物指南</title>
-      <link>https://gitee.com/subata/deep/index7.html</link>
-      <guid>https://gitee.com/subata/deep/index7.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">宠物指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>毕业装备</title>
-      <link>https://gitee.com/subata/deep/index8.html</link>
-      <guid>https://gitee.com/subata/deep/index8.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>PVE普通副本</title>
       <link>https://gitee.com/subata/fight/index1.html</link>
       <guid>https://gitee.com/subata/fight/index1.html</guid>
@@ -429,20 +429,6 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>打造系统</title>
       <link>https://gitee.com/subata/manufacture/index1.html</link>
       <guid>https://gitee.com/subata/manufacture/index1.html</guid>
@@ -461,6 +447,20 @@
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
