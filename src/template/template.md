@@ -237,6 +237,8 @@ console.log(code)
 
 ![图片名称](/assets/background/1698762378175.jpg =200x300)
 
+![测试外部图片](http://45.93.31.145:226/down/zrERVHhPIAJq?fname=2023/07/1MG0RR8WS81UQ2F8RGE-150x150.png =150x150)
+
 ### 图片代码展示
 
 ::: tabs
