@@ -11,7 +11,7 @@ heroText: Subata
 tagline: 专注于游戏攻略和汉化
 actions:
   - text: 游戏攻略
-    link: ./main/index.html
+    link: ./main/index4.html
     type: primary
 
   - text: 下载启动器v2.1.3
