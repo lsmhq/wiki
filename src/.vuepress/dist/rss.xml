@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Nov 2023 02:54:20 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 02:54:20 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 03:13:06 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 03:13:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>本地环境</category>
@@ -53,7 +53,16 @@
 <li>之后弹出黑框框</li>
 <li>复制并执行下方命令</li>
 </ul>
-<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
+<h4> 获取clone地址</h4>
+<ul>
+<li>前往仓库地址</li>
+<li>点击如图中的按钮</li>
+</ul>
+<figure><img src="/assets/image/git/{B95465F8-3EC3-4d8f-8425-6FAC0EEE4B8F}.png" alt="点击克隆/下载，之后点击复制" tabindex="0" loading="lazy"><figcaption>点击克隆/下载，之后点击复制</figcaption></figure>
+<ul>
+<li>此时可以在命令行中进行地址粘贴</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
 <li>等待黑框框克隆完毕</li>
 <li>可以开始写作惹</li>
 </ul>
@@ -68,7 +77,7 @@
 <ul>
 <li>src 文件夹下的目录结构就对应了页面中侧边导航栏的结构</li>
 </ul>
-<h4> 如何找到自己想编辑页面对应的文件</h4>
+<h4> 如何找到自己想编辑页面对应的文件 </h4>
 <ul>
 <li>到网页中，我们可以点击文章底部的<mark>编辑按钮</mark>，将会跳转到</li>
 </ul>
@@ -79,7 +88,7 @@
 <h3> 如何进行书写？</h3>
 <p><a href="/subata/template/template.html" target="blank">书写方式请点击查看</a></p>
 <h3> 编辑完如何上传文件</h3>
-<h4> VScode 上传</h4>
+<h4> VScode 上传 <mark>本方法学会就不用往下看Git命令上传了</mark></h4>
 <ul>
 <li>
 </li>
@@ -238,6 +247,34 @@
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
     <item>
+      <title>每日/每周任务</title>
+      <link>https://gitee.com/subata/daily/index1.html</link>
+      <guid>https://gitee.com/subata/daily/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队志愿者</title>
+      <link>https://gitee.com/subata/daily/index2.html</link>
+      <guid>https://gitee.com/subata/daily/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>城堡游戏</title>
+      <link>https://gitee.com/subata/daily/index3.html</link>
+      <guid>https://gitee.com/subata/daily/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>小游戏</title>
+      <link>https://gitee.com/subata/daily/index4.html</link>
+      <guid>https://gitee.com/subata/daily/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
       <title>游戏背景介绍</title>
       <link>https://gitee.com/subata/base/index1.html</link>
       <guid>https://gitee.com/subata/base/index1.html</guid>
@@ -300,34 +337,6 @@
       <link>https://gitee.com/subata/base/index9.html</link>
       <guid>https://gitee.com/subata/base/index9.html</guid>
       <source url="https://gitee.com/subata/rss.xml">战斗基础</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日/每周任务</title>
-      <link>https://gitee.com/subata/daily/index1.html</link>
-      <guid>https://gitee.com/subata/daily/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队志愿者</title>
-      <link>https://gitee.com/subata/daily/index2.html</link>
-      <guid>https://gitee.com/subata/daily/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>城堡游戏</title>
-      <link>https://gitee.com/subata/daily/index3.html</link>
-      <guid>https://gitee.com/subata/daily/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>小游戏</title>
-      <link>https://gitee.com/subata/daily/index4.html</link>
-      <guid>https://gitee.com/subata/daily/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -429,6 +438,20 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
       <title>打造系统</title>
       <link>https://gitee.com/subata/manufacture/index1.html</link>
       <guid>https://gitee.com/subata/manufacture/index1.html</guid>
@@ -447,20 +470,6 @@
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
