@@ -6,19 +6,137 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Nov 2023 08:38:50 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2023 08:38:50 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 02:45:21 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 02:45:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>模板专属标签</category>
+    <category>本地环境</category>
+    <category>线上书写</category>
+    <category>模板专属分类</category>
     <category>使用指南</category>
+    <item>
+      <title>本地书写</title>
+      <link>https://gitee.com/subata/template/startLocal.html</link>
+      <guid>https://gitee.com/subata/template/startLocal.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">本地书写</source>
+      <description>如何在本地书写？</description>
+      <category>本地环境</category>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 基础</h2>
+<h3> 你需要准备</h3>
+<h4> Git安装方法 - 二选一</h4>
+<ul>
+<li>
+<p>点击下载 - <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a> </p>
+</li>
+<li>
+<p>cmd 运行下方命令</p>
+</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> VScode安装</h4>
+<ul>
+<li>点击下载进行安装 - <a href="https://code.visualstudio.com/Download" target="_blank" rel="noopener noreferrer">VScode</a></li>
+<li>下载完毕，运行下载好的可执行文件</li>
+<li>选择安装目录</li>
+<li>等待安装完毕</li>
+</ul>
+<h3> 配置git</h3>
+<h4> 首先准备一个Gitee账号，如果已有可跳过本步骤</h4>
+<ul>
+<li><a href="https://gitee.com/signup#lang=zh-CN" target="_blank" rel="noopener noreferrer">点击前往注册账号</a></li>
+</ul>
+<h4> 本地Git设置</h4>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h4> clone 仓库</h4>
+<ul>
+<li>我们找个想存放md文件的文件夹，位置随意，在文件夹中右键</li>
+<li>安装完git后鼠标<mark>右键菜单</mark>会出现相应的选项，我们选择  选项</li>
+<li>之后弹出黑框框</li>
+<li>复制并执行下方命令</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
+<li>等待黑框框克隆完毕</li>
+<li>可以开始写作惹</li>
+</ul>
+<h3> VScode操作</h3>
+<ul>
+<li>双击桌面VScode图标 打开VScode</li>
+<li>点击顶部菜单-文件-打开文件夹</li>
+<li>选择自己之前克隆文件的文件夹</li>
+<li>此时VScode中已经出现了文件目录结构</li>
+</ul>
+<figure><img src="/assets/image/{BDB35562-E1C4-4f71-826F-774CB7B6A9D0}.png" alt="目录结构" width="200" height="500" tabindex="0" loading="lazy"><figcaption>目录结构</figcaption></figure>
+<ul>
+<li>src 文件夹下的目录结构就对应了页面中侧边导航栏的结构</li>
+</ul>
+<h4> 如何找到自己想编辑页面对应的文件</h4>
+<ul>
+<li>到网页中，我们可以点击文章底部的<mark>编辑按钮</mark>，将会跳转到</li>
+</ul>
+<figure><img src="/assets/image/20231103101946.png" alt="编辑地址" tabindex="0" loading="lazy"><figcaption>编辑地址</figcaption></figure>
+<ul>
+<li>我们可以看到地址中也会有src，后面的路径就是对应的md文件</li>
+</ul>
+<h3> 如何进行书写？</h3>
+<p><a href="https://lsmhq.gitee.io/subata/template/template.html" target="_blank" rel="noopener noreferrer">书写方式请点击查看</a></p>
+<h3> 编辑完如何上传文件</h3>
+<h4> VScode 上传</h4>
+<ul>
+<li>
+</li>
+<li>
+<p>按下图步骤操作</p>
+</li>
+</ul>
+<figure><img src="/assets/image/git/{FE9C5A22-2116-4eba-9202-5466D4726075}.png" alt="点击左侧的源代码管理" tabindex="0" loading="lazy"><figcaption>点击左侧的源代码管理</figcaption></figure>
+<figure><img src="/assets/image/git/QQ截图20231103103528.png" alt="鼠标移动到更改，并点击+号" tabindex="0" loading="lazy"><figcaption>鼠标移动到更改，并点击+号</figcaption></figure>
+<figure><img src="/assets/image/git/QQ截图20231103103549.png" alt="此时变成这个样子" tabindex="0" loading="lazy"><figcaption>此时变成这个样子</figcaption></figure>
+<figure><img src="/assets/image/git/{BDAA45F8-223C-4d61-8682-4E29B1003536}.png" alt="我们再写上本次提交的日志，并点击大大的提交按钮" tabindex="0" loading="lazy"><figcaption>我们再写上本次提交的日志，并点击大大的提交按钮</figcaption></figure>
+<figure><img src="/assets/image/git/QQ截图20231103104113.png" alt="最后再推送到网上的gitee的仓库中" tabindex="0" loading="lazy"><figcaption>最后再推送到网上的gitee的仓库中</figcaption></figure>
+<figure><img src="/assets/image/git/QQ截图20231103104328.png" alt="点击后，等待转圈圈，转完表示提交完毕" tabindex="0" loading="lazy"><figcaption>点击后，等待转圈圈，转完表示提交完毕</figcaption></figure>
+<ul>
+<li>
+<p>如果出现账密登录，使用注册的gitee账密登录</p>
+</li>
+<li>
+<p>结束</p>
+</li>
+</ul>
+<h4> Git命令</h4>
+<h5> 方法一</h5>
+<ul>
+<li>在VScode中，<mark>右击</mark>左侧目录中的<mark>src</mark>，会弹出菜单，我们点击<mark>在文件资源管理器中显示</mark></li>
+<li>此时会弹出一个文件管理器</li>
+<li>位置刚好是克隆文件的文件夹</li>
+<li>我们在文件夹空白位置右键，选择Git Bash Here</li>
+<li>弹出了黑框框,执行下方命令</li>
+</ul>
+<h5> 方法二</h5>
+<ul>
+<li>点击VScode 顶部菜单的 <mark>终端</mark> ，我们新建终端，并执行下方代码</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
+<li><mark>如果弹出了账密登录窗口，就填写Gitee的账密</mark></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>模板汇总</title>
+      <link>https://gitee.com/subata/template/startOnline.html</link>
+      <guid>https://gitee.com/subata/template/startOnline.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">模板汇总</source>
+      <description>如何在线上书写？</description>
+      <category>线上书写</category>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>模板汇总</title>
       <link>https://gitee.com/subata/template/template.html</link>
       <guid>https://gitee.com/subata/template/template.html</guid>
       <source url="https://gitee.com/subata/rss.xml">模板汇总</source>
       <description>模板描述</description>
-      <category>模板专属标签</category>
+      <category>模板专属分类</category>
       <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2> 文章信息配置代码展示</h2>
 <div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><!-- 一级标题 -->
@@ -185,45 +303,31 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE普通副本</title>
-      <link>https://gitee.com/subata/fight/index1.html</link>
-      <guid>https://gitee.com/subata/fight/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
+      <title>每日/每周任务</title>
+      <link>https://gitee.com/subata/daily/index1.html</link>
+      <guid>https://gitee.com/subata/daily/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE金钥匙副本</title>
-      <link>https://gitee.com/subata/fight/index2.html</link>
-      <guid>https://gitee.com/subata/fight/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
+      <title>组队志愿者</title>
+      <link>https://gitee.com/subata/daily/index2.html</link>
+      <guid>https://gitee.com/subata/daily/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVE困难副本</title>
-      <link>https://gitee.com/subata/fight/index3.html</link>
-      <guid>https://gitee.com/subata/fight/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
+      <title>城堡游戏</title>
+      <link>https://gitee.com/subata/daily/index3.html</link>
+      <guid>https://gitee.com/subata/daily/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>PVP玩家对战</title>
-      <link>https://gitee.com/subata/fight/index4.html</link>
-      <guid>https://gitee.com/subata/fight/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>家园副本/首领重赛</title>
-      <link>https://gitee.com/subata/fight/index5.html</link>
-      <guid>https://gitee.com/subata/fight/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队副本</title>
-      <link>https://gitee.com/subata/fight/index6.html</link>
-      <guid>https://gitee.com/subata/fight/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
+      <title>小游戏</title>
+      <link>https://gitee.com/subata/daily/index4.html</link>
+      <guid>https://gitee.com/subata/daily/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -283,31 +387,59 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>每日/每周任务</title>
-      <link>https://gitee.com/subata/daily/index1.html</link>
-      <guid>https://gitee.com/subata/daily/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
+      <title>PVE普通副本</title>
+      <link>https://gitee.com/subata/fight/index1.html</link>
+      <guid>https://gitee.com/subata/fight/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>组队志愿者</title>
-      <link>https://gitee.com/subata/daily/index2.html</link>
-      <guid>https://gitee.com/subata/daily/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
+      <title>PVE金钥匙副本</title>
+      <link>https://gitee.com/subata/fight/index2.html</link>
+      <guid>https://gitee.com/subata/fight/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>城堡游戏</title>
-      <link>https://gitee.com/subata/daily/index3.html</link>
-      <guid>https://gitee.com/subata/daily/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
+      <title>PVE困难副本</title>
+      <link>https://gitee.com/subata/fight/index3.html</link>
+      <guid>https://gitee.com/subata/fight/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>小游戏</title>
-      <link>https://gitee.com/subata/daily/index4.html</link>
-      <guid>https://gitee.com/subata/daily/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
+      <title>PVP玩家对战</title>
+      <link>https://gitee.com/subata/fight/index4.html</link>
+      <guid>https://gitee.com/subata/fight/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>家园副本/首领重赛</title>
+      <link>https://gitee.com/subata/fight/index5.html</link>
+      <guid>https://gitee.com/subata/fight/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>团队副本</title>
+      <link>https://gitee.com/subata/fight/index6.html</link>
+      <guid>https://gitee.com/subata/fight/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -329,20 +461,6 @@
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
