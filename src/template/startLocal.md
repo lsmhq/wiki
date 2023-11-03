@@ -131,7 +131,7 @@ git clone https://gitee.com/lsmhq/subata.git
 
 ![点击后，等待转圈圈，转完表示提交完毕](/assets/image/git/QQ截图20231103104328.png)
 
-- 如果出现账密登录，使用注册的gitee账密登录
+- ==如果出现账密登录窗口，不要慌，使用注册的gitee账密登录==
 
 - 结束
 
@@ -161,4 +161,4 @@ git push -u origin v-wiki
 
 ```
 
-- ==如果弹出了账密登录窗口，就填写Gitee的账密==
+- ==如果出现账密登录窗口，不要慌，使用注册的gitee账密登录==
