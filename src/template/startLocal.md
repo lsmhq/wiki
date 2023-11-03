@@ -78,9 +78,19 @@ git config --global user.email "your_email@example.com-自己的邮箱"
 - 之后弹出黑框框
 - 复制并执行下方命令
 
+#### 获取clone地址
+
+- 前往仓库地址
+- 点击如图中的按钮
+
+![点击克隆/下载，之后点击复制](/assets/image/git/{B95465F8-3EC3-4d8f-8425-6FAC0EEE4B8F}.png)
+
+- 此时可以在命令行中进行地址粘贴
+
 ```sh
 
 # 开始克隆
+# git clone 后面跟着复制好的地址
 git clone https://gitee.com/lsmhq/subata.git
 
 ```
@@ -99,7 +109,7 @@ git clone https://gitee.com/lsmhq/subata.git
 
 - src 文件夹下的目录结构就对应了页面中侧边导航栏的结构
 
-#### 如何找到自己想编辑页面对应的文件
+#### 如何找到自己想编辑页面对应的文件 <Badge>适用于wiki编写</Badge>
 
 - 到网页中，我们可以点击文章底部的==编辑按钮==，将会跳转到
 
@@ -113,7 +123,7 @@ git clone https://gitee.com/lsmhq/subata.git
 
 ### 编辑完如何上传文件
 
-#### VScode 上传
+#### VScode 上传 ==本方法学会就不用往下看Git命令上传了==
 
 - <Badge>推荐操作</Badge>
 
