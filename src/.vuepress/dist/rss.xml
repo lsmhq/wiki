@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 03 Nov 2023 02:48:44 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 02:48:44 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 02:54:20 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 02:54:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>本地环境</category>
@@ -77,7 +77,7 @@
 <li>我们可以看到地址中也会有src，后面的路径就是对应的md文件</li>
 </ul>
 <h3> 如何进行书写？</h3>
-<p><a href="https://lsmhq.gitee.io/subata/template/template.html" target="_blank" rel="noopener noreferrer">书写方式请点击查看</a></p>
+<p><a href="/subata/template/template.html" target="blank">书写方式请点击查看</a></p>
 <h3> 编辑完如何上传文件</h3>
 <h4> VScode 上传</h4>
 <ul>
@@ -238,62 +238,6 @@
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>练级指南</title>
-      <link>https://gitee.com/subata/deep/index1.html</link>
-      <guid>https://gitee.com/subata/deep/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏设置详解</title>
-      <link>https://gitee.com/subata/deep/index2.html</link>
-      <guid>https://gitee.com/subata/deep/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡牌描述详解</title>
-      <link>https://gitee.com/subata/deep/index3.html</link>
-      <guid>https://gitee.com/subata/deep/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>副本介绍</title>
-      <link>https://gitee.com/subata/deep/index4.html</link>
-      <guid>https://gitee.com/subata/deep/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队、公会与冒险小队</title>
-      <link>https://gitee.com/subata/deep/index5.html</link>
-      <guid>https://gitee.com/subata/deep/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>民间货币系统(激励宝藏卡与金币)</title>
-      <link>https://gitee.com/subata/deep/index6.html</link>
-      <guid>https://gitee.com/subata/deep/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>宠物指南</title>
-      <link>https://gitee.com/subata/deep/index7.html</link>
-      <guid>https://gitee.com/subata/deep/index7.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">宠物指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>毕业装备</title>
-      <link>https://gitee.com/subata/deep/index8.html</link>
-      <guid>https://gitee.com/subata/deep/index8.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>游戏背景介绍</title>
       <link>https://gitee.com/subata/base/index1.html</link>
       <guid>https://gitee.com/subata/base/index1.html</guid>
@@ -426,6 +370,62 @@
       <link>https://gitee.com/subata/fight/index6.html</link>
       <guid>https://gitee.com/subata/fight/index6.html</guid>
       <source url="https://gitee.com/subata/rss.xml">团队副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>练级指南</title>
+      <link>https://gitee.com/subata/deep/index1.html</link>
+      <guid>https://gitee.com/subata/deep/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏设置详解</title>
+      <link>https://gitee.com/subata/deep/index2.html</link>
+      <guid>https://gitee.com/subata/deep/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡牌描述详解</title>
+      <link>https://gitee.com/subata/deep/index3.html</link>
+      <guid>https://gitee.com/subata/deep/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>副本介绍</title>
+      <link>https://gitee.com/subata/deep/index4.html</link>
+      <guid>https://gitee.com/subata/deep/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队、公会与冒险小队</title>
+      <link>https://gitee.com/subata/deep/index5.html</link>
+      <guid>https://gitee.com/subata/deep/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>民间货币系统(激励宝藏卡与金币)</title>
+      <link>https://gitee.com/subata/deep/index6.html</link>
+      <guid>https://gitee.com/subata/deep/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>宠物指南</title>
+      <link>https://gitee.com/subata/deep/index7.html</link>
+      <guid>https://gitee.com/subata/deep/index7.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">宠物指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>毕业装备</title>
+      <link>https://gitee.com/subata/deep/index8.html</link>
+      <guid>https://gitee.com/subata/deep/index8.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>

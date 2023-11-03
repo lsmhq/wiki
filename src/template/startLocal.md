@@ -109,7 +109,7 @@ git clone https://gitee.com/lsmhq/subata.git
 
 ### 如何进行书写？
 
-[书写方式请点击查看](https://lsmhq.gitee.io/subata/template/template.html)
+[书写方式请点击查看](/subata/template/template.html)
 
 ### 编辑完如何上传文件
 
