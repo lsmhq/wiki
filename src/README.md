@@ -46,47 +46,47 @@ highlights:
       - title: 入坑准备
         icon: clipboard-check
         # details: 描述
-        link: /main
+        link: /main/index4.html
 
       - title: 新人基础指南
         icon: box-archive
         # details: 描述
-        link: /base
+        link: /base/index1.html
 
       - title: 深入游戏指南
         icon: table-columns
         # details: 描述
-        link: /deep
+        link: /deep/index1.html
 
       - title: 常用工具
         icon: code
         # details: 描述
-        link: /tools
+        link: /tools/index1.html
 
       - title: 日常休闲
         icon: align-center
         # details: 描述
-        link: /daily
+        link: /daily/index1.html
 
       - title: 战斗玩法
         icon: code
         # details: 描述
-        link: /fight
+        link: /fight/index1.html
 
       - title: 特殊玩法(轮换周常)
         icon: superscript
         # details: 描述
-        link: /special
+        link: /special/index1.html
 
       - title: 生产采集
         icon: quote-left
         # details: 描述
-        link: /manufacture
+        link: /manufacture/index1.html
 
       - title: 其他
         icon: highlighter
         # details: 描述
-        link: /other
+        link: /other/index1.html
 
 copyright: Subata
 footer: 
