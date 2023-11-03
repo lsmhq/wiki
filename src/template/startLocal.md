@@ -115,6 +115,8 @@ git clone https://gitee.com/lsmhq/subata.git
 
 #### VScode 上传
 
+- <Badge>推荐操作</Badge>
+
 - 按下图步骤操作
 
 ![点击左侧的源代码管理](/assets/image/git/{FE9C5A22-2116-4eba-9202-5466D4726075}.png)
@@ -124,6 +126,13 @@ git clone https://gitee.com/lsmhq/subata.git
 ![此时变成这个样子](/assets/image/git/QQ截图20231103103549.png)
 
 ![我们再写上本次提交的日志，并点击大大的提交按钮](/assets/image/git/{BDAA45F8-223C-4d61-8682-4E29B1003536}.png)
+
+![最后再推送到网上的gitee的仓库中](/assets/image/git/QQ截图20231103104113.png)
+
+- 如果出现账密登录，使用注册的gitee账密登录
+
+- 结束
+
 #### Git命令
 
 ##### 方法一
