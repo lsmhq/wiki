@@ -129,6 +129,8 @@ git clone https://gitee.com/lsmhq/subata.git
 
 ![最后再推送到网上的gitee的仓库中](/assets/image/git/QQ截图20231103104113.png)
 
+![点击后，等待转圈圈，转完表示提交完毕](/assets/image/git/QQ截图20231103104328.png)
+
 - 如果出现账密登录，使用注册的gitee账密登录
 
 - 结束
