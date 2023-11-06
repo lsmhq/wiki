@@ -7,14 +7,68 @@
   "favicon": "https://gitee.com/subata/assets/logo.ico",
   "items": [
     {
+      "title": "克隆",
+      "url": "https://gitee.com/subata/template/clone.html",
+      "id": "https://gitee.com/subata/template/clone.html",
+      "summary": "克隆仓库",
+      "content_html": "<h3> clone 仓库</h3>\n<ul>\n<li>我们找个想存放md文件的文件夹，位置随意，在文件夹中右键</li>\n<li>安装完git后鼠标<mark>右键菜单</mark>会出现相应的选项，我们选择  选项</li>\n<li>之后弹出黑框框</li>\n<li>复制并执行下方命令</li>\n</ul>\n<h3> 获取clone地址</h3>\n<ul>\n<li>前往仓库地址</li>\n<li>点击如图中的按钮</li>\n</ul>\n<figure><img src=\"/assets/image/git/{B95465F8-3EC3-4d8f-8425-6FAC0EEE4B8F}.png\" alt=\"点击克隆/下载，之后点击复制\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击克隆/下载，之后点击复制</figcaption></figure>\n<ul>\n<li>此时可以在命令行中进行地址粘贴</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><ul>\n<li>等待黑框框克隆完毕</li>\n</ul>\n",
+      "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
+      "date_published": "2023-11-06T00:00:00.000Z",
+      "date_modified": "2023-11-06T08:44:59.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": [
+        "克隆仓库"
+      ]
+    },
+    {
+      "title": "上传文件",
+      "url": "https://gitee.com/subata/template/push.html",
+      "id": "https://gitee.com/subata/template/push.html",
+      "summary": "如何上传文件？",
+      "content_html": "<h3> 编辑完如何上传文件</h3>\n<h4> VScode 上传 <mark>本方法学会就不用往下看Git命令上传了</mark></h4>\n<ul>\n<li>\n</li>\n<li>\n<p>按下图步骤操作</p>\n</li>\n</ul>\n<figure><img src=\"/assets/image/git/{FE9C5A22-2116-4eba-9202-5466D4726075}.png\" alt=\"点击左侧的源代码管理\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击左侧的源代码管理</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103103528.png\" alt=\"鼠标移动到更改，并点击+号\" tabindex=\"0\" loading=\"lazy\"><figcaption>鼠标移动到更改，并点击+号</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103103549.png\" alt=\"此时变成这个样子\" tabindex=\"0\" loading=\"lazy\"><figcaption>此时变成这个样子</figcaption></figure>\n<figure><img src=\"/assets/image/git/{BDAA45F8-223C-4d61-8682-4E29B1003536}.png\" alt=\"我们再写上本次提交的日志，并点击大大的提交按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>我们再写上本次提交的日志，并点击大大的提交按钮</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103104113.png\" alt=\"最后再推送到网上的gitee的仓库中\" tabindex=\"0\" loading=\"lazy\"><figcaption>最后再推送到网上的gitee的仓库中</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103104328.png\" alt=\"点击后，等待转圈圈，转完表示提交完毕\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击后，等待转圈圈，转完表示提交完毕</figcaption></figure>\n<ul>\n<li>\n<p><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></p>\n</li>\n<li>\n<p>结束</p>\n</li>\n</ul>\n<h4> Git命令 - <mark>会使用Vscode不必看本方法</mark></h4>\n<h5> 方法一</h5>\n<ul>\n<li>在VScode中，<mark>右击</mark>左侧目录中的<mark>src</mark>，会弹出菜单，我们点击<mark>在文件资源管理器中显示</mark></li>\n<li>此时会弹出一个文件管理器</li>\n<li>位置刚好是克隆文件的文件夹</li>\n<li>我们在文件夹空白位置右键，选择Git Bash Here</li>\n<li>弹出了黑框框,执行下方命令</li>\n</ul>\n<h5> 方法二</h5>\n<ul>\n<li>点击VScode 顶部菜单的 <mark>终端</mark> ，我们新建终端，并执行下方代码</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><ul>\n<li><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></li>\n</ul>\n",
+      "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
+      "date_published": "2023-11-06T00:00:00.000Z",
+      "date_modified": "2023-11-06T08:44:59.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": [
+        "Git上传文件"
+      ]
+    },
+    {
+      "title": "准备",
+      "url": "https://gitee.com/subata/template/start.html",
+      "id": "https://gitee.com/subata/template/start.html",
+      "summary": "准备工作",
+      "content_html": "<h3> 你需要准备</h3>\n<h4> Git安装方法 - 二选一</h4>\n<ul>\n<li>\n<p><mark>方法一：</mark> <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noopener noreferrer\">点击下载 - Git</a> </p>\n</li>\n<li>\n<p><mark>方法二：</mark> cmd 运行下方命令</p>\n</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h4> VScode安装</h4>\n<ul>\n<li>点击下载进行安装 - <a href=\"https://code.visualstudio.com/Download\" target=\"_blank\" rel=\"noopener noreferrer\">VScode</a></li>\n<li>下载完毕，运行下载好的可执行文件</li>\n<li>选择安装目录</li>\n<li>等待安装完毕</li>\n</ul>\n<h3> 配置git</h3>\n<h4> 首先准备一个Gitee账号，如果已有可跳过本步骤</h4>\n<ul>\n<li><a href=\"https://gitee.com/signup#lang=zh-CN\" target=\"_blank\" rel=\"noopener noreferrer\">点击前往注册账号</a></li>\n</ul>\n<h4> 本地Git设置</h4>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
+      "date_published": "2023-11-06T00:00:00.000Z",
+      "date_modified": "2023-11-06T08:44:59.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": [
+        "准备工作"
+      ]
+    },
+    {
       "title": "本地书写",
-      "url": "https://gitee.com/subata/template/startLocal.html",
-      "id": "https://gitee.com/subata/template/startLocal.html",
+      "url": "https://gitee.com/subata/template/vsc.html",
+      "id": "https://gitee.com/subata/template/vsc.html",
       "summary": "如何在本地书写？",
-      "content_html": "<h2> 基础</h2>\n<h3> 你需要准备</h3>\n<h4> Git安装方法 - 二选一</h4>\n<ul>\n<li>\n<p>点击下载 - <a href=\"https://git-scm.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Git</a> </p>\n</li>\n<li>\n<p>cmd 运行下方命令</p>\n</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h4> VScode安装</h4>\n<ul>\n<li>点击下载进行安装 - <a href=\"https://code.visualstudio.com/Download\" target=\"_blank\" rel=\"noopener noreferrer\">VScode</a></li>\n<li>下载完毕，运行下载好的可执行文件</li>\n<li>选择安装目录</li>\n<li>等待安装完毕</li>\n</ul>\n<h3> 配置git</h3>\n<h4> 首先准备一个Gitee账号，如果已有可跳过本步骤</h4>\n<ul>\n<li><a href=\"https://gitee.com/signup#lang=zh-CN\" target=\"_blank\" rel=\"noopener noreferrer\">点击前往注册账号</a></li>\n</ul>\n<h4> 本地Git设置</h4>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h4> clone 仓库</h4>\n<ul>\n<li>我们找个想存放md文件的文件夹，位置随意，在文件夹中右键</li>\n<li>安装完git后鼠标<mark>右键菜单</mark>会出现相应的选项，我们选择  选项</li>\n<li>之后弹出黑框框</li>\n<li>复制并执行下方命令</li>\n</ul>\n<h4> 获取clone地址</h4>\n<ul>\n<li>前往仓库地址</li>\n<li>点击如图中的按钮</li>\n</ul>\n<figure><img src=\"/assets/image/git/{B95465F8-3EC3-4d8f-8425-6FAC0EEE4B8F}.png\" alt=\"点击克隆/下载，之后点击复制\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击克隆/下载，之后点击复制</figcaption></figure>\n<ul>\n<li>此时可以在命令行中进行地址粘贴</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><ul>\n<li>等待黑框框克隆完毕</li>\n<li>可以开始写作惹</li>\n</ul>\n<h3> VScode操作</h3>\n<ul>\n<li>双击桌面VScode图标 打开VScode</li>\n<li>点击顶部菜单-文件-打开文件夹</li>\n<li>选择自己之前克隆文件的文件夹</li>\n<li>此时VScode中已经出现了文件目录结构</li>\n</ul>\n<figure><img src=\"/assets/image/{BDB35562-E1C4-4f71-826F-774CB7B6A9D0}.png\" alt=\"目录结构\" width=\"200\" height=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>目录结构</figcaption></figure>\n<ul>\n<li>src 文件夹下的目录结构就对应了页面中侧边导航栏的结构</li>\n</ul>\n<h4> 如何找到自己想编辑页面对应的文件 </h4>\n<ul>\n<li>到网页中，我们可以点击文章底部的<mark>编辑按钮</mark>，将会跳转到</li>\n</ul>\n<figure><img src=\"/assets/image/20231103101946.png\" alt=\"编辑地址\" tabindex=\"0\" loading=\"lazy\"><figcaption>编辑地址</figcaption></figure>\n<ul>\n<li>我们可以看到地址中也会有src，后面的路径就是对应的md文件</li>\n</ul>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n<h3> 编辑完如何上传文件</h3>\n<h4> VScode 上传 <mark>本方法学会就不用往下看Git命令上传了</mark></h4>\n<ul>\n<li>\n</li>\n<li>\n<p>按下图步骤操作</p>\n</li>\n</ul>\n<figure><img src=\"/assets/image/git/{FE9C5A22-2116-4eba-9202-5466D4726075}.png\" alt=\"点击左侧的源代码管理\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击左侧的源代码管理</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103103528.png\" alt=\"鼠标移动到更改，并点击+号\" tabindex=\"0\" loading=\"lazy\"><figcaption>鼠标移动到更改，并点击+号</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103103549.png\" alt=\"此时变成这个样子\" tabindex=\"0\" loading=\"lazy\"><figcaption>此时变成这个样子</figcaption></figure>\n<figure><img src=\"/assets/image/git/{BDAA45F8-223C-4d61-8682-4E29B1003536}.png\" alt=\"我们再写上本次提交的日志，并点击大大的提交按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>我们再写上本次提交的日志，并点击大大的提交按钮</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103104113.png\" alt=\"最后再推送到网上的gitee的仓库中\" tabindex=\"0\" loading=\"lazy\"><figcaption>最后再推送到网上的gitee的仓库中</figcaption></figure>\n<figure><img src=\"/assets/image/git/QQ截图20231103104328.png\" alt=\"点击后，等待转圈圈，转完表示提交完毕\" tabindex=\"0\" loading=\"lazy\"><figcaption>点击后，等待转圈圈，转完表示提交完毕</figcaption></figure>\n<ul>\n<li>\n<p><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></p>\n</li>\n<li>\n<p>结束</p>\n</li>\n</ul>\n<h4> Git命令</h4>\n<h5> 方法一</h5>\n<ul>\n<li>在VScode中，<mark>右击</mark>左侧目录中的<mark>src</mark>，会弹出菜单，我们点击<mark>在文件资源管理器中显示</mark></li>\n<li>此时会弹出一个文件管理器</li>\n<li>位置刚好是克隆文件的文件夹</li>\n<li>我们在文件夹空白位置右键，选择Git Bash Here</li>\n<li>弹出了黑框框,执行下方命令</li>\n</ul>\n<h5> 方法二</h5>\n<ul>\n<li>点击VScode 顶部菜单的 <mark>终端</mark> ，我们新建终端，并执行下方代码</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><ul>\n<li><mark>如果出现账密登录窗口，不要慌，使用注册的gitee账密登录</mark></li>\n</ul>\n",
+      "content_html": "<h3> VScode操作</h3>\n<ul>\n<li>双击桌面VScode图标 打开VScode</li>\n<li>点击顶部菜单-文件-打开文件夹</li>\n<li>选择自己之前克隆文件的文件夹</li>\n<li>此时VScode中已经出现了文件目录结构</li>\n</ul>\n<figure><img src=\"/assets/image/{BDB35562-E1C4-4f71-826F-774CB7B6A9D0}.png\" alt=\"目录结构\" width=\"200\" height=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>目录结构</figcaption></figure>\n<ul>\n<li>src 文件夹下的目录结构就对应了页面中侧边导航栏的结构</li>\n</ul>\n<h4> 如何找到自己想编辑页面对应的文件 </h4>\n<ul>\n<li>到网页中，我们可以点击文章底部的<mark>编辑按钮</mark>，将会跳转到</li>\n</ul>\n<figure><img src=\"/assets/image/20231103101946.png\" alt=\"编辑地址\" tabindex=\"0\" loading=\"lazy\"><figcaption>编辑地址</figcaption></figure>\n<ul>\n<li>我们可以看到地址中也会有src，后面的路径就是对应的md文件</li>\n</ul>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n",
       "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
       "date_published": "2023-11-01T00:00:00.000Z",
-      "date_modified": "2023-11-03T03:12:41.000Z",
+      "date_modified": "2023-11-06T08:44:59.000Z",
       "authors": [
         {
           "name": "蓝色灭火器"
@@ -25,14 +79,14 @@
       ]
     },
     {
-      "title": "模板汇总",
+      "title": "线上书写",
       "url": "https://gitee.com/subata/template/startOnline.html",
       "id": "https://gitee.com/subata/template/startOnline.html",
       "summary": "如何在线上书写？",
-      "content_html": "",
+      "content_html": "<h3> 如何直接线上书写？</h3>\n<p>很简单</p>\n<p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n",
       "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
-      "date_published": "2023-11-01T00:00:00.000Z",
-      "date_modified": "2023-11-03T02:41:04.000Z",
+      "date_published": "2023-11-06T00:00:00.000Z",
+      "date_modified": "2023-11-06T08:44:59.000Z",
       "authors": [
         {
           "name": "蓝色灭火器"
@@ -191,66 +245,6 @@
       "tags": []
     },
     {
-      "title": "PVE普通副本",
-      "url": "https://gitee.com/subata/fight/index1.html",
-      "id": "https://gitee.com/subata/fight/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVE金钥匙副本",
-      "url": "https://gitee.com/subata/fight/index2.html",
-      "id": "https://gitee.com/subata/fight/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVE困难副本",
-      "url": "https://gitee.com/subata/fight/index3.html",
-      "id": "https://gitee.com/subata/fight/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVP玩家对战",
-      "url": "https://gitee.com/subata/fight/index4.html",
-      "id": "https://gitee.com/subata/fight/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "家园副本/首领重赛",
-      "url": "https://gitee.com/subata/fight/index5.html",
-      "id": "https://gitee.com/subata/fight/index5.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "团队副本",
-      "url": "https://gitee.com/subata/fight/index6.html",
-      "id": "https://gitee.com/subata/fight/index6.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "练级指南",
       "url": "https://gitee.com/subata/deep/index1.html",
       "id": "https://gitee.com/subata/deep/index1.html",
@@ -324,6 +318,66 @@
       "title": "毕业装备",
       "url": "https://gitee.com/subata/deep/index8.html",
       "id": "https://gitee.com/subata/deep/index8.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE普通副本",
+      "url": "https://gitee.com/subata/fight/index1.html",
+      "id": "https://gitee.com/subata/fight/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE金钥匙副本",
+      "url": "https://gitee.com/subata/fight/index2.html",
+      "id": "https://gitee.com/subata/fight/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE困难副本",
+      "url": "https://gitee.com/subata/fight/index3.html",
+      "id": "https://gitee.com/subata/fight/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVP玩家对战",
+      "url": "https://gitee.com/subata/fight/index4.html",
+      "id": "https://gitee.com/subata/fight/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "家园副本/首领重赛",
+      "url": "https://gitee.com/subata/fight/index5.html",
+      "id": "https://gitee.com/subata/fight/index5.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "团队副本",
+      "url": "https://gitee.com/subata/fight/index6.html",
+      "id": "https://gitee.com/subata/fight/index6.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
