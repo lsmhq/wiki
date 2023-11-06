@@ -3,15 +3,9 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "原初模板",
-      icon: "home",
-      prefix: "template/",
-      children: 'structure',
-      collapsible: true
-    },{
       text: "入坑准备",
       icon: "laptop-code",
-      prefix: "main/",
+      prefix: "main",
       children: 'structure',
       collapsible: true
     },{
@@ -64,4 +58,39 @@ export default sidebar({
       collapsible: true
     }
   ],
+  '/template/':[
+    {
+      text: "原初模板",
+      icon: "home",
+      prefix: "template/",
+      children: [
+        {
+          text: '准备',
+          link: '/template/start.md',
+          icon: 'hand'
+        },{
+          text: 'Clone 仓库',
+          link: '/template/clone.md',
+          icon: 'book'
+        },{
+          text: 'Vscode 书写',
+          link: '/template/vsc.md',
+          icon: 'pen'
+        },{
+          text: '上传文件',
+          link: '/template/push.md',
+          icon: 'upload'
+        },{
+          text: '线上书写可跳过以上所有步骤',
+          link: '/template/startOnline.md',
+          icon: 'cat'
+        }
+      ],
+      collapsible: true
+    },{
+      text: '书写语法介绍',
+      link: '/template/template.md',
+      icon: 'code'
+    }
+  ]
 });

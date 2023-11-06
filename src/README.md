@@ -14,6 +14,10 @@ actions:
     link: ./main/index4.html
     type: primary
 
+  - text: 如何成为创作者?
+    link: ./template/start.md
+    type: primary
+
   - text: 下载启动器v2.1.3
     type: default
     link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe

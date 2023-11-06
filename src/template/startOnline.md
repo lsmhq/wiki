@@ -1,6 +1,6 @@
 ---
 # 标题-sideBar在shortTitle不设置时使用title的文本
-title: 模板汇总
+title: 线上书写
 # sideBar标题
 shortTitle: 如何在线上书写？
 # 描述
@@ -18,7 +18,7 @@ icon: book
 # 是否原创文章
 isOriginal: true
 # 写作时间
-date: 2023-11-01
+date: 2023-11-06
 # 置顶-数字越大越靠上
 sticky: 9
 # 时间线
@@ -27,3 +27,13 @@ timeline: true
 banner: /assets/background/1698762378210.jpg
 #---下方的为md正文内容
 ---
+
+### 如何直接线上书写？
+
+很简单
+
+每个页面对应仓库中一个md文件，只需要点击每页最下方的<Badge type="success">编辑此页</Badge>按钮即可进行书写
+
+### 如何进行书写？
+
+[书写方式请点击查看](/subata/template/template.html)
