@@ -45,6 +45,7 @@ export default defineUserConfig({
         Icon: path.resolve(__dirname, "./components/Icon/index.vue"),
         Button: path.resolve(__dirname, "./components/Button/index.vue"),
         Card: path.resolve(__dirname, "./components/Card/index.vue"),
+        Canculate: path.resolve(__dirname, "./components/canculate/index.vue"),
       }
     })
   ]
