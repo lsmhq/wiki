@@ -10,7 +10,9 @@ export default hopeTheme({
     name: "lsmhq",
     url: "https://subata.top",
   },
-  
+
+  docsBranch: 'v-wiki',
+
   themeColor: true,
 
   fullscreen: true,
@@ -22,8 +24,6 @@ export default hopeTheme({
   docsDir: "src",
 
   docsRepo: 'https://gitee.com/lsmhq/subata',
-
-  docsBranch: 'v-wiki',
   
   // navbar
   navbar,
