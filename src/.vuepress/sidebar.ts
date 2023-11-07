@@ -4,56 +4,56 @@ export default sidebar({
   "/": [
     {
       text: "入坑准备",
-      icon: "laptop-code",
+      icon: "star",
       prefix: "main",
       children: 'structure',
       collapsible: true
     },{
       text: "新人基础指南",
-      icon: "laptop-code",
-      prefix: "base/",
+      icon: "book",
+      prefix: "base",
       children: 'structure',
       collapsible: true
     },{
       text: "深入游戏指南",
-      icon: "laptop-code",
-      prefix: "deep/",
+      icon: "plane",
+      prefix: "deep",
       children: 'structure',
       collapsible: true
     },{
       text: "常用工具",
-      icon: "laptop-code",
-      prefix: "tools/",
+      icon: "tools",
+      prefix: "tools",
       children: 'structure',
       collapsible: true
     },{
       text: "日常休闲",
-      icon: "laptop-code",
-      prefix: "daily/",
+      icon: "sun",
+      prefix: "daily",
       children: 'structure',
       collapsible: true
     },{
       text: "战斗玩法",
-      icon: "laptop-code",
-      prefix: "fight/",
+      icon: "gun",
+      prefix: "fight",
       children: 'structure',
       collapsible: true
     },{
       text: "特殊玩法(轮换周常)",
-      icon: "laptop-code",
-      prefix: "special/",
+      icon: "play",
+      prefix: "special",
       children: 'structure',
       collapsible: true
     },{
       text: "生产采集",
-      icon: "laptop-code",
-      prefix: "manufacture/",
+      icon: "hammer",
+      prefix: "manufacture",
       children: 'structure',
       collapsible: true
     },{
       text: "其他游戏系统",
-      icon: "laptop-code",
-      prefix: "other/",
+      icon: "child",
+      prefix: "other",
       children: 'structure',
       collapsible: true
     }
@@ -91,6 +91,10 @@ export default sidebar({
       text: '书写语法介绍',
       link: '/template/template.md',
       icon: 'code'
+    },{
+      text: '原则',
+      link: '/template/rules.md',
+      icon: 'heart'
     }
   ]
 });
