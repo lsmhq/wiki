@@ -55,7 +55,7 @@ Steam服下载的客户端无法登录官网服账号，官网服下载的客户
 
 ### 官网服注册流程
 
-是直接在Wizard101的**官网**（[https://www.wizard101.com/game](https://www.wizard101.com/game)）**进行注册**。（提示：进入官网**需要加速器**——如何获得和使用加速器此篇**后文会提及**噢）**注册后**会提示可以**进行客户端下载**。下载后**登陆账号**即可进入游戏。
+是直接在（[Wizard101的**官网**](https://www.wizard101.com/game)）**进行注册**。（提示：进入官网**需要加速器**——如何获得和使用加速器此篇**后文会提及**噢）**注册后**会提示可以**进行客户端下载**。下载后**登陆账号**即可进入游戏。
 
 ![](/images/signup_official.png)
 
@@ -71,11 +71,11 @@ Steam版账号注册地址：[steam版账号游戏注册（美服）](https://ww
 
 ![](/images/signup.png)
 
-## **汉化补丁**相关
+<!-- ## **汉化补丁**相关 -->
 
-<https://subata.top/index.php/2022/09/16/startgame/>
+<!-- <https://subata.top/index.php/2022/09/16/startgame/> -->
 
-请移步这篇帖子
+<!-- 请移步这篇帖子 -->
 
 ## **登陆不上**游戏相关
 
@@ -83,13 +83,9 @@ Steam版账号注册地址：[steam版账号游戏注册（美服）](https://ww
 
 答：登陆不上会**一直显示白板或黑屏**。原因在于，我们受到国内网络保护墙屏蔽的缘故。**登陆国外网站 需要**借助**加速器**才能够成功进入或登陆。
 
-目前常用的有nn加速器（淘宝5块钱一个月免排队卡，或者在非繁忙时段免费加速）
+目前常用的有[nn加速器](https://www.nn.com/)（淘宝5块钱一个月免排队卡，或者在非繁忙时段免费加速）
 
-[https://www.nn.com/](https://www.nn.com/)
-
-猎欧加速器（最早加速wiz的加速器，二十多块钱一个月，比较贵）
-
-[https://www.lieou.com/](https://www.lieou.com/)
+[猎欧加速器](https://www.lieou.com/)（最早加速wiz的加速器，二十多块钱一个月，比较贵）
 
 或者使用其他方法加速游戏（可咨询群友）
 
@@ -111,4 +107,4 @@ QQ群
 
 沃尔学院wizard101中文美服交流群:==332164675==
 
-Subata官方discord [https://discord.gg/ucbJAcZ](https://discord.gg/ucbJAcZ)
+ [Subata官方discord](https://discord.gg/ucbJAcZ)
