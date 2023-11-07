@@ -6,10 +6,11 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Nov 2023 09:25:21 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2023 09:25:21 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 10:01:21 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 10:01:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>写作原则</category>
     <category>克隆仓库</category>
     <category>Git上传文件</category>
     <category>准备工作</category>
@@ -17,6 +18,29 @@
     <category>线上书写</category>
     <category>模板专属分类</category>
     <category>使用指南</category>
+    <item>
+      <title>原则</title>
+      <link>https://gitee.com/subata/template/rules.html</link>
+      <guid>https://gitee.com/subata/template/rules.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">原则</source>
+      <description>写作原则</description>
+      <category>写作原则</category>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 学会使用md后的话语</h2>
+<h3> 中心原则</h3>
+<p>我们是讲述人，写文章给大众看的，尽量写通俗易懂的内容进去，不能让读者读的过程中有<mark>这个内容是打算让我在干什么</mark>的揣摩推测<br>
+要把自己想表达的内容，讲明白讲透彻</p>
+<h2> 规范</h2>
+<h3> 表情包的使用</h3>
+<p>尽量不要加入不被大众知悉的表情包进去，自己熟悉的梗，别人可能听都没听说过。（不要感觉这样很幽默</p>
+<h3> 段落清晰</h3>
+<p>尽量分段，不要出现一“坨”文字，现在时间很宝贵，大多数只是扫一眼就过了，看到<mark>黑压压</mark>一“坨”文字，很难受</p>
+<h3> 学会使用标题</h3>
+<p>灵活运用“#”标题，这会让读者更容易定位想读的内容</p>
+<h3> 结束</h3>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>克隆</title>
       <link>https://gitee.com/subata/template/clone.html</link>
@@ -503,20 +527,6 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>打造系统</title>
       <link>https://gitee.com/subata/manufacture/index1.html</link>
       <guid>https://gitee.com/subata/manufacture/index1.html</guid>
@@ -535,6 +545,20 @@
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
