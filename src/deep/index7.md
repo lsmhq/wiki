@@ -3,7 +3,7 @@ title: 捆绑包（Bundles）和兑换码
 order: 9
 author: 超威兰猫
 ---
-![输入图片说明](../../SAY%7BX6V6LK1(0)%25IWOK1_WY.png)
+![捆绑包](/images/SAY%7BX6V6LK1(0)%25IWOK1_WY.png)
 
 ## 捆绑包（Bundles）
 
@@ -18,7 +18,7 @@ author: 超威兰猫
   当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。
 
 ## 兑换码的使用
-![数字代码的使用](../../TH_@96FFJY%7DOWE%25R%605J0PVW.png)
+![数字代码的使用](/images/TH_@96FFJY%7DOWE%25R%605J0PVW.png)
   
   一些捆绑包和数字兑换码也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。
 
