@@ -310,6 +310,21 @@ color: rgba(253, 230, 138, 0.15)
     ```
 ```
 
+## 折叠文本
+
+<details>
+    <summary>蓝色灭火器</summary>
+    这里是蓝色灭火器的私密笔记
+</details>
+
+### 折叠文本代码
+
+```html
+<details>
+    <summary>蓝色灭火器</summary>
+    这里是蓝色灭火器的私密笔记
+</details>
+```
 ## 组件展示
 
 ## 标签
