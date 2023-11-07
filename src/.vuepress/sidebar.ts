@@ -91,6 +91,10 @@ export default sidebar({
       text: '书写语法介绍',
       link: '/template/template.md',
       icon: 'code'
+    },{
+      text: '原则',
+      link: '/template/rules.md',
+      icon: 'heart'
     }
   ]
 });
