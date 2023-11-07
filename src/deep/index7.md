@@ -4,7 +4,7 @@ order: 9
 author: 超威兰猫
 ---
 
-![输入图片说明](/images/SAY%7BX6V6LK1(0)%25IWOK1_WY.png =500x)
+![输入图片说明](/images/input.png =500x)
 
 ## 一、捆绑包（Bundles）
 
@@ -19,15 +19,15 @@ author: 超威兰猫
   当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。
 
 ## 兑换码的使用
-![数字代码的使用](/images/TH_@96FFJY%7DOWE%25R%605J0PVW.png =500x)
+![数字代码的使用](/images/dhm.png =500x)
   
 **一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。** 
 
 ### 2.Gauntlet bundle
   除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。
 
-![Night Mire Gauntlet+Crowns Bundle](/images/nightmire%20bundle.png)
-![Accursed play Gauntlet Bundle](/images/gauntlet%20bundle%E5%9B%BE.png)
+![Night Mire Gauntlet+Crowns Bundle](/images/nightmire bundle.png)
+![Accursed play Gauntlet Bundle](/images/gauntlet bundle图.png)
 
 ## 二、挑战本（Gauntlets）
 
@@ -66,5 +66,7 @@ author: 超威兰猫
   与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。
 
 ![NPC](https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png) 
+
 ![配方](https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png)
+
 ![Boss Rematches](https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png)
