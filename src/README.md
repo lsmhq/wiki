@@ -29,8 +29,8 @@ actions:
 highlights:
   - header: Subata v2.1.3
     image: /assets/image/subata.png
-    bgImage: /3-light.svg
-    bgImageDark: /3-dark.svg
+    bgImage: /subata/3-light.svg
+    bgImageDark: /subata/3-dark.svg
     highlights:
       - title: 更丰富的界面元素
       - title: 更高效的启动游戏
@@ -41,8 +41,8 @@ highlights:
   - header: 通过下方快速跳转指定模块
     description: 
     # image: /assets/image/logo.ico
-    bgImage: /4-light.svg
-    bgImageDark: /4-dark.svg
+    bgImage: /subata/4-light.svg
+    bgImageDark: /subata/4-dark.svg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
