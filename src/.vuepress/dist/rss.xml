@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Nov 2023 10:01:21 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2023 10:01:21 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 13:13:33 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 13:13:33 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>写作原则</category>
@@ -316,8 +316,24 @@
       <link>https://gitee.com/subata/base/index1.html</link>
       <guid>https://gitee.com/subata/base/index1.html</guid>
       <source url="https://gitee.com/subata/rss.xml">游戏背景介绍</source>
+      <description>游戏简介 Wizard101是一个以卡牌战斗为核心，以自由开放的探索为辅助的一款卡牌rpg游戏。所以，在一开始选择了你想玩的学院后，就不可以再更换你的学院了，你将作为这个学院的一个魔法师，探索漩涡星系并且打败各式各样的敌人。 游戏背景 《沃尔学院》是一款充满奇幻魔法元素的冒险游戏。故事发生在一个被称为&amp;quot;漩涡星系&amp;quot;的幻想世界中，玩家将扮演一位年轻的魔法师...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> asdasdasd</h1>
+      <content:encoded><![CDATA[<h2> 游戏简介</h2>
+<p>Wizard101是一个以卡牌战斗为核心，以自由开放的探索为辅助的一款卡牌rpg游戏。所以，在一开始选择了你想玩的学院后，就不可以再更换你的学院了，你将作为这个学院的一个魔法师，探索漩涡星系并且打败各式各样的敌人。</p>
+<h2> 游戏背景</h2>
+<p>《沃尔学院》是一款充满奇幻魔法元素的冒险游戏。故事发生在一个被称为"漩涡星系"的幻想世界中，玩家将扮演一位年轻的魔法师，探索这个神秘的宇宙并与强大的怪兽敌人进行激烈的决斗，或者在PvP模式下与其他魔法师一较高下。游戏中有多个不同的魔法学派和他们的教授，每个学派都有独特的法术和技能，让玩家可以选择自己的魔法道路。</p>
+<p>除了战斗，玩家还可以在游戏中结交朋友，邀请他们来自己的城堡举办派对，或者一起勇闯危险的地下城。</p>
+<p>游戏的故事情节主要围绕着拉文霍德魔法学院展开。这所学院正面临着邪恶势力的威胁，只有一位技艺娴熟的年轻魔法师能够阻止他们的阴谋。玩家将扮演这位年轻的魔法师，踏上了挑战黑暗势力的冒险之旅。游戏的世界也非常广阔，从"魔法城"的街道到“奥创学院”未知的秘密再到"诺沃斯"的奇异空间，都充满了各种惊喜和秘密，小魔法师们可以自由探索这些多样的土地。这个世界充满了魔法和奇幻，等待着玩家去解锁和探索。</p>
+<h2> 模式简介</h2>
+<p>这个游戏分为两种主要游戏模式，一个是以主线剧情、高难度地下城、多人突袭副本、家园副本为主的PVE（玩家对抗电脑）模式，另一个是以排位赛、兽月对抗为主PVP（玩家对抗玩家）模式。值得注意的是，无论你是否想专精哪种玩法，首先你要拥有一个满级的角色以及主线通关，且这个角色拥有一定的装备以保证能参加各种游戏模式，其次，你需要通过做<strong>主线任务</strong>来加强你对游戏卡牌和各种BUFF的理解，以及最重要的平衡心态的能力。</p>
+<p>当然，魔法世界不总是充满斗争，在这里，你可以学习园艺、钓鱼、饲养宠物、玩小游戏、抓捕怪物等各种多样化的玩法，但这些玩法都需要你有强大的材料或者一定的能量储备，所以在接触这些玩法之前，请你通过<strong>主线任务</strong>变成一个强大且有能力的魔法师。</p>
+<details>
+    <summary>优秀的萌新需要具有的能力</summary>
+好话说完，这里说一些丑话，**如果不能接受，那你可能不太适合游玩这款游戏！**作为一款在国外流行很多年的游戏，与国内的快餐化游戏不同，除了玩游戏，你需要具备一下的基本能力：
+<p>第一、搜索能力，尽管这个游戏有指引，但是很多内在的游戏信息并不会在游戏中出现，你需要会查WIKI与SUBATA来帮助你解决问题。</p>
+<p>第二、社交能力，这个游戏一个人走不下去的，所以你要学会在群里面提问，会有人回答你，<strong>但是是在你wiki与subata都找不到的情况下，因为我们不喜欢重复的问题说很多次</strong>。</p>
+<p>第三、好的心态，与大多数的网游不同，在这里你充钱不会变强、无效的刷刷刷也不会变强，所以在你打不过怪物的时候，不要无脑的氪金，也不要放弃，实在过不去群友会帮助你。</p>
+</details>
 ]]></content:encoded>
     </item>
     <item>
@@ -325,7 +341,46 @@
       <link>https://gitee.com/subata/base/index2.html</link>
       <guid>https://gitee.com/subata/base/index2.html</guid>
       <source url="https://gitee.com/subata/rss.xml">新人必知必会游戏核心</source>
+      <description>序言 在游戏的一开始，会有测试让你选择学院，不必来群里问那个学院最强，七个学院都有它的意义，跟随你的测试结果就好。但请你记住，任何学院开荒都是困难的，换一个学院玩只会让你痛苦加倍。在选择好你的学院之后，跟随你的步伐走下去就好。 游戏存在三大系十一个学院，分别是代表元素魔法的（风暴、火焰、冰霜），代表精神魔法的（神圣、亡灵、生命），以及一个平衡系魔法。这...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 序言</h2>
+<p>在游戏的一开始，会有测试让你选择学院，不必来群里问那个学院最强，七个学院都有它的意义，跟随你的测试结果就好。<strong>但请你记住，任何学院开荒都是困难的，换一个学院玩只会让你痛苦加倍</strong>。在选择好你的学院之后，跟随你的步伐走下去就好。</p>
+<p>游戏存在三大系十一个学院，分别是代表元素魔法的（风暴、火焰、冰霜），代表精神魔法的（神圣、亡灵、生命），以及一个平衡系魔法。这些学院是小魔法师可以加入的学院。<br>
+还有一个代表星界魔法的（太阳、群星、月亮）和暗影魔法，这些学院是小魔法师无法加入的学院，他们的导师会传授强力的魔法帮助魔法师们击败强力的怪物。</p>
+<h2> <strong>游戏帮助与第一个游戏规则</strong></h2>
+<p>在你最开始的时候，你的装备是很差的，几乎没有属性的加持，那要怎么击败那些比你强大的对手呢？</p>
+<p>这就涉及到我们的<strong>第一个游戏规则——先手与后手</strong>，作为一个回合制游戏，就会有先手与后手，相比于其他游戏的规则，<strong>wiz的后手不会有任何的补偿</strong>，所以在你后手的时候，就要学会忍耐，怪物一般先手会加buff或者攻击，那么你就要学会使用<strong>盾牌</strong>来阻挡怪物的攻击，之后再加BUFF与攻击怪物。总之，在你不能一个魔法做掉对面的时候，你需要学会<strong>保守</strong>，当你有十足的把握做掉对手，你要学会<strong>激进</strong>。</p>
+<p><strong>你问我盾牌是什么？OK，要是不知道卡牌代表什么，可以在你的魔法书中找到帮助，在这里你可以看见卡牌的分类与常见的图标示意，请你全部看完，谢谢</strong></p>
+<figure><img src="/images/帮助界面-1-1024x647.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> <strong>BUFF与第二个游戏规则</strong></h2>
+<p>好的，在你看完后相信你对常见的buff有了一定的了解，那我们回到这个问题，你在防御怪物的攻击后，要怎么击败他们？在你遇到第一个有些难度的BOSS时你会发现，它的血量怎么这么多，而我的卡面数值这么低，要怎么击败它？这里引出我们的<strong>第二个游戏规则——BUFF叠加</strong>，通过合理利用blade（刃）、trap（陷阱）、bubble（立场）、auras（光环）。我们可以击败比我们卡面数值高十倍乃至百倍的怪物。</p>
+<p>那么，你是否手里面带100张刃或者陷阱就可以毁天灭地了呢？很显然是不可能的！这个游戏的buff叠加是有规则的，**记住一点：至少有一点点不一样的buff才能叠加！**下面的提示能让你顺利的叠加buff ##</p>
+<p>①别想着用别的学院的刃，你的buff是有学院的（除了平衡学院的全系BUFF），<strong>比如你是冰霜学院的你加一堆火焰学院的刃是没有意义的，因为你的攻击法术对不上</strong>。<br>
+②在游戏开始，你或许只能学会一个buff或者两个，但是在86级时，你可以学会<strong>太阳魔法附魔buff</strong>，它能让你的buff数值+10%，这样就可以做到两个buff不一样。<br>
+③一些<strong>宠物</strong>与<strong>装备</strong>会给你卡牌，这也是不重复的buff。<br>
+④<strong>宝藏卡</strong>也可以给你buff卡牌，也是不重复的buff。<br>
+⑤所有的BUFF计算都是<strong>乘法计算</strong>。</p>
+<figure><img src="/images/BUFF1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/BUFF2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>如上图所示，卡盒中有一个太阳附魔<strong>陷阱</strong>buff（+10%）、一个太阳附魔<strong>刃</strong>buff（+10%）、两个火焰<strong>刃</strong>（=35%）、两个火焰<strong>陷阱</strong>（+30%）、一个装备给的平衡系<strong>刃</strong>（+25%）、一个宝藏卡给的元素<strong>刃</strong>（+35%），那么我可以获得多大的增益呢？</p>
+<p><strong>答案是</strong>：<br>
+通过叠加<strong>刃</strong>我可以获得<strong>1.45*1.35*1.25*1.35=3.30</strong>伤害加成<br>
+在攻击出去后，结算怪物身上的buff<br>
+怪物身上的<strong>陷阱</strong>为<strong>1.4*1.3=1.82</strong><br>
+最终造成的伤害（假设我<strong>没有装备属性加成</strong>且只使用一个<strong>威力为100的法术</strong>）：<strong>100*3.30*1.82=600</strong></p>
+<h2> <strong>牌库与第三个游戏规则</strong></h2>
+<p>随着你的等级提升，你会学习越来越多的魔法，那么要怎么配置卡盒，以及怎么使你的出牌更加流畅而不至于被卡手呢？<strong>这就涉及第三个游戏规则——抽牌与弃牌</strong>。</p>
+<p><strong>现在观察这两组卡牌，分辨一下好坏。</strong></p>
+<figure><img src="/images/配卡1.png" alt="配卡1" tabindex="0" loading="lazy"><figcaption>配卡1</figcaption></figure>
+<figure><img src="/images/配卡2.png" alt="配卡2" tabindex="0" loading="lazy"><figcaption>配卡2</figcaption></figure>
+<p>配卡2是我们更为推荐的配卡，作为萌新的你会好奇，牌越多不是越好嘛？更稳定的打过怪物。那么，你就要明白，作为一个推主线的卡盒，过多的卡牌会导致你卡手，即<strong>你的手牌只有七张</strong>，但是你这个回合想加buff，而你由于没抽到你就只能PASS，就白白浪费一回合。<br>
+如果你像右边一样配卡，就能<strong>保证你起手就有BUFF、附魔、攻击卡</strong>，这样更方便你抉择。如下图所示，我起手有刃、有单体攻击、有附魔魔法，这样我就可以保证每个回合都有事可做。</p>
+<figure><img src="/images/抽牌-1024x629.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>但是！有些情况下，你需要带很多的牌，比如你作为一个辅助的时候，如下图左所示。这时你要学会弃牌，这个游戏的<strong>手牌上限是七张</strong>，但是每回合的抽牌一定会抽到手牌上限（除非你的牌库不够牌补满手牌），所以，当你抽到不需要的卡牌时，<strong>右键点击卡牌</strong>，就能弃掉这些卡牌！虽然这样你这个回合也许不能做事，但能让你从下回合开始找回你的出牌节奏。如下图右所示，我的手牌没有办法辅助三位元素系的魔法师，我就只能弃牌增加下回合抽到元素类buff的概率。</p>
+<figure><img src="/images/配卡3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/弃牌-1024x592.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/images/帮助界面-1-1024x647.png" type="image/png"/>
     </item>
     <item>
       <title>认识界面和设置</title>
@@ -356,11 +411,64 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>认识装备</title>
+      <title>认识主要属性和装备</title>
       <link>https://gitee.com/subata/base/index7.html</link>
       <guid>https://gitee.com/subata/base/index7.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">认识装备</source>
+      <source url="https://gitee.com/subata/rss.xml">认识主要属性和装备</source>
+      <description>与大多数RPG游戏不同，Wizard101这款游戏不存在所谓的等级压制，因为等级的提升只会为你带来生命值、魔法值与超级魔豆率（自然成长只到40%）、能量值（自然成长只到130）的提升。那为什么还要做主线任务到满级呢？因为这个游戏真正带来属性收益的是装备！在前期，你的装备只会有一两个属性加成，但是在后期时，这些毕业装备会为你带来七个甚至是八个属性加成，是...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<p>与大多数RPG游戏不同，Wizard101这款游戏不存在所谓的等级压制，因为等级的提升只会为你带来生命值、魔法值与超级魔豆率（自然成长只到40%）、能量值（自然成长只到130）的提升。那为什么还要<strong>做主线任务到满级</strong>呢？因为这个游戏真正带来属性收益的是<strong>装备</strong>！在<strong>前期</strong>，你的装备只会有<strong>一两个属性</strong>加成，但是在<strong>后期</strong>时，这些毕业装备会为你带来<strong>七个甚至是八个</strong>属性加成，是你真正意义上的变强。</p>
+<figure><img src="/images/装备对比-1024x682.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>为了方便我们在游戏中交流，括号内的名字是我们常用的叫法</strong></p>
+<h2> 1级至30级</h2>
+<p>在你30级之前，对装备的选择记住一点，**血多的就选血多的，其次就是命中高的选命中高的，最后有豆率的选有豆率的。**什么攻击、防御不重要，你的任务是活下来！</p>
+<p><strong>装备的买卖都去集市，不要快速出售，除非是集市不能卖的！集市在奥尔德镇（old town）。</strong></p>
+<p>当你来到<strong>30级</strong>，你可以在<strong>拉文霍德</strong>的<strong>神圣系教授</strong>接去一个任务，做完你将来到神的国度<strong>阿奎拉</strong>。此时，你会开启第一个副本——<strong>奥林匹斯山</strong>，在这里你可以获得<strong>100级前最好的法杖</strong>——<strong>天铁法杖</strong>与<strong>一套足够你穿到60级的装备——参议院/宙斯</strong>。</p>
+<figure><img src="/images/奥山任务-1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/奥山2-1024x677.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/奥山3-1024x680.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>参议员套装</strong>——每次刷本都会至少掉一件，<strong>随机的学院与随机的部位</strong>。属性不如<strong>宙斯</strong>，但是胜在掉率高。</p>
+<figure><img src="/images/参议员1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/参议员2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/参议员3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>宙斯套装</strong>——每次打败最终boss有概率掉，<strong>必掉本系，掉一件，部位随机</strong>。属性最好，但是不好出货。</p>
+<figure><img src="/images/宙斯1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/宙斯2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/宙斯3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 30级至60级</h2>
+<p>在你30级到60级这个阶段，你面对的装备一般<strong>会有两种</strong>，<strong>高血量但是没什么其他属性</strong>，还有一些<strong>没有血量加成但是有攻击、豆率等属性的装备</strong>。这时你需要你的系别选择，你是高命中的系——<strong>生命、冰霜、亡灵</strong>，优先补齐命中。你是低血量的系——<strong>风暴、火焰、神圣</strong>，优先血量。比如下图，火焰应该选右边而不是左边。</p>
+<figure><img src="/images/装备对比1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/装备对比2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>当你到达50级时，装备会出现<strong>暴击属性</strong>，但此时，你也<strong>无须刻意选择暴击的装备</strong>，此时你的暴击收益还不及一把刀。<strong>在60级时你会接到来自海神大街的布拉德·乌鸦眼(Blad Raveneye)给你的任务，会来到海神大街的一个隐藏地图，里面有个叫做水厂（Water works）的副本，给的60级装备将使你的属性爆发式的成长</strong>，如下图所示。<br>
+① 与30级你打的奥林匹斯山不同，这里<strong>出的装备前缀会由于各个学院不同而不同</strong>，但是属性都是这几个加成。所以刷到了注意一下。<br>
+② 水厂<strong>只会掉落你本系的装备</strong>，<strong>但并不是每局都能保证掉落一个</strong>，所以需要反复刷取。<br>
+③ <strong>帽子只会在二王（大章鱼）掉落</strong>，<strong>衣服与鞋子会在尾王掉落</strong>，现在存在BUG，四个人可以利用BUG反复刷尾王，具体方法就是打完尾王其他人不要动，一个人去隔壁的房间，进去出来就可以刷新尾王。<br>
+④ 由于帽子不好反复刷，有个<strong>下下策</strong>是你的打造任务做完了龙之谷，可以做格林海姆的任务到冬牙城找NPC买配方打造56级的帽子，属性只比水厂的差一点点防御。</p>
+<p>这个副本难度很大，建议去求助群里的大佬。</p>
+<figure><img src="/images/水厂.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 60级至100级</h2>
+<p>当你拿到水厂装备后，在60级到100级都是穿着这套装备。这个过程中，主要的装备变更集中在匕首、戒指、项链上。从扎法丛林开始，你的匕首与戒指将会出现两个重要属性，攻击与豆率，这时你需要结合你现有的装备做出抉择。我推荐对于需要快攻或是把持节奏的学院，优先提高豆率，对于生存能力强一点的学院，优先提高攻击。<strong>但是，这些提升是要建立在你的命中率到100%的基础上，若是你到60级仍然无法保持满命中，那么你需要先通过装备与宝石补满命中率</strong>。为了节省你前期的资源，我建议你选择一个三角孔的卡盒，镶嵌命中宝石来补齐命中。<br>
+当你到100级时，你会接到来自亡灵学院的大树的任务，如下图左，会让你去一个达克摩尔城堡（Castle Darkmoor）的地方，简称DM，在这里，你将面临三大副本，分别是DM1——达克摩尔城堡（下层）（Castle Darkmoor&nbsp;(Lower Level)），DM2——上层大厅（Upper Halls）下图中，DM3——墓地（顶层）（Graveyard&nbsp;(Top Level)），DM1完成后你将获得你的第一个暗影攻击法术，DM2的BOSS将掉落全游戏最好的穿刺防御项链，DM3的将掉落一套非常好的装备，他们的属性加成比水厂强得多，下图右就是DM3最终BOSS。</p>
+<p><strong>与水厂一样，DM也属于有难度的副本，需要时去群里找大佬带</strong></p>
+<figure><img src="/images/DM1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>DM掉落的T1装备名字也是根据不同学院不一样的，但是都是这几个属性加成。<br>
+<strong>帽子、衣服、鞋子、匕首都是DM3掉落</strong>，<strong>项链是DM2掉落。</strong></p>
+<figure><img src="/images/DM帽子.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM衣服.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM鞋子.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM匕首.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/DM项链.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 100级至140级</h2>
+<p>由于你<strong>在100级拿到了dm装备</strong>，100级至140级这个过程对你而言是比较舒服的，在这个阶段，你需要注意，当你到达<strong>102级</strong>时，卡盒会给予你一个额外的普通魔豆，这对于你的加成很大，如果你不想刷取很好的卡盒，在集市购买一个普通的也够你用到140级了。</p>
+<figure><img src="/images/卡盒2-1024x715.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>在你到达<strong>130级后</strong>，后面获得的的卡盒基本可以分为两类，一类是<strong>加暴击与格挡的卡盒</strong>，另一类是<strong>加暴击与豆转率的卡盒</strong>。那么在你获得这些卡盒时怎么取舍呢？首先记住一点，在你满级之前，<strong>有三角宝石孔的卡盒优先</strong>。其次，当你的主力输出卡牌为奇数时，我建议你选择<strong>豆转率卡盒</strong>，当你的生存难以保证时，我建议你选择<strong>格挡卡盒</strong>。</p>
+<figure><img src="/images/卡盒4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/卡盒3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 140级至160级</h2>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/images/装备对比-1024x682.png" type="image/png"/>
     </item>
     <item>
       <title>玩家交流</title>
@@ -370,11 +478,75 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>战斗基础</title>
+      <title>人物属性详解</title>
       <link>https://gitee.com/subata/base/index9.html</link>
       <guid>https://gitee.com/subata/base/index9.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">战斗基础</source>
+      <source url="https://gitee.com/subata/rss.xml">人物属性详解</source>
+      <description>人物属性详解 对于生命值与魔法值这里就不多做介绍了，很简单，生命值为0时即死亡，魔法值为0时放不了0豆以外的法术，能量值为0就不能释放需要能量的魔法。如下图左。 在人物属性的右边一页，显示着我们的三大基础属性——伤害加成（攻击）、抵抗加成（防御）、法术命中率（命中）。这几个基础属性是我们在战斗中最本质的加成，它是实打实的提升。如下图左。 在右边的第二栏...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 人物属性详解</h2>
+<p>对于<strong>生命值</strong>与<strong>魔法值</strong>这里就不多做介绍了，很简单，生命值为0时即死亡，魔法值为0时放不了0豆以外的法术，能量值为0就不能释放需要能量的魔法。如下图左。<br>
+在人物属性的右边一页，显示着我们的<strong>三大基础属性</strong>——<strong>伤害加成（攻击）、抵抗加成（防御）、法术命中率（命中）</strong>。这几个基础属性是我们在战斗中最本质的加成，它<strong>是实打实的提升</strong>。如下图左。<br>
+在右边的第二栏，显示着我们的高级属性，有两页，如下图中与右。一共<strong>有九项高级属性——暴击等级（暴击）、暴击抵抗等级（抵抗）、穿刺等级（穿刺）、眩晕抵抗数值（抗晕）、受到/输出治疗（被奶/奶量）、魔豆转换率（豆转）、超级魔豆获得率（豆率）、暗影魔豆获得率（暗豆率）、彩虹魔豆获得率（虹豆率）</strong>。这几个高级属性是我们战斗中增强我们伤害或是把持对局节奏的加成，是魔法师们游玩风格的体现。<br>
+TIPS:把你的鼠标放在属性上，可以显示是哪些装备为你带来了多少加成！</p>
+<figure><img src="/images/人物属性.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/人物高级属性1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/人物高级属性2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>接下来，Jack将为你解释这些属性的含义，有几个高级属性有更深层次的研究都在本站的攻略中，需要的小魔法师可以仔细地阅读！</p>
+<h3> <strong>攻击</strong></h3>
+<p>攻击加成代表着你的<strong>法术卡面的加成</strong>。假设有个法术是100的伤害，而你有150%攻击加成，那么你空手（不加任何buff）放这个法术就是 $100*（1+1.5）= 250$ 伤害，对于一些两、三段法术或是DOT（每回合伤害法术）法术，这个加成就是先卡面总和再加上你的攻击加成。</p>
+<h3> <strong>防御</strong></h3>
+<p>防御加成代表着你受到伤害的<strong>最终减伤</strong>加成。假设怪物释放了一个伤害为1000的法术，怪物没有buff加成，<strong>你的防御为50%</strong>，那么你最终就只会受到 $1000<em>50% = 500$ 伤害，若是你放了一个塔盾（-50%伤害），那么你只会受到 $1000</em>50%*50% = 250$ 伤害。</p>
+<h3> <strong>命中</strong></h3>
+<p>命中代表着你释放某个法术时，这个法术的<strong>最终命中率</strong>就是<strong>卡面命中加上</strong>你的<strong>面板命中</strong>，它决定着你有多大的概率放出这个法术。假设你释放一个<strong>命中率为80%<strong>的法术，你的</strong>面板命中是15%</strong>，那么你<strong>最终只有95%的概率</strong>成功释放这个法术，<strong>存在5%的概率释放法术失败</strong>。</p>
+<h3> <strong>暴击</strong></h3>
+<p><strong>决定着你的暴击率与暴击伤害</strong>。这个属性你可以简单地理解为，数值越高，暴击率与暴击伤害越高。<strong>暴击率</strong>是指你放出这个法术的暴击可能概率，这个概率最高不会超过95%，<strong>暴击伤害</strong>是一个外围乘算数值，在buff足够多的时候，哪怕10%的暴击伤害加成也能带来巨大的收益！</p>
+<h3> <strong>格挡</strong></h3>
+<p>决定着你<strong>受到暴击</strong>时<strong>不被暴击的概率</strong>和<strong>被暴击时的伤害减免</strong>。这个属性你可以简单地理解为，数值越高，被暴击就能收到的伤害越少。同理，想要了解暴击格挡的机制，请参考以下内容。</p>
+<details>
+    <summary>暴击，格挡和暴击伤害</summary>
+在当前版本下，将鼠标悬停在卡牌上，将显示你对目标的暴击率和暴击伤害还有格挡率，取决于你的**暴击点数**(critical rating)和目标的**格挡点数**(block rating)。&nbsp;
+下面用**C代表暴击率，B代表格挡率**&nbsp;
+<p><strong>暴击率：</strong></p>
+<p>取决于两个因子的乘积，第一个是暴击限制因子L，取0.95和(你的等级/100)中更小的那个，换言之，就是暴击不会超过95%，第二项是3倍的C除以3倍的C+B</p>
+<p>暴击率:
+$Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
+<p>可以看到，如果0格挡，你100级，有任何暴击点数（1都行），你的暴击率为95%</p>
+<p><strong>暴击伤害：</strong></p>
+<p>暴击伤害是类似的计算方法</p>
+<p>$Critical Damage=1+\frac{C}{C+3B}$</p>
+</details>
+<p>###<strong>穿刺</strong>
+决定着你本次法术在<strong>被抵抗时减少被抵抗数值的多少</strong>。这个属性可以理解为，对手存在着和你一样的<strong>防御</strong>，在你攻击时它会根据防御来对你本次伤害稀释，那么你的<strong>穿刺越高</strong>，<strong>被挡掉的伤害就越少</strong>。假设一个怪物有<strong>40%的先天防御</strong>，<strong>你有100%攻击与25%穿刺</strong>，<strong>你用一个100的法术攻击它</strong>，那么你本次能造成的伤害就是 <strong>100*100%*[1-|min(0，25%-40%)|]=170</strong> 伤害，意味着怪物格挡掉了15%的伤害。若是怪物也释放了塔盾（-50%），那么在计算最终防御前，先要计算盾牌的格挡，即 <strong>100*100%*(1-|25%-50%|)*[1-|min(0，0-40%)|]=90</strong> 伤害。可见，<strong>穿刺越高，才能在对手有防御时打的越痛</strong>。</p>
+<h3> <strong>眩晕抵抗</strong></h3>
+<p>很简单，决定着你有多少概率不被晕，这是一个玄学问题。</p>
+<h3> <strong>受到治疗量/治疗量</strong></h3>
+<p>决定着你被奶多少与奶别人（包括自己）多少。被奶就是你在<strong>受到治疗时的治疗数值加成</strong>，奶量就是<strong>你用治疗魔法时的治疗数值加成</strong>。假设你用小精灵（420治疗），你有20%奶量与30%被奶，那么你自己奶自己一口受到的治疗就是 <strong>420*（1+20%）*（1+30%）= 655</strong> 。治疗也是可以暴击的！计算与暴击和暴击格挡类似。
+注意，在进阶模式中， 受到治疗量属性不起作用。</p>
+<h3> <strong>魔豆保护</strong></h3>
+<p>当你使用魔法时，与你消耗的魔法豆存在差值，返还你一个豆子的概率。意思就是，你身上有<strong>两个超级魔豆</strong>，<strong>相当于四个普通魔豆</strong>，当你使用一个<strong>三豆魔法</strong>时，理论上会用完你所有魔豆，但你存在<strong>豆转率</strong>，就有机会返还你一个豆子。这个数值越高，返还概率就越大。</p>
+<p>当你满7颗魔豆时，如果你有普通魔豆（白豆），则在回合开始时，将按此概率随机将一颗白豆转换为超级魔豆（黄豆）。</p>
+<h3> <strong>超级魔豆几率</strong></h3>
+<p>决定着你每个回合<strong>获得超级魔豆</strong>的概率。假设你有70%的豆率，那么你每个回合都会有70%概率获得超级魔豆，同时也存在30%的概率获得普通魔豆。<strong>通常来说，豆率越高越好</strong>，必要时保证100%。</p>
+<h3> <strong>暗影魔豆点数</strong></h3>
+<p>此属性影响你每回合开始时候，暗影魔豆槽（Shadow Pip Gauge）的充能速度。
+当暗影魔豆槽充能达到100%时，你将获得一颗暗影魔豆。</p>
+<p>暗影魔豆槽的长度为你所有对手中暗影魔豆点数属性最高的目标的4倍（待确认具体倍数）</p>
+<p>在经典模式中，此充能速度为[0,1]之间取一个随机数（可以为0），乘以你的暗影魔豆率。</p>
+<p>在进阶模式中，此充能速度为[0.75,1]之间取一个随机数（理解为有低保），乘以你的暗影魔豆率。</p>
+<h3> <strong>彩虹精通点数</strong></h3>
+<p>也就是学院魔豆点数，是一个高级概念，在你使用<strong>学识法术</strong>与<strong>160级+的法术时</strong>，会使用到<strong>学院魔豆</strong>。</p>
+<p>同时，一颗学院魔豆，可以视作该系的魔法的超级魔豆。</p>
+<p>学院魔豆也在每回合开始时充能，与暗影魔豆类似，充能槽充满后，你将把自己的一颗超级魔豆转化一颗你指定的学院魔豆。</p>
+<p>不同的是，如果你没有超级魔豆可供转化，那么学院魔豆的充能将会储存为能量宝珠(Power Orb)。能量宝珠的最大充能层数为7层。</p>
+<p>当能量宝珠的充能层数累积到3层时，如果在回合开始时你仍没有可供转化的</p>
+<p>与暗影魔豆充能槽类似，不同之处在于，充能槽的长度为全场所有角色中彩虹精通点数的最高值<s>卷死队友吧！</s></p>
+<p>在经典模式中，你的充能速度为你的彩虹精通点数</p>
+<p>在进阶模式中，你的充能速度为你的彩虹精通点数*(你携带的卡牌数/卡盒最大容纳卡牌数)</p>
+<p>例如你的彩虹精通为80，全场最大为100，那么你在经典模式中的充能速度就为80/100=80% 每5回合可以转好四颗学院豆</p>
+<p><strong>TIPS：在你有虹豆率了后，能保证你至少每三回合获得一个学院豆相当于一个超级魔法豆。</strong></p>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/images/人物属性.png" type="image/png"/>
     </item>
     <item>
       <title>每日/每周任务</title>
@@ -447,35 +619,49 @@
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>什么是捆绑包（Bundles）和挑战本（Gauntlets）</title>
+      <title>捆绑包（Bundles）和挑战本（Gauntlets）</title>
       <link>https://gitee.com/subata/deep/index7.html</link>
       <guid>https://gitee.com/subata/deep/index7.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">什么是捆绑包（Bundles）和挑战本（Gauntlets）</source>
-      <description>啾咪 一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代...</description>
+      <source url="https://gitee.com/subata/rss.xml">捆绑包（Bundles）和挑战本（Gauntlets）</source>
+      <description>输入图片说明 一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="https://subata.top/wp-content/uploads/2023/10/QQ图片20231029182857-1024x341.jpg" alt="啾咪" tabindex="0" loading="lazy"><figcaption>啾咪</figcaption></figure>
+      <content:encoded><![CDATA[<figure><img src="/images/input.png" alt="输入图片说明" width="500" tabindex="0" loading="lazy"><figcaption>输入图片说明</figcaption></figure>
 <h2> 一、捆绑包（Bundles）</h2>
 <p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-1.png" alt="Heavenly Palace Bundle" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
-<p>这些捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。此代码可以输入到 Wizard101 官方网站上的兑换卡/代码选项中，以将其兑换到您的帐户中。从 Gamestop 购买的数字代码的工作方式类似，唯一的区别是您不会获得实体卡，而只会收到一个数字代码，您可以将该代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。其中一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-1.png" alt="Heavenly Palace Bundle" width="500" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
+<h3> 1.购买与使用</h3>
+<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>
+<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>
+<h2> 兑换码的使用</h2>
+<figure><img src="/images/dhm.png" alt="数字代码的使用" width="500" tabindex="0" loading="lazy"><figcaption>数字代码的使用</figcaption></figure>
+<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>
+<h3> 2.Gauntlet bundle</h3>
 <p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>
-<p><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-2.png" alt="Night Mire Gauntlet+Crowns Bundle" loading="lazy">(<img src="/images/{QPTW_`UPTXMQ4JK38@4SLQ.png" alt="Accursed play Gauntlet" loading="lazy">)</p>
+<p>![Night Mire Gauntlet+Crowns Bundle](/images/nightmire bundle.png)
+![Accursed play Gauntlet Bundle](/images/gauntlet bundle图.png)</p>
 <h2> 二、挑战本（Gauntlets）</h2>
 <p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
 <h3> 1.Housing Gauntlets</h3>
-<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
+<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
+<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
+<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
+<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
 <figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
 <h3> 2. 杯子（Ultra duel）</h3>
-<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑或合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
+<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
+<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
+<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
 <figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
 <h3> 3.一次性本（One-Shot Gauntlet）</h3>
 <p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
 <figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
 <h3> 4. 重赛杯子（Boss Rematches）</h3>
 <p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
-<p><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" loading="lazy"> <img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" loading="lazy"><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" loading="lazy"></p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" tabindex="0" loading="lazy"><figcaption>NPC</figcaption></figure>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" tabindex="0" loading="lazy"><figcaption>配方</figcaption></figure>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" tabindex="0" loading="lazy"><figcaption>Boss Rematches</figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://subata.top/wp-content/uploads/2023/10/QQ%E5%9B%BE%E7%89%8720231029182857-1024x341.jpg" type="image/jpeg"/>
+      <enclosure url="https://gitee.com/subata/images/input.png =500x" type="image/"/>
     </item>
     <item>
       <title>毕业装备</title>
@@ -517,7 +703,30 @@
       <link>https://gitee.com/subata/fight/index5.html</link>
       <guid>https://gitee.com/subata/fight/index5.html</guid>
       <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
+      <description>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。 1.Housing Gauntlets 这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。 这种类型的挑战本可以重复多次使用，并且有着...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
+<h2> 1.Housing Gauntlets</h2>
+<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
+<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
+<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
+<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
+<h2> 2. 杯子（Ultra duel）</h2>
+<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
+<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
+<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
+<h2> 3.一次性本（One-Shot Gauntlet）</h2>
+<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
+<h2> 4. 重赛杯子（Boss Rematches）</h2>
+<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
+<p><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" loading="lazy">
+<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" loading="lazy">
+<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" type="image/png"/>
     </item>
     <item>
       <title>团队副本</title>
@@ -744,48 +953,8 @@ Spellments：技能碎片，用于解锁和升级技能<br>
 <h3> 启动器下载</h3>
 <p><a href="http://101.43.174.221:226/down/sQvEqmH8aAUG" target="_blank" rel="noopener noreferrer">点击下载: v1.4.11(公测-已失效)</a></p>
 <p><a href="http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe" target="_blank" rel="noopener noreferrer">点击下载: v2.1.X(公测)</a> （可能会提示安全问题，请忽略直接安装，或群内下载压缩包，群号在网站末尾，下方是2.0的视频教程【Wizard101或Pirate的PC端启动器】）</p>
-<p><a href="https://www.bilibili.com/video/BV12c411F7VF/" target="_blank" rel="noopener noreferrer">视频传送门</a></p>
-<iframe src="//www.bilibili.com/blackboard/html5mobileplayer.html?aid=274093197&amp;bvid=BV12c411F7VF&amp;cid=1216020561&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="1280" height="720"></iframe>
-<p><a href="https://drive.google.com/file/d/1bqaW89hT2lDEKC3GRUVew-M2NMdqhyro/view?usp=sharing" target="_blank" rel="noopener noreferrer">Google Drive Download/谷歌网盘下载 v1.4.8</a></p>
-<p>http://101.43.174.221:3001/#/bd</p>
-<p>windows7用户专用下载通道：</p>
-<p><a href="http://101.43.174.221:3001/file/subataWin7Update/Subata%20Setup%202.1.2.exe" target="_blank" rel="noopener noreferrer">windows7 专用版</a></p>
-<p>如果你正在使用Mac/Windows 7系统，你可能需要使用手动安装的办法来安装汉化补丁：
-如何手动安装请看另一篇教程（待更新）</p>
-<p><a href="http://101.43.174.221:3001/#/bd" target="_blank" rel="noopener noreferrer">汉化补丁文件手动下载（Mac/Windows 7用户）</a></p>
-<h3> 安装汉化补丁</h3>
-<p>第一步，选择游戏（steam服可以跳过-内置自动检测steam游戏）</p>
-<p>点击设置选择wizard.exe或者选择桌面上游戏快捷方式</p>
-<p>第二步，打开沃尔学院页面，点击右侧的补丁设置Tab页，选择你要安装的汉化版本，安装补丁时最好保持游戏关闭</p>
-<p><strong>（可以随时切换，切换时注意关闭游戏，不然会导致一些游戏问题）</strong></p>
-<p>第三步，开始游戏（重启游戏），安装完成汉化后，使用启动器启动和正常的原版启动都可以正常使用汉化补丁~</p>
-<p>此时启动器已经将补丁文件装入你的沃尔学院游戏数据文件内，使用任何启动器进入游戏，汉化补丁都将生效，所以不用担心你喜欢用哪种启动器。</p>
-<p>同时，注意你可以方便的使用版本切换功能，随时切换中英双语（甚至德语）体验不一样的拉文霍德。</p>
-<p>使用全中文可能面临全中文找装备名字不方便，不用担心，本站开通了反向查询功能，输入中文可以搜索对应的物品对应的英文。</p>
-<p><a href="http://wiki.subata.top" target="_blank" rel="noopener noreferrer">http://wiki.subata.top</a></p>
-<p>下面是汉化补丁版本比较</p>
-
-<h2> 补丁文件手动安装（Mac用户或无法使用启动器）</h2>
-<h3> 下载对应的补丁文件</h3>
-<p><a href="http://101.43.174.221:3001/#/bd" target="_blank" rel="noopener noreferrer">补丁手动下载入口</a></p>
-<p>下载对应的补丁文件，选择你需要的版本。并右键点击它 找到该文件所在的位置</p>
-<p>随后右键解压到当前文件夹，任何解压软件都可以，得到下面的文件</p>
-<p>特别注意：该文件名<em>Locale_English-Root.wad</em>一个字都不能错，不能有(1)之类的字符</p>
-<h3> 找到游戏目录</h3>
-<p>找到登陆入口标志→右键它→点击“打开文件位置” ，你将找到游戏根目录</p>
-<figure><img src="/images/game_path_1.png" alt="目录" tabindex="0" loading="lazy"><figcaption>目录</figcaption></figure>
-<p>Mac用户：使用访达ifinder，访问路径 ~/Library/Application Support/Wizard101/bottles/drive_c/program_data/kingsisle</p>
-<h3> 安装汉化补丁</h3>
-<p>打开文件中的Data → GameData 文件夹,然后停留在GameData文件夹中</p>
-<figure><img src="/images/game_path_2.png" alt="目录" tabindex="0" loading="lazy"><figcaption>目录</figcaption></figure>
-<p>“Locale_English-Root.wad”复制粘贴 至GameData文件夹 即安装完成</p>
-<figure><img src="/images/game_path_3.png" alt="目录" tabindex="0" loading="lazy"><figcaption>目录</figcaption></figure>
-<h3> 更新汉化补丁</h3>
-<p>轻聊版：手动安装后已经导入了中文字体，不会随游戏更新失效</p>
-<p>全汉化/简洁版：请重新手动下载补丁，将原来的文件替换掉，特别注意：补丁文件名<em>Locale_English-Root.wad</em>一个字都不能错，不能有(1)之类的字符</p>
-<p>完成啦！最后，重新启动游戏——打开聊天框——即可愉快地用中文聊天咯！</p>
 ]]></content:encoded>
-      <enclosure url="https://gitee.com/subata/images/game_path_1.png" type="image/png"/>
+      <enclosure url="https://gitee.com/subata/images/game_path_1.png =500x" type="image/"/>
     </item>
     <item>
       <title>系别选择</title>
@@ -806,10 +975,12 @@ Spellments：技能碎片，用于解锁和升级技能<br>
 <h2> 免费试玩</h2>
 <p>沃尔学院美服可以免费试玩独角兽大道及海神大街任务线，大约能到5-8级左右。</p>
 <p>当然，免费试玩账号有一定功能上的限制，比如不能发词库之外的单词（包括数字，中文等，看到别人很多内容会被过滤为“...”）。</p>
-<p>当你首充（最低2美元-14元）之后，就算激活账户，可以进入官网设置自由聊天（Open-Chat)，就可以自由输入。</p>
+<p>当你首充（最低2美元-14元）之后，就算激活账户，可以进入官网设置自由聊天(Open-Chat)，就可以自由输入。</p>
 <p>官网不定期会举办两种免费活动，一种是免费试玩第一故事线（包括魔法城、克洛克、玛丽伯恩、木须和龙之谷），另一种是免费会员（一般在周年庆或者圣诞节有可能开启）</p>
 <h2> 收费方式和充值奖励</h2>
 <p>沃尔学院美服提供点卡和地图买断两种收费模式。买断地图约为2000皇冠地图一个小区域，一个世界大约需要（150-300元），月卡约为60元/月。</p>
+<h2> 关于皇冠商城</h2>
+<p>游戏道具商城提供一些装备、宠物、外观、坐骑、动作、传送特效、药剂，还有家具等等。游戏外观是无属性的装备，必须通过[装备缝合]的方式使用，商城坐骑的移动速度和游戏内的其他坐骑也是一样的（少数例外的拥有50%移速，普通坐骑40%移速）。</p>
 ]]></content:encoded>
     </item>
   </channel>
