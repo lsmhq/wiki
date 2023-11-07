@@ -28,6 +28,7 @@ category:
   除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。
 
 ![Night Mire Gauntlet+Crowns Bundle](/images/nightmirebundle.png)
+
 ![Accursed play Gauntlet Bundle](/images/accursedgauntletbundle.png)
 
 ## 二、挑战本（Gauntlets）

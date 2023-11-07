@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Nov 2023 13:29:41 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2023 13:29:41 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Nov 2023 13:40:47 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Nov 2023 13:40:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>写作原则</category>
@@ -17,6 +17,7 @@
     <category>本地环境</category>
     <category>线上书写</category>
     <category>模板专属分类</category>
+    <category>游戏指南</category>
     <category>使用指南</category>
     <item>
       <title>原则</title>
@@ -623,22 +624,22 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
       <link>https://gitee.com/subata/deep/index7.html</link>
       <guid>https://gitee.com/subata/deep/index7.html</guid>
       <source url="https://gitee.com/subata/rss.xml">捆绑包（Bundles）和挑战本（Gauntlets）</source>
-      <description>输入图片说明 一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品...</description>
+      <description>一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...</description>
+      <category>游戏指南</category>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="/images/input.png" alt="输入图片说明" width="500" tabindex="0" loading="lazy"><figcaption>输入图片说明</figcaption></figure>
+      <content:encoded><![CDATA[<figure><img src="/images/bundle.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <h2> 一、捆绑包（Bundles）</h2>
 <p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-1.png" alt="Heavenly Palace Bundle" width="500" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
+<figure><img src="/images/heavenlypalacebundle.png" alt="Heavenly Palace Bundle" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
 <h3> 1.购买与使用</h3>
 <p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>
 <p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>
-<h2> 兑换码的使用</h2>
-<figure><img src="/images/dhm.png" alt="数字代码的使用" width="500" tabindex="0" loading="lazy"><figcaption>数字代码的使用</figcaption></figure>
+<figure><img src="/images/code.png" alt="数字代码使用" tabindex="0" loading="lazy"><figcaption>数字代码使用</figcaption></figure>
 <p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>
 <h3> 2.Gauntlet bundle</h3>
 <p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>
-<p>![Night Mire Gauntlet+Crowns Bundle](/images/nightmire bundle.png)
-![Accursed play Gauntlet Bundle](/images/gauntlet bundle图.png)</p>
+<figure><img src="/images/nightmirebundle.png" alt="Night Mire Gauntlet+Crowns Bundle" tabindex="0" loading="lazy"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>
+<figure><img src="/images/accursedgauntletbundle.png" alt="Accursed play Gauntlet Bundle" tabindex="0" loading="lazy"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>
 <h2> 二、挑战本（Gauntlets）</h2>
 <p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
 <h3> 1.Housing Gauntlets</h3>
@@ -661,7 +662,7 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
 <figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" tabindex="0" loading="lazy"><figcaption>配方</figcaption></figure>
 <figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" tabindex="0" loading="lazy"><figcaption>Boss Rematches</figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://gitee.com/subata/images/input.png =500x" type="image/"/>
+      <enclosure url="https://gitee.com/subata/images/bundle.png" type="image/png"/>
     </item>
     <item>
       <title>毕业装备</title>
