@@ -103,8 +103,10 @@ Steam版账号注册地址：[steam版账号游戏注册（美服）](https://ww
 
 ## 玩家社群
 
-QQ群
+### QQ
 
 沃尔学院wizard101中文美服交流群:==332164675==
 
- [Subata官方discord](https://discord.gg/ucbJAcZ)
+### Discord
+
+[Subata官方discord](https://discord.gg/ucbJAcZ)
