@@ -6,13 +6,13 @@ category:
   - 游戏指南
 ---
 
-![](../.vuepress/public/images/bundle.png)
+![](/images/bundle.png)
 
 ## 一、捆绑包（Bundles）
 
   Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。
 
-![Heavenly Palace Bundle](../.vuepress/public/images/heavenlypalacebundle.png)
+![Heavenly Palace Bundle](/images/heavenlypalacebundle.png)
 
 ### 1.购买与使用
 
@@ -20,15 +20,15 @@ category:
   
   当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。
 
-![数字代码使用](../.vuepress/public/images/code.png)
+![数字代码使用](/images/code.png)
   
 **一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。** 
 
 ### 2.Gauntlet bundle
   除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。
 
-![Night Mire Gauntlet+Crowns Bundle](../.vuepress/public/images/nightmirebundle.png)
-![Accursed play Gauntlet Bundle](../.vuepress/public/images/accursedgauntletbundle.png)
+![Night Mire Gauntlet+Crowns Bundle](/images/nightmirebundle.png)
+![Accursed play Gauntlet Bundle](/images/accursedgauntletbundle.png)
 
 ## 二、挑战本（Gauntlets）
 
