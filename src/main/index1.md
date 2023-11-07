@@ -7,8 +7,11 @@ category:
 tag: 
   - tag
 ---
+
 最近入坑的萌新渐渐多起来啦，但是很多萌新反应表示**不清楚在哪里注册好**以及**登陆不上**等问题。于是本章节给萌新一 一解答所遇到的问题！
-![](images/welcome.png)
+
+![欢迎](/images/welcome.png)
+
 ## 注册流程
 
 ### 选择渠道
@@ -54,28 +57,27 @@ Steam服下载的客户端无法登录官网服账号，官网服下载的客户
 
 是直接在Wizard101的**官网**（[https://www.wizard101.com/game](https://www.wizard101.com/game)）**进行注册**。（提示：进入官网**需要加速器**——如何获得和使用加速器此篇**后文会提及**噢）**注册后**会提示可以**进行客户端下载**。下载后**登陆账号**即可进入游戏。
 
-![](images/signup_official.png)
-
+![](/images/signup_official.png)
 
 ### steam服注册流程
+
  在**steam商店**直接搜索Wizard101，下载**Wizard101**，[steam商店地址](https://store.steampowered.com/app/799960/Wizard101/) 并进行**安装**。（提示：安装后**打开游戏 需要加速器** 不然会一直显示白板或黑屏——如何获得和使用加速器此篇**后文会提及**噢）**打开游戏**后在**登陆界面**进行**注册**，注册完后即可登陆游戏。
 
 Steam版账号注册地址：[steam版账号游戏注册（美服）](https://www.wizard101.com/patchClient/steamreg?abs=1)
 
-![](images/signup_steam.png)
+![](/images/signup_steam.png)
 
 ### 如何填写注册信息
 
-![](images/signup.png)
+![](/images/signup.png)
 
+## **汉化补丁**相关
 
-## **汉化补丁**相关：
-
-https://subata.top/index.php/2022/09/16/startgame/
+<https://subata.top/index.php/2022/09/16/startgame/>
 
 请移步这篇帖子
 
-## **登陆不上**游戏相关：
+## **登陆不上**游戏相关
 
 > 怎么**鉴别登陆不上**？为什么会出现登陆不上？**如何解决**？
 
@@ -95,7 +97,7 @@ https://subata.top/index.php/2022/09/16/startgame/
 
 >**完成教程后卡门，怎么办？**
 
-![](images/WIXMBH9FZSS7U0I7GEL_tmb-1024x576.jpg)
+![](/images/WIXMBH9FZSS7U0I7GEL_tmb-1024x576.jpg)
 
 游戏陈年bug，由于网络问题引起的，解决方法有两种：
 
@@ -104,10 +106,9 @@ https://subata.top/index.php/2022/09/16/startgame/
 第二种，重新进游戏，再重新创建一个一模一样的角色（捏完脸后会出现跳过教程按钮，选择跳过即可）
 
 ## 玩家社群
+
 QQ群
 
-沃尔学院wizard101中文美服交流群706198168
+沃尔学院wizard101中文美服交流群:==332164675==
 
 Subata官方discord [https://discord.gg/ucbJAcZ](https://discord.gg/ucbJAcZ)
-
-
