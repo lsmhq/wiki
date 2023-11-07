@@ -17,9 +17,7 @@ author: lsmhq，blaze
 
 [点击下载: v2.1.X(公测)](http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe) （可能会提示安全问题，请忽略直接安装，或群内下载压缩包，群号在网站末尾，下方是2.0的视频教程【Wizard101或Pirate的PC端启动器】）
 
-[视频传送门](https://www.bilibili.com/video/BV12c411F7VF/)
-
-<iframe src="//www.bilibili.com/blackboard/html5mobileplayer.html?aid=274093197&amp;bvid=BV12c411F7VF&amp;cid=1216020561&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="1280" height="720"></iframe>
+<BiliBili bvid="BV12c411F7VF"/>
 
 [Google Drive Download/谷歌网盘下载 v1.4.8](https://drive.google.com/file/d/1bqaW89hT2lDEKC3GRUVew-M2NMdqhyro/view?usp=sharing)
 
@@ -110,7 +108,7 @@ windows7用户专用下载通道：
 
 找到登陆入口标志→右键它→点击“打开文件位置” ，你将找到游戏根目录
 
-![目录](/images/game_path_1.png)
+![目录](/images/game_path_1.png =500x)
 
 Mac用户：使用访达ifinder，访问路径 ~/Library/Application Support/Wizard101/bottles/drive_c/program_data/kingsisle
 
@@ -118,11 +116,11 @@ Mac用户：使用访达ifinder，访问路径 ~/Library/Application Support/Wiz
 
 打开文件中的Data → GameData 文件夹,然后停留在GameData文件夹中
 
-![目录](/images/game_path_2.png)
+![目录](/images/game_path_2.png =500x)
 
 “Locale_English-Root.wad”复制粘贴 至GameData文件夹 即安装完成
 
-![目录](/images/game_path_3.png)
+![目录](/images/game_path_3.png =500x)
 
 ### 更新汉化补丁
 
