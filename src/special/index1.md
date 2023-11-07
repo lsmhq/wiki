@@ -8,7 +8,7 @@ author: 巴托比剑剑
 
 ## **Beastmoon介绍：**
 
-![](images/BeastmoonMonsterMayhemCal.png)
+![封面图](/images/BeastmoonMonsterMayhemCal.png)
 
 - 兽月强袭（以下简称打野）是Ki2019推出的全新系列月度活动。
 
