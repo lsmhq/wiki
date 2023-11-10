@@ -36,9 +36,11 @@ export default hopeTheme({
   displayFooter: true,
 
   encrypt: {
+    // admin: 'lsmhq',
+    global: false,
     config: {
       // "/wiki/index1.html": [""],
-      // "/template/template.html": ["subata"]
+      // "/template": ["subata"]
     },
   },
 
