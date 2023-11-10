@@ -60,7 +60,7 @@ export default sidebar({
   ],
   '/template/':[
     {
-      text: "原初模板",
+      text: "准备工作",
       icon: "home",
       prefix: "template/",
       children: [
