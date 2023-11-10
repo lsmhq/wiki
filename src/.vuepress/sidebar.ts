@@ -95,6 +95,21 @@ export default sidebar({
       text: '原则',
       link: '/template/rules.md',
       icon: 'heart'
+    },{
+      text: '更新流程',
+      icon: 'key',
+      children:[
+        {
+          text: '本地运行',
+          link: '/template/dev.md'
+        },{
+          text: '本地打包',
+          link: '/template/build.md'
+        },{
+          text: '更新发布',
+          link: '/template/publish.md'
+        },
+      ]
     }
   ]
 });
