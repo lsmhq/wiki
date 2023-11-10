@@ -155,10 +155,10 @@
       "url": "https://gitee.com/subata/template/startOnline.html",
       "id": "https://gitee.com/subata/template/startOnline.html",
       "summary": "如何在线上书写？",
-      "content_html": "<h3> 如何直接线上书写？</h3>\n<p>很简单</p>\n<p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n<h2> 注意事项</h2>\n<h3> 图片如何上传?</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>点击上传文件按钮</li>\n</ul>\n<figure><img src=\"/assets/image/20231110133144.png\" alt=\"上传按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>上传按钮</figcaption></figure>\n<ul>\n<li>\n<p>引用图片</p>\n</li>\n<li>\n<p>例如：上传了一张名为： <mark>empty.gif</mark> 的图片</p>\n</li>\n<li>\n<p>图片路径就为: <mark>/images/empty.gif</mark></p>\n</li>\n<li>\n<p><a href=\"/subata/template/template.html#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5%E5%B1%95%E7%A4%BA\" target=\"blank\">前往查看图片详细语法</a></p>\n</li>\n</ul>\n<h4> 图片例子</h4>\n<figure><img src=\"/images/empty.gif\" alt=\"啊啊啊~\" width=\"200\" tabindex=\"0\" loading=\"lazy\"><figcaption>啊啊啊~</figcaption></figure>\n<div class=\"language-markdown line-numbers-mode\" data-ext=\"md\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 如何上传PDF？</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/PDF\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>进入地址同上传图片操作</li>\n<li>引用PDF</li>\n<li>例如：上传了一张名为： <mark>empty.pdf</mark> 的图片</li>\n<li>PDF路径就为: <mark>/PDF/empty.pdf</mark></li>\n<li><a href=\"/subata/template/template.html#PDF\" target=\"blank\">前往PDF写法教程</a></li>\n</ul>\n<h4> PDF例子</h4>\n",
+      "content_html": "<h3> 如何直接线上书写？</h3>\n<p>很简单</p>\n<p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n<h2> 注意事项</h2>\n<h3> 图片如何上传?</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>点击上传文件按钮</li>\n</ul>\n<figure><img src=\"/assets/image/20231110133144.png\" alt=\"上传按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>上传按钮</figcaption></figure>\n<ul>\n<li>\n<p>引用图片</p>\n</li>\n<li>\n<p>例如：上传了一张名为： <mark>empty.gif</mark> 的图片</p>\n</li>\n<li>\n<p>图片路径就为: <mark>/images/empty.gif</mark></p>\n</li>\n<li>\n<p><a href=\"/subata/template/template.html#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5%E5%B1%95%E7%A4%BA\" target=\"blank\">前往查看图片详细语法</a></p>\n</li>\n</ul>\n<h4> 图片例子</h4>\n<figure><img src=\"/images/empty.gif\" alt=\"啊啊啊~\" width=\"200\" tabindex=\"0\" loading=\"lazy\"><figcaption>啊啊啊~</figcaption></figure>\n<div class=\"language-markdown line-numbers-mode\" data-ext=\"md\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 如何上传PDF？</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/PDF\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>进入地址同上传图片操作</li>\n<li>引用PDF</li>\n<li>例如：上传了一张名为： <mark>empty.pdf</mark> 的图片</li>\n<li>PDF路径就为: <mark>/PDF/empty.pdf</mark></li>\n<li><a href=\"/subata/template/template.html#pdf\" target=\"blank\">前往PDF写法教程</a></li>\n</ul>\n<h4> PDF例子</h4>\n",
       "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
       "date_published": "2023-11-06T00:00:00.000Z",
-      "date_modified": "2023-11-10T06:26:11.000Z",
+      "date_modified": "2023-11-10T07:10:19.000Z",
       "authors": [
         {
           "name": "蓝色灭火器"
@@ -300,6 +300,46 @@
       "tags": []
     },
     {
+      "title": "每日/每周任务",
+      "url": "https://gitee.com/subata/daily/index1.html",
+      "id": "https://gitee.com/subata/daily/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "组队志愿者",
+      "url": "https://gitee.com/subata/daily/index2.html",
+      "id": "https://gitee.com/subata/daily/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "城堡游戏",
+      "url": "https://gitee.com/subata/daily/index3.html",
+      "id": "https://gitee.com/subata/daily/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "小游戏",
+      "url": "https://gitee.com/subata/daily/index4.html",
+      "id": "https://gitee.com/subata/daily/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "练级指南",
       "url": "https://gitee.com/subata/deep/index1.html",
       "id": "https://gitee.com/subata/deep/index1.html",
@@ -388,46 +428,6 @@
       "tags": []
     },
     {
-      "title": "每日/每周任务",
-      "url": "https://gitee.com/subata/daily/index1.html",
-      "id": "https://gitee.com/subata/daily/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "组队志愿者",
-      "url": "https://gitee.com/subata/daily/index2.html",
-      "id": "https://gitee.com/subata/daily/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "城堡游戏",
-      "url": "https://gitee.com/subata/daily/index3.html",
-      "id": "https://gitee.com/subata/daily/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "小游戏",
-      "url": "https://gitee.com/subata/daily/index4.html",
-      "id": "https://gitee.com/subata/daily/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "PVE普通副本",
       "url": "https://gitee.com/subata/fight/index1.html",
       "id": "https://gitee.com/subata/fight/index1.html",
@@ -494,6 +494,26 @@
       "tags": []
     },
     {
+      "title": "阿尼姆斯提取-捉魂",
+      "url": "https://gitee.com/subata/other/index1.html",
+      "id": "https://gitee.com/subata/other/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "坎坎普斯-场外魔法",
+      "url": "https://gitee.com/subata/other/index2.html",
+      "id": "https://gitee.com/subata/other/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "打造系统",
       "url": "https://gitee.com/subata/manufacture/index1.html",
       "id": "https://gitee.com/subata/manufacture/index1.html",
@@ -517,26 +537,6 @@
       "title": "钓鱼指南",
       "url": "https://gitee.com/subata/manufacture/index3.html",
       "id": "https://gitee.com/subata/manufacture/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "阿尼姆斯提取-捉魂",
-      "url": "https://gitee.com/subata/other/index1.html",
-      "id": "https://gitee.com/subata/other/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "坎坎普斯-场外魔法",
-      "url": "https://gitee.com/subata/other/index2.html",
-      "id": "https://gitee.com/subata/other/index2.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
