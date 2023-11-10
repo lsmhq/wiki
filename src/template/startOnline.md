@@ -51,42 +51,14 @@ banner: /assets/background/1698762378210.jpg
 
 - 例如：上传了一张名为： ==empty.gif== 的图片
 
-### 不设置宽高
+- 图片路径就为: ==/images/empty.gif==
 
-![啊啊啊~](/images/empty.gif)
+- [前往查看图片详细语法](/template/template.md)
 
-### 只设置宽，高度按比例自动调节
+### 例子
 
-![啊啊啊~](/images/empty.gif =500x)
-
-![啊啊啊~](/images/empty.gif =300x)
-
-![啊啊啊~](/images/empty.gif =100x)
-
-### 宽高同时设置
-
-![啊啊啊~](/images/empty.gif =100x500)
-
-![啊啊啊~](/images/empty.gif =500x100)
+![啊啊啊~](/images/empty.gif =200x)
 
 ```md
-<!-- 图片路径：/images/ -->
-### 不设置宽高
-![啊啊啊~](/images/empty.gif)
-
-<!-- 图片尺寸设置 -->
-<!-- 注意等号前面有个空格 -->
-### 只设置宽，高度按比例自动调节
-![啊啊啊~](/images/empty.gif =500x)
-
-![啊啊啊~](/images/empty.gif =300x)
-
-![啊啊啊~](/images/empty.gif =100x)
-
-<!-- 如果想设置宽度和高度需要在x后面加上size -->
-<!-- 这样是设置宽高 -->
-### 宽高同时设置
-![啊啊啊~](/images/empty.gif =100x500)
-
-![啊啊啊~](/images/empty.gif =500x100)
+![啊啊啊~](/images/empty.gif =200x)
 ```

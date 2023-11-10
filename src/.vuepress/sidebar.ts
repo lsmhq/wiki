@@ -88,16 +88,9 @@ export default sidebar({
       ],
       collapsible: true
     },{
-      text: '书写语法介绍',
-      link: '/template/template.md',
-      icon: 'code'
-    },{
-      text: '原则',
-      link: '/template/rules.md',
-      icon: 'heart'
-    },{
       text: '更新流程',
       icon: 'key',
+      collapsible: true,
       children:[
         {
           text: '本地运行',
@@ -110,6 +103,14 @@ export default sidebar({
           link: '/template/publish.md'
         },
       ]
+    },{
+      text: '书写语法介绍',
+      link: '/template/template.md',
+      icon: 'code'
+    },{
+      text: '原则',
+      link: '/template/rules.md',
+      icon: 'heart'
     }
   ]
 });
