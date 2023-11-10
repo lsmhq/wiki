@@ -366,6 +366,7 @@ color: rgba(253, 230, 138, 0.15)
     这里是蓝色灭火器的私密笔记
 </details>
 ```
+
 ## 组件展示
 
 ## 标签
@@ -398,12 +399,14 @@ color: rgba(253, 230, 138, 0.15)
 
 ## PDF
 
-<PDF url="/assets/sample.pdf" />
+<PDF url="/PDF/result_1699598418837.pdf" height="100vh"/>
 
 ### PDF代码
 
 ```html
-<PDF url="/assets/sample.pdf" />
+<!-- 属性：height 设置高度 -->
+<!-- 属性：width  设置宽度 -->
+<PDF url="/PDF/result_1699598418837.pdf" height="100vh"/>
 ```
 
 ## 分享
