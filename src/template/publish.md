@@ -30,4 +30,8 @@ banner: /assets/background/1698762378210.jpg
 
 ## 发布
 
-[发布地址](https://gitee.com/lsmhq/subata/pages)
+- [发布地址](https://gitee.com/lsmhq/subata/pages)
+
+- 点击链接中的更新按钮
+
+- 结束

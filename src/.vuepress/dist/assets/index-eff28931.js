@@ -1,1 +1,0 @@
-import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as n,c as o}from"./app-dafe085d.js";const s={data(){return{}},props:{name:"name"|"name2"},methods:{},created:()=>{}},r=["src"];function a(c,_,e,m,i,d){return n(),o("img",{src:`/assets/icon/${e.name}`},null,8,r)}const l=t(s,[["render",a],["__file","index.vue"]]);export{l as default};
