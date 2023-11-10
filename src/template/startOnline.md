@@ -55,10 +55,27 @@ banner: /assets/background/1698762378210.jpg
 
 - [前往查看图片详细语法](/template/template.md#图片引入展示)
 
-### 例子
+#### 图片例子
 
 ![啊啊啊~](/images/empty.gif =200x)
 
 ```md
 ![啊啊啊~](/images/empty.gif =200x)
+```
+
+### 如何上传PDF？
+
+- [上传地址](https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/PDF)
+- 进入地址同上传图片操作
+- 引用PDF
+- 例如：上传了一张名为： ==empty.pdf== 的图片
+- PDF路径就为: ==/PDF/empty.pdf==
+- [前往PDF写法教程](/template/template.md#PDF)
+
+#### PDF例子
+
+<PDF url="/PDF/result_1699598418837.pdf"/>
+
+```html
+<PDF url="/PDF/result_1699598418837.pdf"/>
 ```

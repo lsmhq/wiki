@@ -155,7 +155,7 @@
       "url": "https://gitee.com/subata/template/startOnline.html",
       "id": "https://gitee.com/subata/template/startOnline.html",
       "summary": "如何在线上书写？",
-      "content_html": "<h3> 如何直接线上书写？</h3>\n<p>很简单</p>\n<p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n<h2> 注意事项</h2>\n<h3> 图片如何上传?</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>点击上传文件按钮</li>\n</ul>\n<figure><img src=\"/assets/image/20231110133144.png\" alt=\"上传按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>上传按钮</figcaption></figure>\n<ul>\n<li>\n<p>引用图片</p>\n</li>\n<li>\n<p>例如：上传了一张名为： <mark>empty.gif</mark> 的图片</p>\n</li>\n<li>\n<p>图片路径就为: <mark>/images/empty.gif</mark></p>\n</li>\n<li>\n<p><a href=\"/subata/template/template.html#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5%E5%B1%95%E7%A4%BA\" target=\"blank\">前往查看图片详细语法</a></p>\n</li>\n</ul>\n<h3> 例子</h3>\n<figure><img src=\"/images/empty.gif\" alt=\"啊啊啊~\" width=\"200\" tabindex=\"0\" loading=\"lazy\"><figcaption>啊啊啊~</figcaption></figure>\n<div class=\"language-markdown line-numbers-mode\" data-ext=\"md\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div>",
+      "content_html": "<h3> 如何直接线上书写？</h3>\n<p>很简单</p>\n<p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>\n<h3> 如何进行书写？</h3>\n<p><a href=\"/subata/template/template.html\" target=\"blank\">书写方式请点击查看</a></p>\n<h2> 注意事项</h2>\n<h3> 图片如何上传?</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>点击上传文件按钮</li>\n</ul>\n<figure><img src=\"/assets/image/20231110133144.png\" alt=\"上传按钮\" tabindex=\"0\" loading=\"lazy\"><figcaption>上传按钮</figcaption></figure>\n<ul>\n<li>\n<p>引用图片</p>\n</li>\n<li>\n<p>例如：上传了一张名为： <mark>empty.gif</mark> 的图片</p>\n</li>\n<li>\n<p>图片路径就为: <mark>/images/empty.gif</mark></p>\n</li>\n<li>\n<p><a href=\"/subata/template/template.html#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5%E5%B1%95%E7%A4%BA\" target=\"blank\">前往查看图片详细语法</a></p>\n</li>\n</ul>\n<h4> 图片例子</h4>\n<figure><img src=\"/images/empty.gif\" alt=\"啊啊啊~\" width=\"200\" tabindex=\"0\" loading=\"lazy\"><figcaption>啊啊啊~</figcaption></figure>\n<div class=\"language-markdown line-numbers-mode\" data-ext=\"md\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h3> 如何上传PDF？</h3>\n<ul>\n<li><a href=\"https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/PDF\" target=\"_blank\" rel=\"noopener noreferrer\">上传地址</a></li>\n<li>进入地址同上传图片操作</li>\n<li>引用PDF</li>\n<li>例如：上传了一张名为： <mark>empty.pdf</mark> 的图片</li>\n<li>PDF路径就为: <mark>/PDF/empty.pdf</mark></li>\n<li><a href=\"/subata/template/template.html#PDF\" target=\"blank\">前往PDF写法教程</a></li>\n</ul>\n<h4> PDF例子</h4>\n",
       "image": "https://gitee.com/subata/assets/background/1698762378210.jpg",
       "date_published": "2023-11-06T00:00:00.000Z",
       "date_modified": "2023-11-10T06:26:11.000Z",
@@ -300,112 +300,6 @@
       "tags": []
     },
     {
-      "title": "PVE普通副本",
-      "url": "https://gitee.com/subata/fight/index1.html",
-      "id": "https://gitee.com/subata/fight/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVE金钥匙副本",
-      "url": "https://gitee.com/subata/fight/index2.html",
-      "id": "https://gitee.com/subata/fight/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVE困难副本",
-      "url": "https://gitee.com/subata/fight/index3.html",
-      "id": "https://gitee.com/subata/fight/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "PVP玩家对战",
-      "url": "https://gitee.com/subata/fight/index4.html",
-      "id": "https://gitee.com/subata/fight/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "家园副本/首领重赛",
-      "url": "https://gitee.com/subata/fight/index5.html",
-      "id": "https://gitee.com/subata/fight/index5.html",
-      "summary": "Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。 1.Housing Gauntlets 这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。 这种类型的挑战本可以重复多次使用，并且有着...",
-      "content_html": "<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h2> 1.Housing Gauntlets</h2>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h2> 2. 杯子（Ultra duel）</h2>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h2> 3.一次性本（One-Shot Gauntlet）</h2>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h2> 4. 重赛杯子（Boss Rematches）</h2>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<p><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" loading=\"lazy\">\n<img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" loading=\"lazy\">\n<img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" loading=\"lazy\"></p>\n",
-      "image": "https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-11-07T12:07:39.000Z",
-      "authors": [
-        {
-          "name": "超威兰猫"
-        }
-      ],
-      "tags": []
-    },
-    {
-      "title": "团队副本",
-      "url": "https://gitee.com/subata/fight/index6.html",
-      "id": "https://gitee.com/subata/fight/index6.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "每日/每周任务",
-      "url": "https://gitee.com/subata/daily/index1.html",
-      "id": "https://gitee.com/subata/daily/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "组队志愿者",
-      "url": "https://gitee.com/subata/daily/index2.html",
-      "id": "https://gitee.com/subata/daily/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "城堡游戏",
-      "url": "https://gitee.com/subata/daily/index3.html",
-      "id": "https://gitee.com/subata/daily/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "小游戏",
-      "url": "https://gitee.com/subata/daily/index4.html",
-      "id": "https://gitee.com/subata/daily/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "练级指南",
       "url": "https://gitee.com/subata/deep/index1.html",
       "id": "https://gitee.com/subata/deep/index1.html",
@@ -487,6 +381,112 @@
       "title": "毕业装备",
       "url": "https://gitee.com/subata/deep/index8.html",
       "id": "https://gitee.com/subata/deep/index8.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "每日/每周任务",
+      "url": "https://gitee.com/subata/daily/index1.html",
+      "id": "https://gitee.com/subata/daily/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "组队志愿者",
+      "url": "https://gitee.com/subata/daily/index2.html",
+      "id": "https://gitee.com/subata/daily/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "城堡游戏",
+      "url": "https://gitee.com/subata/daily/index3.html",
+      "id": "https://gitee.com/subata/daily/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "小游戏",
+      "url": "https://gitee.com/subata/daily/index4.html",
+      "id": "https://gitee.com/subata/daily/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE普通副本",
+      "url": "https://gitee.com/subata/fight/index1.html",
+      "id": "https://gitee.com/subata/fight/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE金钥匙副本",
+      "url": "https://gitee.com/subata/fight/index2.html",
+      "id": "https://gitee.com/subata/fight/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVE困难副本",
+      "url": "https://gitee.com/subata/fight/index3.html",
+      "id": "https://gitee.com/subata/fight/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "PVP玩家对战",
+      "url": "https://gitee.com/subata/fight/index4.html",
+      "id": "https://gitee.com/subata/fight/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "家园副本/首领重赛",
+      "url": "https://gitee.com/subata/fight/index5.html",
+      "id": "https://gitee.com/subata/fight/index5.html",
+      "summary": "Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。 1.Housing Gauntlets 这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。 这种类型的挑战本可以重复多次使用，并且有着...",
+      "content_html": "<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h2> 1.Housing Gauntlets</h2>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h2> 2. 杯子（Ultra duel）</h2>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h2> 3.一次性本（One-Shot Gauntlet）</h2>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h2> 4. 重赛杯子（Boss Rematches）</h2>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<p><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" loading=\"lazy\">\n<img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" loading=\"lazy\">\n<img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" loading=\"lazy\"></p>\n",
+      "image": "https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-11-07T12:07:39.000Z",
+      "authors": [
+        {
+          "name": "超威兰猫"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "团队副本",
+      "url": "https://gitee.com/subata/fight/index6.html",
+      "id": "https://gitee.com/subata/fight/index6.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
