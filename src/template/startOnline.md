@@ -53,7 +53,7 @@ banner: /assets/background/1698762378210.jpg
 
 - 图片路径就为: ==/images/empty.gif==
 
-- [前往查看图片详细语法](/template/template.md)
+- [前往查看图片详细语法](/template/template.md#图片引入展示)
 
 ### 例子
 
