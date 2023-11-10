@@ -37,3 +37,56 @@ banner: /assets/background/1698762378210.jpg
 ### 如何进行书写？
 
 [书写方式请点击查看](/subata/template/template.html)
+
+## 注意事项
+
+### 图片如何上传?
+
+- [上传地址](https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images)
+- 点击上传文件按钮
+
+![上传按钮](/assets/image/20231110133144.png)
+
+- 引用图片
+
+- 例如：上传了一张名为： ==empty.gif== 的图片
+
+### 不设置宽高
+
+![啊啊啊~](/images/empty.gif)
+
+### 只设置宽，高度按比例自动调节
+
+![啊啊啊~](/images/empty.gif =500x)
+
+![啊啊啊~](/images/empty.gif =300x)
+
+![啊啊啊~](/images/empty.gif =100x)
+
+### 宽高同时设置
+
+![啊啊啊~](/images/empty.gif =100x500)
+
+![啊啊啊~](/images/empty.gif =500x100)
+
+```md
+<!-- 图片路径：/images/ -->
+### 不设置宽高
+![啊啊啊~](/images/empty.gif)
+
+<!-- 图片尺寸设置 -->
+<!-- 注意等号前面有个空格 -->
+### 只设置宽，高度按比例自动调节
+![啊啊啊~](/images/empty.gif =500x)
+
+![啊啊啊~](/images/empty.gif =300x)
+
+![啊啊啊~](/images/empty.gif =100x)
+
+<!-- 如果想设置宽度和高度需要在x后面加上size -->
+<!-- 这样是设置宽高 -->
+### 宽高同时设置
+![啊啊啊~](/images/empty.gif =100x500)
+
+![啊啊啊~](/images/empty.gif =500x100)
+```
