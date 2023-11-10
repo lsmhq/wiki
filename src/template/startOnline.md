@@ -70,7 +70,7 @@ banner: /assets/background/1698762378210.jpg
 - 引用PDF
 - 例如：上传了一张名为： ==empty.pdf== 的图片
 - PDF路径就为: ==/PDF/empty.pdf==
-- [前往PDF写法教程](/template/template.md#PDF)
+- [前往PDF写法教程](/template/template.md#pdf)
 
 #### PDF例子
 
