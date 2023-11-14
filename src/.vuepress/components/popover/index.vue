@@ -5,7 +5,9 @@
     @mouseover="show"
     @mouseleave="hide"
   >
-    <img :src="`/subata${src}`" />
+    <span class="subata-popover-img">
+      <img :src="`/subata${src}`" />
+    </span>
     <span>{{ text }}</span>
     <div
       v-show="visible"
@@ -14,7 +16,9 @@
       }`"
     >
       <div class="image">
-        <img :src="`/subata${src}`" />
+        <div class="image-img">
+          <img :src="`/subata${src}`" />
+        </div>
         <div class="subata-popover-header">
           <div class="title">{{ title }}</div>
           <div class="desc">{{ desc }}</div>
@@ -82,16 +86,21 @@ export default {
   display: inline-flex;
   align-items: baseline;
   // justify-content: baseline;
-  height: 30px;
   position: relative;
-
-  img {
-    max-width: 25px;
-    // height: 100%;
-    margin: 0 5px;
+  height: 33px;
+  .subata-popover-img {
+    position: relative;
+    top: 6px;
+    img {
+      width: 25px;
+      // height: 100%;
+      margin: 0 5px;
+      border-radius: 5px;
+    }
   }
+
   span {
-    color: rgb(0, 166, 243);
+    color: rgb(255, 102, 0);
   }
 
   .subata-popover-body {
@@ -101,7 +110,7 @@ export default {
     background: #d9f4e7;
     border-radius: 5px;
     z-index: 9999;
-    top: 30px;
+    top: 33px;
     left: 50%;
     transform: translateX(-45%);
     color: #00b55e;
@@ -109,18 +118,24 @@ export default {
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.126);
     border: 1px solid rgba(0, 128, 0, 0.187);
     .image {
-      width: 60px;
+      width: 100%;
       height: 60px;
       display: flex;
-      img {
-        max-width: 65px;
-        // height: 100%;
-        margin: 0 5px;
-        border-radius: 5px;
-        object-fit: cover;
+      .image-img {
+        width: 65px;
+        img {
+          width: 65px;
+          height: 100%;
+          margin: 0 5px;
+          border-radius: 5px;
+          object-fit: cover;
+        }
       }
+
       .subata-popover-header {
+        width: 100%;
         height: 100%;
+        padding-left: 15px;
         box-sizing: border-box;
         display: flex;
         flex-direction: column;
