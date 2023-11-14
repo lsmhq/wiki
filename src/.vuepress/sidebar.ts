@@ -108,6 +108,10 @@ export default sidebar({
       link: '/template/template.md',
       icon: 'code'
     },{
+      text: '自定义组件介绍',
+      link: '/template/components.md',
+      icon: 'code'
+    },{
       text: '原则',
       link: '/template/rules.md',
       icon: 'heart'
