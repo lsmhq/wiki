@@ -5,10 +5,10 @@
     @mouseover="show"
     @mouseleave="hide"
   >
-    <img :src="src" />
+    <img :src="`/subata${src}`" />
     <span>{{ text }}</span>
     <div v-show="visible" class="subata-popover-body">
-      <img :src="src"/>
+      <img :src="`/subata${src}`"/>
         <slot></slot>
 
     </div>
@@ -19,7 +19,7 @@
 export default {
   data() {
     return {
-      visible: false,
+      visible: false
     };
   },
   props: {
