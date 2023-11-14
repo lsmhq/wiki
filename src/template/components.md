@@ -28,7 +28,7 @@ banner: /assets/background/1698762378210.jpg
 #---下方的为md正文内容
 ---
 
-## PopOver - 半成品待优化
+## PopOver
 
 ### 样式
 
@@ -37,7 +37,9 @@ banner: /assets/background/1698762378210.jpg
     <PopOver
         src="/images/empty.gif"
         text="图片"
-    >Empty.gif</PopOver>
+        title="Empty"
+        desc="Empty Lsmhq"
+    >这是一个叫Empty.gif的图片，这里的内容可以自定义</PopOver>
 </p>
 
 ### 代码展示
@@ -48,7 +50,9 @@ banner: /assets/background/1698762378210.jpg
     <PopOver
         src="/images/empty.gif"
         text="图片"
-    >Empty.gif</PopOver>
+        title="Empty"
+        desc="Empty Lsmhq"
+    >这是一个叫Empty.gif的图片，这里的内容可以自定义</PopOver>
 </p>
 ```
 
