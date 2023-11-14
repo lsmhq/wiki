@@ -62,4 +62,6 @@ banner: /assets/background/1698762378210.jpg
 -|-|-|-
 src|String|图片路径|'/images/empty.gif'
 text|String|文本内容|'Subata'
+title|String|弹出卡片内的Title|'Subata'
+desc|String|弹出卡片内的描述|'Lsmhq~'
 trigger|'hover' \| 'click'|触发方式|'hover'
