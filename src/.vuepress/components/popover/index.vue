@@ -7,19 +7,20 @@
   >
     <img :src="`/subata${src}`" />
     <span>{{ text }}</span>
-    <div v-show="visible" class="subata-popover-body">
-      <img :src="`/subata${src}`"/>
-        <slot></slot>
-
+    <div v-show="visible" :class="`subata-popover-body ${isMobileAu ? 'subata-popover-body-app' : ''}`">
+      <img :src="`/subata${src}`" />
+      <slot></slot>
     </div>
   </span>
 </template>
 
 <script>
+import { isMobile } from '../util/util'
 export default {
   data() {
     return {
-      visible: false
+      visible: false,
+      isMobileAu: isMobile(),
     };
   },
   props: {
@@ -73,6 +74,7 @@ export default {
   span {
     color: rgb(0, 166, 243);
   }
+
   .subata-popover-body {
     position: absolute;
     width: 350px;
@@ -80,18 +82,21 @@ export default {
     background: #d9f4e7;
     border-radius: 5px;
     z-index: 9999;
-    top: 30px;
+    top: 35px;
     left: 50%;
     transform: translateX(-45%);
     color: #00b55e;
     padding: 15px;
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.126);
     img {
-        max-width: 55px;
-        // height: 100%;
-        margin: 0 5px;
-        border-radius: 5px;
+      max-width: 55px;
+      // height: 100%;
+      margin: 0 5px;
+      border-radius: 5px;
     }
+  }
+  .subata-popover-body-app{
+    width: 80vw;
   }
 }
 </style>
