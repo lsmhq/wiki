@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 14 Nov 2023 10:46:52 GMT</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2023 10:46:52 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2023 08:03:26 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2023 08:03:26 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>自定义组件</category>
@@ -548,11 +548,82 @@
       <enclosure url="https://gitee.com/subata/images/帮助界面-1-1024x647.png" type="image/png"/>
     </item>
     <item>
-      <title>认识界面和设置</title>
+      <title>宠物系统</title>
       <link>https://gitee.com/subata/base/index3.html</link>
       <guid>https://gitee.com/subata/base/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">认识界面和设置</source>
+      <source url="https://gitee.com/subata/rss.xml">宠物系统</source>
+      <description>前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。 新手攻略（by安包） 宠物从哪里来？ 在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从...</description>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<p>前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。</p>
+<p><strong>新手攻略（by安包）</strong></p>
+<p><strong>宠物从哪里来？</strong></p>
+<p>在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从学院教授处获得专属学院宠物。除了通过游戏里进行伐木固定BOSS掉落、金币/皇冠购买等，还可以通过和其他的玩家进行孵化。只要对方的宠物不是专属，就可以随机获得两个宠物中的其中任何一个，甚至还会得到新的混合宠物。</p>
+<p><strong>宠物的等级</strong></p>
+<p>所有的宠物最开始都是婴儿形态，需要125的经验才能成为少年。宠物总共有6个不同阶段，以下是各阶段需要的经验：</p>
+<p>婴儿到少年 = 125XP<br>
+少年到成年 = 250 XP<br>
+成年到长者 = 525 XP<br>
+长者到英雄 = 1050 XP<br>
+英雄到王者 = 2125 XP<br>
+王者到极限 = 2250 XP</p>
+<p>每次宠物的等级提升，除了从王者到极限以外，它将获得某种形式的天赋。从王者到极限并不会开启天赋，而是送给玩家一个+65属性的随机宠物宝石。</p>
+<figure><img src="/images/ZPZW9OENUATVR718RS-1024x768.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>了解宠物的各项数值</strong></p>
+<p>宠物有五个影响其天赋的主要属性 - 力量、智力、敏捷、意志和精神。<strong>每个属性的数值越高，你的宠物天赋技能的百分比就越高</strong>。例如，一个拥有高属性的宠物，如下图所示，将会给予玩家更多的伤害或抵抗力。当然，这同样取决于宠物的天赋。举个例子：同样是火焰攻击天赋，火焰精通者（fire-dealer）的最高值是11点，而火焰-恩赐（fire-boon）则只有4点。</p>
+<figure><img src="/images/6I4ADOMIBPE34Q2@Y8N-1024x797.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/OWCUIZHA5R@4D8A8H.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/5LF3QV@_BEF9PI@69S.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>宠物在经过训练后，最好将所有属性都达到最大值。当然也有例外，智力这个属性影响的加成并不重要，所以可以暂时忽略它。</p>
+<figure><img src="/images/GTH1F6DKY2MNAULM@X.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>除此以外，力量、敏捷、意志和精神所影响的属性大多是玩家需要的，可以通过喂食小吃拉到最大值。</p>
+<figure><img src="/images/D67@H7QWBMRN3@C7_R0.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/9YR5LZ9J@LUT@7HAEG@I.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/YUPBGV2QX5SI0ICPIG.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/U9FSK7KCB5@NKCG4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>此时你可能注意到，最下方还有一个属性：happiness，即宠物幸福值。这是一个并不影响宠物基本数值的属性，但是一些特定的扮演宠物任务和天赋（Will Cast 各类技能天赋）需要用到这个属性。可以通过喂食小吃进行补充</p>
+<p><strong>如何练宠</strong></p>
+<p>宠物可以通过完成魔法城宠物馆的迷你小游戏来进行训练。每个小游戏可以带来最多4经验，同样取决于玩家在小游戏中的表现。一般来说，宠物炫舞是最快的小游戏，所以目前只介绍这个：</p>
+<figure><img src="/images/Picture-2020-04-09-23-03-06-768x576-1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>使用方向键，跟随提示的箭头进行记忆。<strong>连续3次成功即视为通过。</strong></p>
+<p>完成每个小游戏后，你可以为你的宠物喂食任意一种宠物零食。</p>
+<p><strong>同样的游戏只需赢25次，后续就可以跳过游戏阶段直接进行宠物喂食，省时省力。</strong></p>
+<p><strong>宠物零食的筛选</strong></p>
+<p>选择正确的宠物零食可以影响到你的宠物成长的速度，尽量挑选能提高有助于你的宠物属性的零食。游戏中最好的零食能提供40-50的经验值，这些是一种特殊类型的零食，称为mega snacks。这些零食可以通过手工制作、击败某些老板、园艺或在皇冠商店mega snacks pack获得（不推荐）。<strong>目前为止园艺依旧是获得超级零食的最佳办法，具体可参考隔壁如何成为种菜大师。</strong></p>
+<p>同样的，宠物也有自己喜欢的食物。不过相比起超级零食提供的加成，喂宠物喜欢的零食只会提供1到2点额外加成，不用特地去搜集宠物喜欢的零食进行投喂。</p>
+<figure><img src="/images/8OZADQJAT1Z6I6EHFRL.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑超级零食之一</p>
+<p><strong>宠物天赋</strong></p>
+<p>一个宠物可以拥有不同种类的天赋。每个初代宠物的天赋都是固定的，一旦与他人的宠物进行孵化，新生宠物的天赋就会遗传父母的天赋库。以下为天赋类型分类：</p>
+<p><strong>玩家状态类型提升天赋</strong></p>
+<p>这类天赋可以提供攻击、防御、治疗、金豆率、豹击、穿刺等。通常来说，除了金豆率、豹击和治疗，攻击，防御和穿刺是最泛用的天赋类型。</p>
+<figure><img src="/images/DC5E9NBRU0GPPSLQWSY.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑一只标准的攻+防+穿刺的宠物</p>
+<p><strong>概率触发/释放类天赋</strong></p>
+<p>这类May cast可以自动施放很多不同的魔法，包括全局魔法、刃、护盾、光环、治疗等。May cast天赋不会占用玩家的豆子。由于有可能触发治疗的技能，这些天赋在盾类/奶妈类的玩家角色中比较受欢迎。当然，由于爬塔的Deckathalon活动中角色本身属性不会带进塔里，这类天赋也很受欢迎。</p>
+<figure><img src="/images/UV8C@C_BNFYAKGKQG.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>能力属性提升天赋</strong></p>
+<p>这类天赋可以提升宠物的属性数值。通常来说，只有最高的+65Mighty(力量）是最泛用的，它可以分别提升一只宠物的最大攻击、防御、穿刺。以下是一只带了+65天赋和不带65天赋的宠物数值对比：</p>
+<figure><img src="/images/DHY_5_W4DB7DFUAPC.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑不带65力量天赋</p>
+<figure><img src="/images/UT4T@1HED2A9G176B_2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑带65力量天赋</p>
+<p>可以看到攻击、防御和穿刺天赋分别加了1点，</p>
+<p><strong>意念释放（Will Cast）天赋</strong></p>
+<p>这类天赋与 "概率施放天赋 "极为相似，但实际上是按命令施放。它们同样不会占用角色的豆子，但可以通过玩家人为操纵释放。另外，在战斗中施放这些天赋需要花费幸福值，所以需要利用这些天赋进行战斗前一定要检查给宠物喂饱了零食</p>
+<figure><img src="/images/E@UJ3WE8_8L58CAPH@LD.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="/images/X4NKS4LT9JSRSL3MVDP-1024x491.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>冒险天赋</strong></p>
+<p>这些是平时冒险时会触发的天赋。和战斗天赋一样，每个宠物在同一时间只能拥有一个。它们的功能是能够搜索物品，如箱子和试剂，或是提供给玩家额外的战利品。</p>
+<figure><img src="/images/Storm-Scout.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑发现风暴材料的天赋</p>
+<p><strong>宠物宝石</strong></p>
+<p>当你的巫师等级达到15，同时宠物升级到长者时，可以获得一个宝石插槽。玩家可以在其中添加一颗星形珠宝。这些宝石可以提供许多不同的天赋，如概率释放、能量、提升玩家属性等等等等。部分宝石的添加有宠物的等级限制，例如火焰精通者（fire-dealer）这类的高级天赋必须在宠物达到极限时才能添加。这些宝石可以通过制作、园艺、BOSS掉落，甚至可以从皇冠商店的包裹中购买（但不推荐）。目前最多的掉落地点是天城（Empyrea）-爱丽儿森林(Ariel Jungle)-萤火虫(Fire Fly)。</p>
+<figure><img src="/images/L@ZDISYUJ1R15VSE3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>↑极限才能添加的高级宝石</p>
+<p><strong>宠物孵化</strong></p>
+<p>孵化是一种获得理想天赋的方法。通过与其他宠物孵化，新生的宠物可能具有更有用的天赋。每次孵化，后代的宠物都会有父母双方的混合天赋。因此，你与某一特定宠物孵化的次数越多，你复制该宠物特质的机会就越大。这个在宠物天赋库中获得你想要的天赋的过程可能是非常耗时和昂贵的（大部分孵化一次需要5W金币），所以不要气馁。在你开始看到后代宠物开始像所需的宠物之前，往往需要进行大量的尝试。</p>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/images/ZPZW9OENUATVR718RS-1024x768.png" type="image/png"/>
     </item>
     <item>
       <title>任务分类及重要支线</title>
@@ -742,6 +813,92 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
+      <title>PVE普通副本</title>
+      <link>https://gitee.com/subata/fight/index1.html</link>
+      <guid>https://gitee.com/subata/fight/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PVE金钥匙副本</title>
+      <link>https://gitee.com/subata/fight/index2.html</link>
+      <guid>https://gitee.com/subata/fight/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PVE困难副本</title>
+      <link>https://gitee.com/subata/fight/index3.html</link>
+      <guid>https://gitee.com/subata/fight/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>PVP玩家对战</title>
+      <link>https://gitee.com/subata/fight/index4.html</link>
+      <guid>https://gitee.com/subata/fight/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>家园副本/首领重赛</title>
+      <link>https://gitee.com/subata/fight/index5.html</link>
+      <guid>https://gitee.com/subata/fight/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
+      <description>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。 1.Housing Gauntlets 这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。 这种类型的挑战本可以重复多次使用，并且有着...</description>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
+<h2> 1.Housing Gauntlets</h2>
+<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
+<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
+<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
+<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
+<h2> 2. 杯子（Ultra duel）</h2>
+<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
+<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
+<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
+<h2> 3.一次性本（One-Shot Gauntlet）</h2>
+<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
+<h2> 4. 重赛杯子（Boss Rematches）</h2>
+<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
+<p><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" loading="lazy">
+<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" loading="lazy">
+<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" type="image/png"/>
+    </item>
+    <item>
+      <title>团队副本</title>
+      <link>https://gitee.com/subata/fight/index6.html</link>
+      <guid>https://gitee.com/subata/fight/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>打造系统</title>
+      <link>https://gitee.com/subata/manufacture/index1.html</link>
+      <guid>https://gitee.com/subata/manufacture/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">打造系统</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>种植系统</title>
+      <link>https://gitee.com/subata/manufacture/index2.html</link>
+      <guid>https://gitee.com/subata/manufacture/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">种植系统</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>钓鱼指南</title>
+      <link>https://gitee.com/subata/manufacture/index3.html</link>
+      <guid>https://gitee.com/subata/manufacture/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
       <title>练级指南</title>
       <link>https://gitee.com/subata/deep/index1.html</link>
       <guid>https://gitee.com/subata/deep/index1.html</guid>
@@ -833,92 +990,6 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
       <link>https://gitee.com/subata/deep/index8.html</link>
       <guid>https://gitee.com/subata/deep/index8.html</guid>
       <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE普通副本</title>
-      <link>https://gitee.com/subata/fight/index1.html</link>
-      <guid>https://gitee.com/subata/fight/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE普通副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE金钥匙副本</title>
-      <link>https://gitee.com/subata/fight/index2.html</link>
-      <guid>https://gitee.com/subata/fight/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE金钥匙副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVE困难副本</title>
-      <link>https://gitee.com/subata/fight/index3.html</link>
-      <guid>https://gitee.com/subata/fight/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVE困难副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>PVP玩家对战</title>
-      <link>https://gitee.com/subata/fight/index4.html</link>
-      <guid>https://gitee.com/subata/fight/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">PVP玩家对战</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>家园副本/首领重赛</title>
-      <link>https://gitee.com/subata/fight/index5.html</link>
-      <guid>https://gitee.com/subata/fight/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">家园副本/首领重赛</source>
-      <description>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。 1.Housing Gauntlets 这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。 这种类型的挑战本可以重复多次使用，并且有着...</description>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-      <content:encoded><![CDATA[<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
-<h2> 1.Housing Gauntlets</h2>
-<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
-<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
-<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
-<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
-<h2> 2. 杯子（Ultra duel）</h2>
-<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
-<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
-<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
-<h2> 3.一次性本（One-Shot Gauntlet）</h2>
-<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
-<h2> 4. 重赛杯子（Boss Rematches）</h2>
-<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
-<p><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" loading="lazy">
-<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" loading="lazy">
-<img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" type="image/png"/>
-    </item>
-    <item>
-      <title>团队副本</title>
-      <link>https://gitee.com/subata/fight/index6.html</link>
-      <guid>https://gitee.com/subata/fight/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">团队副本</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>打造系统</title>
-      <link>https://gitee.com/subata/manufacture/index1.html</link>
-      <guid>https://gitee.com/subata/manufacture/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">打造系统</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>种植系统</title>
-      <link>https://gitee.com/subata/manufacture/index2.html</link>
-      <guid>https://gitee.com/subata/manufacture/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">种植系统</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>钓鱼指南</title>
-      <link>https://gitee.com/subata/manufacture/index3.html</link>
-      <guid>https://gitee.com/subata/manufacture/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -1080,6 +1151,10 @@ Spellments：技能碎片，用于解锁和升级技能<br>
 <!-- ## **汉化补丁**相关 -->
 <!-- <https://subata.top/index.php/2022/09/16/startgame/> -->
 <!-- 请移步这篇帖子 -->
+<h2> 下载游戏</h2>
+<p>steam服下载方式：在<strong>steam商店</strong>直接搜索Wizard101，下载<strong>Wizard101</strong>，<a href="https://store.steampowered.com/app/799960/Wizard101/" target="_blank" rel="noopener noreferrer">steam商店地址</a> 并进行<strong>安装</strong>。</p>
+<p>官网服下载方式：<a href="https://www.wizard101.com" target="_blank" rel="noopener noreferrer">官网地址</a></p>
+<p>如果你访问官网下载有困难，或者觉得下载速度较慢的话，可以使用官网服国内镜像包下载：</p>
 <h2> <strong>登陆不上</strong>游戏相关</h2>
 <blockquote>
 <p>怎么<strong>鉴别登陆不上</strong>？为什么会出现登陆不上？<strong>如何解决</strong>？</p>
@@ -1143,9 +1218,10 @@ Spellments：技能碎片，用于解锁和升级技能<br>
 <p>当你首充（最低2美元-14元）之后，就算激活账户，可以进入官网设置自由聊天(Open-Chat)，就可以自由输入。</p>
 <p>官网不定期会举办两种免费活动，一种是免费试玩第一故事线（包括魔法城、克洛克、玛丽伯恩、木须和龙之谷），另一种是免费会员（一般在周年庆或者圣诞节有可能开启）</p>
 <h2> 收费方式和充值奖励</h2>
-<p>沃尔学院美服提供点卡和地图买断两种收费模式。买断地图约为2000皇冠地图一个小区域，一个世界大约需要（150-300元），月卡约为60元/月。</p>
-<h2> 关于皇冠商城</h2>
-<p>游戏道具商城提供一些装备、宠物、外观、坐骑、动作、传送特效、药剂，还有家具等等。游戏外观是无属性的装备，必须通过[装备缝合]的方式使用，商城坐骑的移动速度和游戏内的其他坐骑也是一样的（少数例外的拥有50%移速，普通坐骑40%移速）。</p>
+<p>沃尔学院美服提供月卡和地图买断两种收费模式。买断地图约为2000皇冠地图一个小区域，一个世界大约需要（150-300元），月卡约为60元/月。</p>
+<h2> 各种付费模式的对比</h2>
+<p>游戏账户状态区分为免费试玩（Free to Play）和会员（Membership）</p>
+
 ]]></content:encoded>
     </item>
   </channel>

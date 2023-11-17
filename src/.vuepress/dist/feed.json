@@ -236,13 +236,19 @@
       "tags": []
     },
     {
-      "title": "认识界面和设置",
+      "title": "宠物系统",
       "url": "https://gitee.com/subata/base/index3.html",
       "id": "https://gitee.com/subata/base/index3.html",
-      "content_html": "",
+      "summary": "前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。 新手攻略（by安包） 宠物从哪里来？ 在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从...",
+      "content_html": "<p>前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。</p>\n<p><strong>新手攻略（by安包）</strong></p>\n<p><strong>宠物从哪里来？</strong></p>\n<p>在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从学院教授处获得专属学院宠物。除了通过游戏里进行伐木固定BOSS掉落、金币/皇冠购买等，还可以通过和其他的玩家进行孵化。只要对方的宠物不是专属，就可以随机获得两个宠物中的其中任何一个，甚至还会得到新的混合宠物。</p>\n<p><strong>宠物的等级</strong></p>\n<p>所有的宠物最开始都是婴儿形态，需要125的经验才能成为少年。宠物总共有6个不同阶段，以下是各阶段需要的经验：</p>\n<p>婴儿到少年 = 125XP<br>\n少年到成年 = 250 XP<br>\n成年到长者 = 525 XP<br>\n长者到英雄 = 1050 XP<br>\n英雄到王者 = 2125 XP<br>\n王者到极限 = 2250 XP</p>\n<p>每次宠物的等级提升，除了从王者到极限以外，它将获得某种形式的天赋。从王者到极限并不会开启天赋，而是送给玩家一个+65属性的随机宠物宝石。</p>\n<figure><img src=\"/images/ZPZW9OENUATVR718RS-1024x768.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>了解宠物的各项数值</strong></p>\n<p>宠物有五个影响其天赋的主要属性 - 力量、智力、敏捷、意志和精神。<strong>每个属性的数值越高，你的宠物天赋技能的百分比就越高</strong>。例如，一个拥有高属性的宠物，如下图所示，将会给予玩家更多的伤害或抵抗力。当然，这同样取决于宠物的天赋。举个例子：同样是火焰攻击天赋，火焰精通者（fire-dealer）的最高值是11点，而火焰-恩赐（fire-boon）则只有4点。</p>\n<figure><img src=\"/images/6I4ADOMIBPE34Q2@Y8N-1024x797.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/OWCUIZHA5R@4D8A8H.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/5LF3QV@_BEF9PI@69S.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>宠物在经过训练后，最好将所有属性都达到最大值。当然也有例外，智力这个属性影响的加成并不重要，所以可以暂时忽略它。</p>\n<figure><img src=\"/images/GTH1F6DKY2MNAULM@X.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>除此以外，力量、敏捷、意志和精神所影响的属性大多是玩家需要的，可以通过喂食小吃拉到最大值。</p>\n<figure><img src=\"/images/D67@H7QWBMRN3@C7_R0.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/9YR5LZ9J@LUT@7HAEG@I.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/YUPBGV2QX5SI0ICPIG.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/U9FSK7KCB5@NKCG4.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>此时你可能注意到，最下方还有一个属性：happiness，即宠物幸福值。这是一个并不影响宠物基本数值的属性，但是一些特定的扮演宠物任务和天赋（Will Cast 各类技能天赋）需要用到这个属性。可以通过喂食小吃进行补充</p>\n<p><strong>如何练宠</strong></p>\n<p>宠物可以通过完成魔法城宠物馆的迷你小游戏来进行训练。每个小游戏可以带来最多4经验，同样取决于玩家在小游戏中的表现。一般来说，宠物炫舞是最快的小游戏，所以目前只介绍这个：</p>\n<figure><img src=\"/images/Picture-2020-04-09-23-03-06-768x576-1.jpg\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>使用方向键，跟随提示的箭头进行记忆。<strong>连续3次成功即视为通过。</strong></p>\n<p>完成每个小游戏后，你可以为你的宠物喂食任意一种宠物零食。</p>\n<p><strong>同样的游戏只需赢25次，后续就可以跳过游戏阶段直接进行宠物喂食，省时省力。</strong></p>\n<p><strong>宠物零食的筛选</strong></p>\n<p>选择正确的宠物零食可以影响到你的宠物成长的速度，尽量挑选能提高有助于你的宠物属性的零食。游戏中最好的零食能提供40-50的经验值，这些是一种特殊类型的零食，称为mega snacks。这些零食可以通过手工制作、击败某些老板、园艺或在皇冠商店mega snacks pack获得（不推荐）。<strong>目前为止园艺依旧是获得超级零食的最佳办法，具体可参考隔壁如何成为种菜大师。</strong></p>\n<p>同样的，宠物也有自己喜欢的食物。不过相比起超级零食提供的加成，喂宠物喜欢的零食只会提供1到2点额外加成，不用特地去搜集宠物喜欢的零食进行投喂。</p>\n<figure><img src=\"/images/8OZADQJAT1Z6I6EHFRL.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑超级零食之一</p>\n<p><strong>宠物天赋</strong></p>\n<p>一个宠物可以拥有不同种类的天赋。每个初代宠物的天赋都是固定的，一旦与他人的宠物进行孵化，新生宠物的天赋就会遗传父母的天赋库。以下为天赋类型分类：</p>\n<p><strong>玩家状态类型提升天赋</strong></p>\n<p>这类天赋可以提供攻击、防御、治疗、金豆率、豹击、穿刺等。通常来说，除了金豆率、豹击和治疗，攻击，防御和穿刺是最泛用的天赋类型。</p>\n<figure><img src=\"/images/DC5E9NBRU0GPPSLQWSY.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑一只标准的攻+防+穿刺的宠物</p>\n<p><strong>概率触发/释放类天赋</strong></p>\n<p>这类May cast可以自动施放很多不同的魔法，包括全局魔法、刃、护盾、光环、治疗等。May cast天赋不会占用玩家的豆子。由于有可能触发治疗的技能，这些天赋在盾类/奶妈类的玩家角色中比较受欢迎。当然，由于爬塔的Deckathalon活动中角色本身属性不会带进塔里，这类天赋也很受欢迎。</p>\n<figure><img src=\"/images/UV8C@C_BNFYAKGKQG.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>能力属性提升天赋</strong></p>\n<p>这类天赋可以提升宠物的属性数值。通常来说，只有最高的+65Mighty(力量）是最泛用的，它可以分别提升一只宠物的最大攻击、防御、穿刺。以下是一只带了+65天赋和不带65天赋的宠物数值对比：</p>\n<figure><img src=\"/images/DHY_5_W4DB7DFUAPC.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑不带65力量天赋</p>\n<figure><img src=\"/images/UT4T@1HED2A9G176B_2.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑带65力量天赋</p>\n<p>可以看到攻击、防御和穿刺天赋分别加了1点，</p>\n<p><strong>意念释放（Will Cast）天赋</strong></p>\n<p>这类天赋与 \"概率施放天赋 \"极为相似，但实际上是按命令施放。它们同样不会占用角色的豆子，但可以通过玩家人为操纵释放。另外，在战斗中施放这些天赋需要花费幸福值，所以需要利用这些天赋进行战斗前一定要检查给宠物喂饱了零食</p>\n<figure><img src=\"/images/E@UJ3WE8_8L58CAPH@LD.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/X4NKS4LT9JSRSL3MVDP-1024x491.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>冒险天赋</strong></p>\n<p>这些是平时冒险时会触发的天赋。和战斗天赋一样，每个宠物在同一时间只能拥有一个。它们的功能是能够搜索物品，如箱子和试剂，或是提供给玩家额外的战利品。</p>\n<figure><img src=\"/images/Storm-Scout.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑发现风暴材料的天赋</p>\n<p><strong>宠物宝石</strong></p>\n<p>当你的巫师等级达到15，同时宠物升级到长者时，可以获得一个宝石插槽。玩家可以在其中添加一颗星形珠宝。这些宝石可以提供许多不同的天赋，如概率释放、能量、提升玩家属性等等等等。部分宝石的添加有宠物的等级限制，例如火焰精通者（fire-dealer）这类的高级天赋必须在宠物达到极限时才能添加。这些宝石可以通过制作、园艺、BOSS掉落，甚至可以从皇冠商店的包裹中购买（但不推荐）。目前最多的掉落地点是天城（Empyrea）-爱丽儿森林(Ariel Jungle)-萤火虫(Fire Fly)。</p>\n<figure><img src=\"/images/L@ZDISYUJ1R15VSE3.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑极限才能添加的高级宝石</p>\n<p><strong>宠物孵化</strong></p>\n<p>孵化是一种获得理想天赋的方法。通过与其他宠物孵化，新生的宠物可能具有更有用的天赋。每次孵化，后代的宠物都会有父母双方的混合天赋。因此，你与某一特定宠物孵化的次数越多，你复制该宠物特质的机会就越大。这个在宠物天赋库中获得你想要的天赋的过程可能是非常耗时和昂贵的（大部分孵化一次需要5W金币），所以不要气馁。在你开始看到后代宠物开始像所需的宠物之前，往往需要进行大量的尝试。</p>\n",
+      "image": "https://gitee.com/subata/images/ZPZW9OENUATVR718RS-1024x768.png",
       "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
+      "date_modified": "2023-11-17T07:45:21.000Z",
+      "authors": [
+        {
+          "name": "安大帅包"
+        }
+      ],
       "tags": []
     },
     {
@@ -358,94 +364,6 @@
       "tags": []
     },
     {
-      "title": "练级指南",
-      "url": "https://gitee.com/subata/deep/index1.html",
-      "id": "https://gitee.com/subata/deep/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "游戏设置详解",
-      "url": "https://gitee.com/subata/deep/index2.html",
-      "id": "https://gitee.com/subata/deep/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "卡牌描述详解",
-      "url": "https://gitee.com/subata/deep/index3.html",
-      "id": "https://gitee.com/subata/deep/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "副本介绍",
-      "url": "https://gitee.com/subata/deep/index4.html",
-      "id": "https://gitee.com/subata/deep/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "组队、公会与冒险小队",
-      "url": "https://gitee.com/subata/deep/index5.html",
-      "id": "https://gitee.com/subata/deep/index5.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "民间货币系统(激励宝藏卡与金币)",
-      "url": "https://gitee.com/subata/deep/index6.html",
-      "id": "https://gitee.com/subata/deep/index6.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "捆绑包（Bundles）和挑战本（Gauntlets）",
-      "url": "https://gitee.com/subata/deep/index7.html",
-      "id": "https://gitee.com/subata/deep/index7.html",
-      "summary": "一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...",
-      "content_html": "<figure><img src=\"/images/bundle.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> 一、捆绑包（Bundles）</h2>\n<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>\n<figure><img src=\"/images/heavenlypalacebundle.png\" alt=\"Heavenly Palace Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Heavenly Palace Bundle</figcaption></figure>\n<h3> 1.购买与使用</h3>\n<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>\n<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>\n<figure><img src=\"/images/code.png\" alt=\"数字代码使用\" tabindex=\"0\" loading=\"lazy\"><figcaption>数字代码使用</figcaption></figure>\n<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>\n<h3> 2.Gauntlet bundle</h3>\n<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>\n<figure><img src=\"/images/nightmirebundle.png\" alt=\"Night Mire Gauntlet+Crowns Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>\n<figure><img src=\"/images/accursedgauntletbundle.png\" alt=\"Accursed play Gauntlet Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>\n<h2> 二、挑战本（Gauntlets）</h2>\n<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h3> 1.Housing Gauntlets</h3>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h3> 2. 杯子（Ultra duel）</h3>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h3> 3.一次性本（One-Shot Gauntlet）</h3>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h3> 4. 重赛杯子（Boss Rematches）</h3>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" tabindex=\"0\" loading=\"lazy\"><figcaption>NPC</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" tabindex=\"0\" loading=\"lazy\"><figcaption>配方</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" tabindex=\"0\" loading=\"lazy\"><figcaption>Boss Rematches</figcaption></figure>\n",
-      "image": "https://gitee.com/subata/images/bundle.png",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-11-07T13:41:02.000Z",
-      "authors": [
-        {
-          "name": "超威兰猫"
-        }
-      ],
-      "tags": [
-        "游戏指南"
-      ]
-    },
-    {
-      "title": "毕业装备",
-      "url": "https://gitee.com/subata/deep/index8.html",
-      "id": "https://gitee.com/subata/deep/index8.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "PVE普通副本",
       "url": "https://gitee.com/subata/fight/index1.html",
       "id": "https://gitee.com/subata/fight/index1.html",
@@ -535,6 +453,94 @@
       "title": "钓鱼指南",
       "url": "https://gitee.com/subata/manufacture/index3.html",
       "id": "https://gitee.com/subata/manufacture/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "练级指南",
+      "url": "https://gitee.com/subata/deep/index1.html",
+      "id": "https://gitee.com/subata/deep/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "游戏设置详解",
+      "url": "https://gitee.com/subata/deep/index2.html",
+      "id": "https://gitee.com/subata/deep/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "卡牌描述详解",
+      "url": "https://gitee.com/subata/deep/index3.html",
+      "id": "https://gitee.com/subata/deep/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "副本介绍",
+      "url": "https://gitee.com/subata/deep/index4.html",
+      "id": "https://gitee.com/subata/deep/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "组队、公会与冒险小队",
+      "url": "https://gitee.com/subata/deep/index5.html",
+      "id": "https://gitee.com/subata/deep/index5.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "民间货币系统(激励宝藏卡与金币)",
+      "url": "https://gitee.com/subata/deep/index6.html",
+      "id": "https://gitee.com/subata/deep/index6.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "捆绑包（Bundles）和挑战本（Gauntlets）",
+      "url": "https://gitee.com/subata/deep/index7.html",
+      "id": "https://gitee.com/subata/deep/index7.html",
+      "summary": "一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...",
+      "content_html": "<figure><img src=\"/images/bundle.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> 一、捆绑包（Bundles）</h2>\n<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>\n<figure><img src=\"/images/heavenlypalacebundle.png\" alt=\"Heavenly Palace Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Heavenly Palace Bundle</figcaption></figure>\n<h3> 1.购买与使用</h3>\n<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>\n<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>\n<figure><img src=\"/images/code.png\" alt=\"数字代码使用\" tabindex=\"0\" loading=\"lazy\"><figcaption>数字代码使用</figcaption></figure>\n<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>\n<h3> 2.Gauntlet bundle</h3>\n<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>\n<figure><img src=\"/images/nightmirebundle.png\" alt=\"Night Mire Gauntlet+Crowns Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>\n<figure><img src=\"/images/accursedgauntletbundle.png\" alt=\"Accursed play Gauntlet Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>\n<h2> 二、挑战本（Gauntlets）</h2>\n<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h3> 1.Housing Gauntlets</h3>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h3> 2. 杯子（Ultra duel）</h3>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h3> 3.一次性本（One-Shot Gauntlet）</h3>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h3> 4. 重赛杯子（Boss Rematches）</h3>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" tabindex=\"0\" loading=\"lazy\"><figcaption>NPC</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" tabindex=\"0\" loading=\"lazy\"><figcaption>配方</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" tabindex=\"0\" loading=\"lazy\"><figcaption>Boss Rematches</figcaption></figure>\n",
+      "image": "https://gitee.com/subata/images/bundle.png",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-11-07T13:41:02.000Z",
+      "authors": [
+        {
+          "name": "超威兰猫"
+        }
+      ],
+      "tags": [
+        "游戏指南"
+      ]
+    },
+    {
+      "title": "毕业装备",
+      "url": "https://gitee.com/subata/deep/index8.html",
+      "id": "https://gitee.com/subata/deep/index8.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
@@ -647,10 +653,10 @@
       "url": "https://gitee.com/subata/main/index1.html",
       "id": "https://gitee.com/subata/main/index1.html",
       "summary": "最近入坑的萌新渐渐多起来啦，但是很多萌新反应表示不清楚在哪里注册好以及登陆不上等问题。于是本章节给萌新一 一解答所遇到的问题！ 欢迎 注册流程 选择渠道 目前国内注册有Steam服和官方服两条渠道。二选一即可。（均为美服，游戏互通，充值方式不同） 两条渠道除了登陆端口即入口不同之外，游戏内是相通的，是可以相互见面的。即官网端和steam端注册的小魔法师...",
-      "content_html": "<p>最近入坑的萌新渐渐多起来啦，但是很多萌新反应表示<strong>不清楚在哪里注册好</strong>以及<strong>登陆不上</strong>等问题。于是本章节给萌新一 一解答所遇到的问题！</p>\n<figure><img src=\"/images/welcome.png\" alt=\"欢迎\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>欢迎</figcaption></figure>\n<h2> 注册流程</h2>\n<h3> 选择渠道</h3>\n<p>目前国内注册有<strong>Steam服和官方服两条渠道</strong>。<strong>二选一</strong>即可。（<strong>均为美服，游戏互通，充值方式不同</strong>）</p>\n<p>两条渠道除了<strong>登陆端口</strong>即入口<strong>不同</strong>之外，<strong>游戏内是相通的</strong>，是可以相互见面的。即<strong>官网端和steam端注册</strong>的小魔法师是<strong>可以一起</strong>愉快玩耍的。</p>\n<p>两条<strong>渠道注册的账号 登录不通用</strong>，即<strong>在官网渠道注册的账号</strong> <strong>不可以</strong> 在<strong>steam端进行登陆</strong>，反之相同。以及<strong>不同渠道注册</strong>的<strong>账号</strong> <strong>不可绑</strong>为<strong>家庭组</strong>。</p>\n<p>Steam服下载的客户端无法登录官网服账号，官网服下载的客户端无法登录Steam服账号</p>\n<p>但是！需要采取一些特殊手段或者使用Subata启动器来突破这一限制</p>\n<p>两种注册渠道并没有好坏之分，<strong>选择适合你的</strong>最重要。</p>\n\n<h3> 官网服注册流程</h3>\n<p>是直接在（<a href=\"https://www.wizard101.com/game\" target=\"_blank\" rel=\"noopener noreferrer\">Wizard101的<strong>官网</strong></a>）<strong>进行注册</strong>。（提示：进入官网<strong>需要加速器</strong>——如何获得和使用加速器此篇<strong>后文会提及</strong>噢）<strong>注册后</strong>会提示可以<strong>进行客户端下载</strong>。下载后<strong>登陆账号</strong>即可进入游戏。</p>\n<figure><img src=\"/images/signup_official.png\" alt=\"官网注册\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>官网注册</figcaption></figure>\n<h3> steam服注册流程</h3>\n<p>在<strong>steam商店</strong>直接搜索Wizard101，下载<strong>Wizard101</strong>，<a href=\"https://store.steampowered.com/app/799960/Wizard101/\" target=\"_blank\" rel=\"noopener noreferrer\">steam商店地址</a> 并进行<strong>安装</strong>。（提示：安装后<strong>打开游戏 需要加速器</strong> 不然会一直显示白板或黑屏——如何获得和使用加速器此篇<strong>后文会提及</strong>噢）<strong>打开游戏</strong>后在<strong>登陆界面</strong>进行<strong>注册</strong>，注册完后即可登陆游戏。</p>\n<p>Steam版账号注册地址：<a href=\"https://www.wizard101.com/patchClient/steamreg?abs=1\" target=\"_blank\" rel=\"noopener noreferrer\">steam版账号游戏注册（美服）</a></p>\n<figure><img src=\"/images/signup_steam.png\" alt=\"Steam注册\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>Steam注册</figcaption></figure>\n<h3> 如何填写注册信息</h3>\n<figure><img src=\"/images/signup.png\" alt=\"详解\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>详解</figcaption></figure>\n<!-- ## **汉化补丁**相关 -->\n<!-- <https://subata.top/index.php/2022/09/16/startgame/> -->\n<!-- 请移步这篇帖子 -->\n<h2> <strong>登陆不上</strong>游戏相关</h2>\n<blockquote>\n<p>怎么<strong>鉴别登陆不上</strong>？为什么会出现登陆不上？<strong>如何解决</strong>？</p>\n</blockquote>\n<p>答：登陆不上会<strong>一直显示白板或黑屏</strong>。原因在于，我们受到国内网络保护墙屏蔽的缘故。<strong>登陆国外网站 需要</strong>借助<strong>加速器</strong>才能够成功进入或登陆。</p>\n<p>目前常用的有<a href=\"https://www.nn.com/\" target=\"_blank\" rel=\"noopener noreferrer\">nn加速器</a>（淘宝5块钱一个月免排队卡，或者在非繁忙时段免费加速）</p>\n<p><a href=\"https://www.lieou.com/\" target=\"_blank\" rel=\"noopener noreferrer\">猎欧加速器</a>（最早加速wiz的加速器，二十多块钱一个月，比较贵）</p>\n<p>或者使用其他方法加速游戏（可咨询群友）</p>\n<p>编者编写时间匆忙，大家如果还有<strong>其他问题</strong>可以<strong>在评论区提出</strong>或者直接<strong>加入QQ群</strong>与我们进行沟通！</p>\n<blockquote>\n<p><strong>完成教程后卡门，怎么办？</strong></p>\n</blockquote>\n<figure><img src=\"/images/door_bug.jpg\" alt=\"卡门演示\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>卡门演示</figcaption></figure>\n<p>游戏陈年bug，由于网络问题引起的，解决方法有两种：</p>\n<p>第一种，关掉游戏重新进，（使用官方启动器重新跑条）</p>\n<p>第二种，重新进游戏，再重新创建一个一模一样的角色（捏完脸后会出现跳过教程按钮，选择跳过即可）</p>\n<h2> 玩家社群</h2>\n<h3> QQ</h3>\n<p>沃尔学院wizard101中文美服交流群:<mark>332164675</mark></p>\n<h3> Discord</h3>\n<p><a href=\"https://discord.gg/ucbJAcZ\" target=\"_blank\" rel=\"noopener noreferrer\">Subata官方discord</a></p>\n",
+      "content_html": "<p>最近入坑的萌新渐渐多起来啦，但是很多萌新反应表示<strong>不清楚在哪里注册好</strong>以及<strong>登陆不上</strong>等问题。于是本章节给萌新一 一解答所遇到的问题！</p>\n<figure><img src=\"/images/welcome.png\" alt=\"欢迎\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>欢迎</figcaption></figure>\n<h2> 注册流程</h2>\n<h3> 选择渠道</h3>\n<p>目前国内注册有<strong>Steam服和官方服两条渠道</strong>。<strong>二选一</strong>即可。（<strong>均为美服，游戏互通，充值方式不同</strong>）</p>\n<p>两条渠道除了<strong>登陆端口</strong>即入口<strong>不同</strong>之外，<strong>游戏内是相通的</strong>，是可以相互见面的。即<strong>官网端和steam端注册</strong>的小魔法师是<strong>可以一起</strong>愉快玩耍的。</p>\n<p>两条<strong>渠道注册的账号 登录不通用</strong>，即<strong>在官网渠道注册的账号</strong> <strong>不可以</strong> 在<strong>steam端进行登陆</strong>，反之相同。以及<strong>不同渠道注册</strong>的<strong>账号</strong> <strong>不可绑</strong>为<strong>家庭组</strong>。</p>\n<p>Steam服下载的客户端无法登录官网服账号，官网服下载的客户端无法登录Steam服账号</p>\n<p>但是！需要采取一些特殊手段或者使用Subata启动器来突破这一限制</p>\n<p>两种注册渠道并没有好坏之分，<strong>选择适合你的</strong>最重要。</p>\n\n<h3> 官网服注册流程</h3>\n<p>是直接在（<a href=\"https://www.wizard101.com/game\" target=\"_blank\" rel=\"noopener noreferrer\">Wizard101的<strong>官网</strong></a>）<strong>进行注册</strong>。（提示：进入官网<strong>需要加速器</strong>——如何获得和使用加速器此篇<strong>后文会提及</strong>噢）<strong>注册后</strong>会提示可以<strong>进行客户端下载</strong>。下载后<strong>登陆账号</strong>即可进入游戏。</p>\n<figure><img src=\"/images/signup_official.png\" alt=\"官网注册\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>官网注册</figcaption></figure>\n<h3> steam服注册流程</h3>\n<p>在<strong>steam商店</strong>直接搜索Wizard101，下载<strong>Wizard101</strong>，<a href=\"https://store.steampowered.com/app/799960/Wizard101/\" target=\"_blank\" rel=\"noopener noreferrer\">steam商店地址</a> 并进行<strong>安装</strong>。（提示：安装后<strong>打开游戏 需要加速器</strong> 不然会一直显示白板或黑屏——如何获得和使用加速器此篇<strong>后文会提及</strong>噢）<strong>打开游戏</strong>后在<strong>登陆界面</strong>进行<strong>注册</strong>，注册完后即可登陆游戏。</p>\n<p>Steam版账号注册地址：<a href=\"https://www.wizard101.com/patchClient/steamreg?abs=1\" target=\"_blank\" rel=\"noopener noreferrer\">steam版账号游戏注册（美服）</a></p>\n<figure><img src=\"/images/signup_steam.png\" alt=\"Steam注册\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>Steam注册</figcaption></figure>\n<h3> 如何填写注册信息</h3>\n<figure><img src=\"/images/signup.png\" alt=\"详解\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>详解</figcaption></figure>\n<!-- ## **汉化补丁**相关 -->\n<!-- <https://subata.top/index.php/2022/09/16/startgame/> -->\n<!-- 请移步这篇帖子 -->\n<h2> 下载游戏</h2>\n<p>steam服下载方式：在<strong>steam商店</strong>直接搜索Wizard101，下载<strong>Wizard101</strong>，<a href=\"https://store.steampowered.com/app/799960/Wizard101/\" target=\"_blank\" rel=\"noopener noreferrer\">steam商店地址</a> 并进行<strong>安装</strong>。</p>\n<p>官网服下载方式：<a href=\"https://www.wizard101.com\" target=\"_blank\" rel=\"noopener noreferrer\">官网地址</a></p>\n<p>如果你访问官网下载有困难，或者觉得下载速度较慢的话，可以使用官网服国内镜像包下载：</p>\n<h2> <strong>登陆不上</strong>游戏相关</h2>\n<blockquote>\n<p>怎么<strong>鉴别登陆不上</strong>？为什么会出现登陆不上？<strong>如何解决</strong>？</p>\n</blockquote>\n<p>答：登陆不上会<strong>一直显示白板或黑屏</strong>。原因在于，我们受到国内网络保护墙屏蔽的缘故。<strong>登陆国外网站 需要</strong>借助<strong>加速器</strong>才能够成功进入或登陆。</p>\n<p>目前常用的有<a href=\"https://www.nn.com/\" target=\"_blank\" rel=\"noopener noreferrer\">nn加速器</a>（淘宝5块钱一个月免排队卡，或者在非繁忙时段免费加速）</p>\n<p><a href=\"https://www.lieou.com/\" target=\"_blank\" rel=\"noopener noreferrer\">猎欧加速器</a>（最早加速wiz的加速器，二十多块钱一个月，比较贵）</p>\n<p>或者使用其他方法加速游戏（可咨询群友）</p>\n<p>编者编写时间匆忙，大家如果还有<strong>其他问题</strong>可以<strong>在评论区提出</strong>或者直接<strong>加入QQ群</strong>与我们进行沟通！</p>\n<blockquote>\n<p><strong>完成教程后卡门，怎么办？</strong></p>\n</blockquote>\n<figure><img src=\"/images/door_bug.jpg\" alt=\"卡门演示\" width=\"500\" tabindex=\"0\" loading=\"lazy\"><figcaption>卡门演示</figcaption></figure>\n<p>游戏陈年bug，由于网络问题引起的，解决方法有两种：</p>\n<p>第一种，关掉游戏重新进，（使用官方启动器重新跑条）</p>\n<p>第二种，重新进游戏，再重新创建一个一模一样的角色（捏完脸后会出现跳过教程按钮，选择跳过即可）</p>\n<h2> 玩家社群</h2>\n<h3> QQ</h3>\n<p>沃尔学院wizard101中文美服交流群:<mark>332164675</mark></p>\n<h3> Discord</h3>\n<p><a href=\"https://discord.gg/ucbJAcZ\" target=\"_blank\" rel=\"noopener noreferrer\">Subata官方discord</a></p>\n",
       "image": "https://gitee.com/subata/images/welcome.png =500x",
       "date_published": "2023-10-31T12:33:11.000Z",
-      "date_modified": "2023-11-07T03:38:54.000Z",
+      "date_modified": "2023-11-17T07:45:21.000Z",
       "authors": [
         {
           "name": "奶桃Q，布雷兹"
@@ -691,9 +697,9 @@
       "url": "https://gitee.com/subata/main/index4.html",
       "id": "https://gitee.com/subata/main/index4.html",
       "summary": "沃尔学院美服的收费模式与入坑福利 沃尔学院美服采用地图买断/月卡并行的计费模式，同时对于刚入坑的新人提供免费试玩魔法城部分区域等多重福利。 免费试玩 沃尔学院美服可以免费试玩独角兽大道及海神大街任务线，大约能到5-8级左右。 当然，免费试玩账号有一定功能上的限制，比如不能发词库之外的单词（包括数字，中文等，看到别人很多内容会被过滤为“...”）。 当你...",
-      "content_html": "<h2> 沃尔学院美服的收费模式与入坑福利</h2>\n<p>沃尔学院美服采用<strong>地图买断/月卡并行</strong>的计费模式，同时对于刚入坑的新人提供<strong>免费试玩魔法城部分区域</strong>等多重福利。</p>\n<h2> 免费试玩</h2>\n<p>沃尔学院美服可以免费试玩独角兽大道及海神大街任务线，大约能到5-8级左右。</p>\n<p>当然，免费试玩账号有一定功能上的限制，比如不能发词库之外的单词（包括数字，中文等，看到别人很多内容会被过滤为“...”）。</p>\n<p>当你首充（最低2美元-14元）之后，就算激活账户，可以进入官网设置自由聊天(Open-Chat)，就可以自由输入。</p>\n<p>官网不定期会举办两种免费活动，一种是免费试玩第一故事线（包括魔法城、克洛克、玛丽伯恩、木须和龙之谷），另一种是免费会员（一般在周年庆或者圣诞节有可能开启）</p>\n<h2> 收费方式和充值奖励</h2>\n<p>沃尔学院美服提供点卡和地图买断两种收费模式。买断地图约为2000皇冠地图一个小区域，一个世界大约需要（150-300元），月卡约为60元/月。</p>\n<h2> 关于皇冠商城</h2>\n<p>游戏道具商城提供一些装备、宠物、外观、坐骑、动作、传送特效、药剂，还有家具等等。游戏外观是无属性的装备，必须通过[装备缝合]的方式使用，商城坐骑的移动速度和游戏内的其他坐骑也是一样的（少数例外的拥有50%移速，普通坐骑40%移速）。</p>\n",
+      "content_html": "<h2> 沃尔学院美服的收费模式与入坑福利</h2>\n<p>沃尔学院美服采用<strong>地图买断/月卡并行</strong>的计费模式，同时对于刚入坑的新人提供<strong>免费试玩魔法城部分区域</strong>等多重福利。</p>\n<h2> 免费试玩</h2>\n<p>沃尔学院美服可以免费试玩独角兽大道及海神大街任务线，大约能到5-8级左右。</p>\n<p>当然，免费试玩账号有一定功能上的限制，比如不能发词库之外的单词（包括数字，中文等，看到别人很多内容会被过滤为“...”）。</p>\n<p>当你首充（最低2美元-14元）之后，就算激活账户，可以进入官网设置自由聊天(Open-Chat)，就可以自由输入。</p>\n<p>官网不定期会举办两种免费活动，一种是免费试玩第一故事线（包括魔法城、克洛克、玛丽伯恩、木须和龙之谷），另一种是免费会员（一般在周年庆或者圣诞节有可能开启）</p>\n<h2> 收费方式和充值奖励</h2>\n<p>沃尔学院美服提供月卡和地图买断两种收费模式。买断地图约为2000皇冠地图一个小区域，一个世界大约需要（150-300元），月卡约为60元/月。</p>\n<h2> 各种付费模式的对比</h2>\n<p>游戏账户状态区分为免费试玩（Free to Play）和会员（Membership）</p>\n\n",
       "date_published": "2023-10-31T12:33:11.000Z",
-      "date_modified": "2023-11-07T08:55:54.000Z",
+      "date_modified": "2023-11-17T07:45:21.000Z",
       "authors": [
         {
           "name": "蓝色灭火器"
