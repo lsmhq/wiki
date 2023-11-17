@@ -6,10 +6,13 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 07 Nov 2023 13:40:47 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Nov 2023 13:40:47 GMT</lastBuildDate>
+    <pubDate>Tue, 14 Nov 2023 10:46:52 GMT</pubDate>
+    <lastBuildDate>Tue, 14 Nov 2023 10:46:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>自定义组件</category>
+    <category>本地运行</category>
+    <category>更新页面</category>
     <category>写作原则</category>
     <category>克隆仓库</category>
     <category>Git上传文件</category>
@@ -19,6 +22,126 @@
     <category>模板专属分类</category>
     <category>游戏指南</category>
     <category>使用指南</category>
+    <item>
+      <title>自定义组件</title>
+      <link>https://gitee.com/subata/template/components.html</link>
+      <guid>https://gitee.com/subata/template/components.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">自定义组件</source>
+      <description>自定义组件</description>
+      <category>自定义组件</category>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> PopOver</h2>
+<h3> 样式</h3>
+<p>
+这是一个例子：
+    
+</p>
+<h3> 代码展示</h3>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3> 参数介绍</h3>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>类型</th>
+<th>作用</th>
+<th>默认值</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>src</td>
+<td>String</td>
+<td>图片路径</td>
+<td>'/images/empty.gif'</td>
+</tr>
+<tr>
+<td>text</td>
+<td>String</td>
+<td>文本内容</td>
+<td>'Subata'</td>
+</tr>
+<tr>
+<td>title</td>
+<td>String</td>
+<td>弹出卡片内的Title</td>
+<td>'Subata'</td>
+</tr>
+<tr>
+<td>desc</td>
+<td>String</td>
+<td>弹出卡片内的描述</td>
+<td>'Lsmhq~'</td>
+</tr>
+<tr>
+<td>trigger</td>
+<td>'hover' | 'click'</td>
+<td>触发方式</td>
+<td>'hover'</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>本地运行</title>
+      <link>https://gitee.com/subata/template/build.html</link>
+      <guid>https://gitee.com/subata/template/build.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">本地运行</source>
+      <description>本地运行</description>
+      <category>本地运行</category>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 打包</h2>
+<h3> 进入项目文件夹</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> build完成后将生成的所有文件一并上传至仓库</h3>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>本地运行</title>
+      <link>https://gitee.com/subata/template/dev.html</link>
+      <guid>https://gitee.com/subata/template/dev.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">本地运行</source>
+      <description>本地运行</description>
+      <category>本地运行</category>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 准备工作</h2>
+<h3> Node环境</h3>
+<ul>
+<li>下载Node - <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">点击前往下载-Node.js</a></li>
+<li>安装Node</li>
+<li>结束</li>
+</ul>
+<h3> pnpm</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h3> vuepress</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div><h2> 运行</h2>
+<h3> 进入项目文件夹</h3>
+<div class="language-bash line-numbers-mode" data-ext="sh"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>更新页面</title>
+      <link>https://gitee.com/subata/template/publish.html</link>
+      <guid>https://gitee.com/subata/template/publish.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">更新页面</source>
+      <description>更新页面</description>
+      <category>更新页面</category>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 发布</h2>
+<ul>
+<li>
+<p><a href="https://gitee.com/lsmhq/subata/pages" target="_blank" rel="noopener noreferrer">发布地址</a></p>
+</li>
+<li>
+<p>点击链接中的更新按钮</p>
+</li>
+<li>
+<p>结束</p>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>原则</title>
       <link>https://gitee.com/subata/template/rules.html</link>
@@ -201,6 +324,39 @@
 <p>每个页面对应仓库中一个md文件，只需要点击每页最下方的按钮即可进行书写</p>
 <h3> 如何进行书写？</h3>
 <p><a href="/subata/template/template.html" target="blank">书写方式请点击查看</a></p>
+<h2> 注意事项</h2>
+<h3> 图片如何上传?</h3>
+<ul>
+<li><a href="https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/images" target="_blank" rel="noopener noreferrer">上传地址</a></li>
+<li>点击上传文件按钮</li>
+</ul>
+<figure><img src="/assets/image/20231110133144.png" alt="上传按钮" tabindex="0" loading="lazy"><figcaption>上传按钮</figcaption></figure>
+<ul>
+<li>
+<p>引用图片</p>
+</li>
+<li>
+<p>例如：上传了一张名为： <mark>empty.gif</mark> 的图片</p>
+</li>
+<li>
+<p>图片路径就为: <mark>/images/empty.gif</mark></p>
+</li>
+<li>
+<p><a href="/subata/template/template.html#%E5%9B%BE%E7%89%87%E5%BC%95%E5%85%A5%E5%B1%95%E7%A4%BA" target="blank">前往查看图片详细语法</a></p>
+</li>
+</ul>
+<h4> 图片例子</h4>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="200" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h3> 如何上传PDF？</h3>
+<ul>
+<li><a href="https://gitee.com/lsmhq/subata/tree/v-wiki/src/.vuepress/public/PDF" target="_blank" rel="noopener noreferrer">上传地址</a></li>
+<li>进入地址同上传图片操作</li>
+<li>引用PDF</li>
+<li>例如：上传了一张名为： <mark>empty.pdf</mark> 的图片</li>
+<li>PDF路径就为: <mark>/PDF/empty.pdf</mark></li>
+<li><a href="/subata/template/template.html#pdf" target="blank">前往PDF写法教程</a></li>
+</ul>
+<h4> PDF例子</h4>
 ]]></content:encoded>
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
@@ -302,7 +458,15 @@
 <h3> 表格代码展示</h3>
 <div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 图片引入展示</h2>
 <figure><img src="/assets/background/1698762378175.jpg" alt="图片名称" width="200" height="300" tabindex="0" loading="lazy"><figcaption>图片名称</figcaption></figure>
-<figure><img src="https://subata.top/wp-content/uploads/2023/03/https-subata-top-wp-content-uploads-2022-09-7999.jpeg" alt="测试外部图片" width="500" tabindex="0" loading="lazy"><figcaption>测试外部图片</figcaption></figure>
+<h3> 不设置宽高</h3>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<h3> 只设置宽，高度按比例自动调节</h3>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="500" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="300" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="100" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<h3> 宽高同时设置</h3>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="100" height="500" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
+<figure><img src="/images/empty.gif" alt="啊啊啊~" width="500" height="100" tabindex="0" loading="lazy"><figcaption>啊啊啊~</figcaption></figure>
 <h3> 图片代码展示</h3>
 
 <h2> Tab标签</h2>

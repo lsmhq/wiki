@@ -236,7 +236,23 @@ console.log(code)
 
 ![图片名称](/assets/background/1698762378175.jpg =200x300)
 
-![测试外部图片](https://subata.top/wp-content/uploads/2023/03/https-subata-top-wp-content-uploads-2022-09-7999.jpeg =500x)
+### 不设置宽高
+
+![啊啊啊~](/images/empty.gif)
+
+### 只设置宽，高度按比例自动调节
+
+![啊啊啊~](/images/empty.gif =500x)
+
+![啊啊啊~](/images/empty.gif =300x)
+
+![啊啊啊~](/images/empty.gif =100x)
+
+### 宽高同时设置
+
+![啊啊啊~](/images/empty.gif =100x500)
+
+![啊啊啊~](/images/empty.gif =500x100)
 
 ### 图片代码展示
 
@@ -247,13 +263,38 @@ console.log(code)
 <Badge type="tip">推荐写法</Badge>
 
 ``` md
+<!-- 基础写法 -->
 ![图片名称](/assets/background/1698762378175.jpg =200x300)
+
+### 不设置宽高
+
+![啊啊啊~](/images/empty.gif)
+
+### 只设置宽，高度按比例自动调节
+
+![啊啊啊~](/images/empty.gif =500x)
+
+![啊啊啊~](/images/empty.gif =300x)
+
+![啊啊啊~](/images/empty.gif =100x)
+
+### 宽高同时设置
+
+![啊啊啊~](/images/empty.gif =100x500)
+
+![啊啊啊~](/images/empty.gif =500x100)
+
 ```
 
 @tab html
 
 ``` html
-<img src="/assets/background/1698762378175.jpg" alt="图片名称" width=200 height=300/>
+<img 
+  src="/assets/background/1698762378175.jpg" 
+  alt="图片名称" 
+  width=200 
+  height=300
+/>
 ```
 
 :::
@@ -325,6 +366,7 @@ color: rgba(253, 230, 138, 0.15)
     这里是蓝色灭火器的私密笔记
 </details>
 ```
+
 ## 组件展示
 
 ## 标签
@@ -357,12 +399,14 @@ color: rgba(253, 230, 138, 0.15)
 
 ## PDF
 
-<PDF url="/assets/sample.pdf" />
+<PDF url="/PDF/result_1699598418837.pdf" height="100vh"/>
 
 ### PDF代码
 
 ```html
-<PDF url="/assets/sample.pdf" />
+<!-- 属性：height 设置高度 -->
+<!-- 属性：width  设置宽度 -->
+<PDF url="/PDF/result_1699598418837.pdf" height="100vh"/>
 ```
 
 ## 分享

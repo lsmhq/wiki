@@ -60,7 +60,7 @@ export default sidebar({
   ],
   '/template/':[
     {
-      text: "原初模板",
+      text: "准备工作",
       icon: "home",
       prefix: "template/",
       children: [
@@ -88,8 +88,28 @@ export default sidebar({
       ],
       collapsible: true
     },{
+      text: '更新流程',
+      icon: 'key',
+      collapsible: true,
+      children:[
+        {
+          text: '本地运行',
+          link: '/template/dev.md'
+        },{
+          text: '本地打包',
+          link: '/template/build.md'
+        },{
+          text: '更新发布',
+          link: '/template/publish.md'
+        },
+      ]
+    },{
       text: '书写语法介绍',
       link: '/template/template.md',
+      icon: 'code'
+    },{
+      text: '自定义组件介绍',
+      link: '/template/components.md',
       icon: 'code'
     },{
       text: '原则',
