@@ -7,6 +7,49 @@
   "favicon": "https://gitee.com/subata/assets/logo.ico",
   "items": [
     {
+      "title": "使用说明",
+      "url": "https://gitee.com/subata/subata/introduction.html",
+      "id": "https://gitee.com/subata/subata/introduction.html",
+      "summary": "安装\r前往本站首页面，点击下载按钮进行下载;",
+      "content_html": "<h2> 安装</h2>\n<ul>\n<li>前往本站首页面，点击下载按钮进行下载</li>\n</ul>\n",
+      "date_published": "2023-11-21T08:27:22.000Z",
+      "date_modified": "2023-11-21T08:27:22.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "常见问题",
+      "url": "https://gitee.com/subata/subata/question.html",
+      "id": "https://gitee.com/subata/subata/question.html",
+      "content_html": "",
+      "date_published": "2023-11-21T08:27:22.000Z",
+      "date_modified": "2023-11-21T08:27:22.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": []
+    },
+    {
+      "title": "更新日志",
+      "url": "https://gitee.com/subata/subata/update.html",
+      "id": "https://gitee.com/subata/subata/update.html",
+      "content_html": "",
+      "date_published": "2023-11-21T08:27:22.000Z",
+      "date_modified": "2023-11-21T08:27:22.000Z",
+      "authors": [
+        {
+          "name": "蓝色灭火器"
+        }
+      ],
+      "tags": []
+    },
+    {
       "title": "自定义组件",
       "url": "https://gitee.com/subata/template/components.html",
       "id": "https://gitee.com/subata/template/components.html",
@@ -224,10 +267,10 @@
       "url": "https://gitee.com/subata/base/index2.html",
       "id": "https://gitee.com/subata/base/index2.html",
       "summary": "序言 在游戏的一开始，会有测试让你选择学院，不必来群里问那个学院最强，七个学院都有它的意义，跟随你的测试结果就好。但请你记住，任何学院开荒都是困难的，换一个学院玩只会让你痛苦加倍。在选择好你的学院之后，跟随你的步伐走下去就好。 游戏存在三大系十一个学院，分别是代表元素魔法的（风暴、火焰、冰霜），代表精神魔法的（神圣、亡灵、生命），以及一个平衡系魔法。这...",
-      "content_html": "<h2> 序言</h2>\n<p>在游戏的一开始，会有测试让你选择学院，不必来群里问那个学院最强，七个学院都有它的意义，跟随你的测试结果就好。<strong>但请你记住，任何学院开荒都是困难的，换一个学院玩只会让你痛苦加倍</strong>。在选择好你的学院之后，跟随你的步伐走下去就好。</p>\n<p>游戏存在三大系十一个学院，分别是代表元素魔法的（风暴、火焰、冰霜），代表精神魔法的（神圣、亡灵、生命），以及一个平衡系魔法。这些学院是小魔法师可以加入的学院。<br>\n还有一个代表星界魔法的（太阳、群星、月亮）和暗影魔法，这些学院是小魔法师无法加入的学院，他们的导师会传授强力的魔法帮助魔法师们击败强力的怪物。</p>\n<h2> <strong>游戏帮助与第一个游戏规则</strong></h2>\n<p>在你最开始的时候，你的装备是很差的，几乎没有属性的加持，那要怎么击败那些比你强大的对手呢？</p>\n<p>这就涉及到我们的<strong>第一个游戏规则——先手与后手</strong>，作为一个回合制游戏，就会有先手与后手，相比于其他游戏的规则，<strong>wiz的后手不会有任何的补偿</strong>，所以在你后手的时候，就要学会忍耐，怪物一般先手会加buff或者攻击，那么你就要学会使用<strong>盾牌</strong>来阻挡怪物的攻击，之后再加BUFF与攻击怪物。总之，在你不能一个魔法做掉对面的时候，你需要学会<strong>保守</strong>，当你有十足的把握做掉对手，你要学会<strong>激进</strong>。</p>\n<p><strong>你问我盾牌是什么？OK，要是不知道卡牌代表什么，可以在你的魔法书中找到帮助，在这里你可以看见卡牌的分类与常见的图标示意，请你全部看完，谢谢</strong></p>\n<figure><img src=\"/images/帮助界面-1-1024x647.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> <strong>BUFF与第二个游戏规则</strong></h2>\n<p>好的，在你看完后相信你对常见的buff有了一定的了解，那我们回到这个问题，你在防御怪物的攻击后，要怎么击败他们？在你遇到第一个有些难度的BOSS时你会发现，它的血量怎么这么多，而我的卡面数值这么低，要怎么击败它？这里引出我们的<strong>第二个游戏规则——BUFF叠加</strong>，通过合理利用blade（刃）、trap（陷阱）、bubble（立场）、auras（光环）。我们可以击败比我们卡面数值高十倍乃至百倍的怪物。</p>\n<p>那么，你是否手里面带100张刃或者陷阱就可以毁天灭地了呢？很显然是不可能的！这个游戏的buff叠加是有规则的，**记住一点：至少有一点点不一样的buff才能叠加！**下面的提示能让你顺利的叠加buff ##</p>\n<p>①别想着用别的学院的刃，你的buff是有学院的（除了平衡学院的全系BUFF），<strong>比如你是冰霜学院的你加一堆火焰学院的刃是没有意义的，因为你的攻击法术对不上</strong>。<br>\n②在游戏开始，你或许只能学会一个buff或者两个，但是在86级时，你可以学会<strong>太阳魔法附魔buff</strong>，它能让你的buff数值+10%，这样就可以做到两个buff不一样。<br>\n③一些<strong>宠物</strong>与<strong>装备</strong>会给你卡牌，这也是不重复的buff。<br>\n④<strong>宝藏卡</strong>也可以给你buff卡牌，也是不重复的buff。<br>\n⑤所有的BUFF计算都是<strong>乘法计算</strong>。</p>\n<figure><img src=\"/images/BUFF1.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/BUFF2.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>如上图所示，卡盒中有一个太阳附魔<strong>陷阱</strong>buff（+10%）、一个太阳附魔<strong>刃</strong>buff（+10%）、两个火焰<strong>刃</strong>（=35%）、两个火焰<strong>陷阱</strong>（+30%）、一个装备给的平衡系<strong>刃</strong>（+25%）、一个宝藏卡给的元素<strong>刃</strong>（+35%），那么我可以获得多大的增益呢？</p>\n<p><strong>答案是</strong>：<br>\n通过叠加<strong>刃</strong>我可以获得<strong>1.45*1.35*1.25*1.35=3.30</strong>伤害加成<br>\n在攻击出去后，结算怪物身上的buff<br>\n怪物身上的<strong>陷阱</strong>为<strong>1.4*1.3=1.82</strong><br>\n最终造成的伤害（假设我<strong>没有装备属性加成</strong>且只使用一个<strong>威力为100的法术</strong>）：<strong>100*3.30*1.82=600</strong></p>\n<h2> <strong>牌库与第三个游戏规则</strong></h2>\n<p>随着你的等级提升，你会学习越来越多的魔法，那么要怎么配置卡盒，以及怎么使你的出牌更加流畅而不至于被卡手呢？<strong>这就涉及第三个游戏规则——抽牌与弃牌</strong>。</p>\n<p><strong>现在观察这两组卡牌，分辨一下好坏。</strong></p>\n<figure><img src=\"/images/配卡1.png\" alt=\"配卡1\" tabindex=\"0\" loading=\"lazy\"><figcaption>配卡1</figcaption></figure>\n<figure><img src=\"/images/配卡2.png\" alt=\"配卡2\" tabindex=\"0\" loading=\"lazy\"><figcaption>配卡2</figcaption></figure>\n<p>配卡2是我们更为推荐的配卡，作为萌新的你会好奇，牌越多不是越好嘛？更稳定的打过怪物。那么，你就要明白，作为一个推主线的卡盒，过多的卡牌会导致你卡手，即<strong>你的手牌只有七张</strong>，但是你这个回合想加buff，而你由于没抽到你就只能PASS，就白白浪费一回合。<br>\n如果你像右边一样配卡，就能<strong>保证你起手就有BUFF、附魔、攻击卡</strong>，这样更方便你抉择。如下图所示，我起手有刃、有单体攻击、有附魔魔法，这样我就可以保证每个回合都有事可做。</p>\n<figure><img src=\"/images/抽牌-1024x629.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>但是！有些情况下，你需要带很多的牌，比如你作为一个辅助的时候，如下图左所示。这时你要学会弃牌，这个游戏的<strong>手牌上限是七张</strong>，但是每回合的抽牌一定会抽到手牌上限（除非你的牌库不够牌补满手牌），所以，当你抽到不需要的卡牌时，<strong>右键点击卡牌</strong>，就能弃掉这些卡牌！虽然这样你这个回合也许不能做事，但能让你从下回合开始找回你的出牌节奏。如下图右所示，我的手牌没有办法辅助三位元素系的魔法师，我就只能弃牌增加下回合抽到元素类buff的概率。</p>\n<figure><img src=\"/images/配卡3.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/弃牌-1024x592.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n",
-      "image": "https://gitee.com/subata/images/帮助界面-1-1024x647.png",
+      "content_html": "<h2> 序言</h2>\n<p>在游戏的一开始，会有测试让你选择学院，不必来群里问那个学院最强，七个学院都有它的意义，跟随你的测试结果就好。<strong>但请你记住，任何学院开荒都是困难的，换一个学院玩只会让你痛苦加倍</strong>。在选择好你的学院之后，跟随你的步伐走下去就好。</p>\n<p>游戏存在三大系十一个学院，分别是代表元素魔法的（风暴、火焰、冰霜），代表精神魔法的（神圣、亡灵、生命），以及一个平衡系魔法。这些学院是小魔法师可以加入的学院。<br>\n还有一个代表星界魔法的（太阳、群星、月亮）和暗影魔法，这些学院是小魔法师无法加入的学院，他们的导师会传授强力的魔法帮助魔法师们击败强力的怪物。</p>\n<h2> <strong>游戏帮助与第一个游戏规则</strong></h2>\n<p>在你最开始的时候，你的装备是很差的，几乎没有属性的加持，那要怎么击败那些比你强大的对手呢？</p>\n<p>这就涉及到我们的<strong>第一个游戏规则——先手与后手</strong>，作为一个回合制游戏，就会有先手与后手，相比于其他游戏的规则，<strong>wiz的后手不会有任何的补偿</strong>，所以在你后手的时候，就要学会忍耐，怪物一般先手会加buff或者攻击，那么你就要学会使用<strong>盾牌</strong>来阻挡怪物的攻击，之后再加BUFF与攻击怪物。总之，在你不能一个魔法做掉对面的时候，你需要学会<strong>保守</strong>，当你有十足的把握做掉对手，你要学会<strong>激进</strong>。</p>\n<p><strong>你问我盾牌是什么？OK，要是不知道卡牌代表什么，可以在你的魔法书中找到帮助，在这里你可以看见卡牌的分类与常见的图标示意，请你全部看完，谢谢</strong></p>\n<figure><img src=\"/images/帮助界面-1-1024x647.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> <strong>BUFF与第二个游戏规则</strong></h2>\n<p>好的，在你看完后相信你对常见的buff有了一定的了解，那我们回到这个问题，你在防御怪物的攻击后，要怎么击败他们？在你遇到第一个有些难度的BOSS时你会发现，它的血量怎么这么多，而我的卡面数值这么低，要怎么击败它？这里引出我们的<strong>第二个游戏规则——BUFF叠加</strong>，通过合理利用blade（刃）、trap（陷阱）、bubble（立场）、auras（光环）。我们可以击败比我们卡面数值高十倍乃至百倍的怪物。</p>\n<p>那么，你是否手里面带100张刃或者陷阱就可以毁天灭地了呢？很显然是不可能的！这个游戏的buff叠加是有规则的，**记住一点：至少有一点点不一样的buff才能叠加！**下面的提示能让你顺利的叠加buff ##</p>\n<p>①别想着用别的学院的刃，你的buff是有学院的（除了平衡学院的全系BUFF），<strong>比如你是冰霜学院的你加一堆火焰学院的刃是没有意义的，因为你的攻击法术对不上</strong>。<br>\n②在游戏开始，你或许只能学会一个buff或者两个，但是在86级时，你可以学会<strong>太阳魔法附魔buff</strong>，它能让你的buff数值+10%，这样就可以做到两个buff不一样。<br>\n③一些<strong>宠物</strong>与<strong>装备</strong>会给你卡牌，这也是不重复的buff。<br>\n④<strong>宝藏卡</strong>也可以给你buff卡牌，也是不重复的buff。<br>\n⑤所有的BUFF计算都是<strong>乘法计算</strong>。</p>\n<figure><img src=\"/images/BUFF1.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/BUFF2.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>如上图所示，卡盒中有一个太阳附魔<strong>陷阱</strong>buff（+10%）、一个太阳附魔<strong>刃</strong>buff（+10%）、两个火焰<strong>刃</strong>（=35%）、两个火焰<strong>陷阱</strong>（+30%）、一个装备给的平衡系<strong>刃</strong>（+25%）、一个宝藏卡给的元素<strong>刃</strong>（+35%），那么我可以获得多大的增益呢？</p>\n<p><strong>答案是</strong>：<br>\n通过叠加<strong>刃</strong>我可以获得<strong>1.45*1.35*1.25*1.35=3.30</strong>伤害加成<br>\n在攻击出去后，结算怪物身上的buff<br>\n怪物身上的<strong>陷阱</strong>为<strong>1.4*1.3=1.82</strong><br>\n最终造成的伤害（假设我<strong>没有装备属性加成</strong>且只使用一个<strong>威力为100的法术</strong>）：<strong>100*3.30*1.82=600</strong></p>\n<h2> <strong>牌库与第三个游戏规则</strong></h2>\n<p>随着你的等级提升，你会学习越来越多的魔法，那么要怎么配置卡盒，以及怎么使你的出牌更加流畅而不至于被卡手呢？<strong>这就涉及第三个游戏规则——抽牌与弃牌</strong>。</p>\n<p><strong>现在观察这两组卡牌，分辨一下好坏。</strong></p>\n<figure><img src=\"/images/配卡1.png\" alt=\"配卡1\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption>配卡1</figcaption></figure>\n<figure><img src=\"/images/配卡2.png\" alt=\"配卡2\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption>配卡2</figcaption></figure>\n<p>配卡2是我们更为推荐的配卡，作为萌新的你会好奇，牌越多不是越好嘛？更稳定的打过怪物。那么，你就要明白，作为一个推主线的卡盒，过多的卡牌会导致你卡手，即<strong>你的手牌只有七张</strong>，但是你这个回合想加buff，而你由于没抽到你就只能PASS，就白白浪费一回合。<br>\n如果你像右边一样配卡，就能<strong>保证你起手就有BUFF、附魔、攻击卡</strong>，这样更方便你抉择。如下图所示，我起手有刃、有单体攻击、有附魔魔法，这样我就可以保证每个回合都有事可做。</p>\n<figure><img src=\"/images/抽牌-1024x629.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>但是！有些情况下，你需要带很多的牌，比如你作为一个辅助的时候，如下图左所示。这时你要学会弃牌，这个游戏的<strong>手牌上限是七张</strong>，但是每回合的抽牌一定会抽到手牌上限（除非你的牌库不够牌补满手牌），所以，当你抽到不需要的卡牌时，<strong>右键点击卡牌</strong>，就能弃掉这些卡牌！虽然这样你这个回合也许不能做事，但能让你从下回合开始找回你的出牌节奏。如下图右所示，我的手牌没有办法辅助三位元素系的魔法师，我就只能弃牌增加下回合抽到元素类buff的概率。</p>\n<figure><img src=\"/images/配卡3.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/弃牌-1024x592.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n",
+      "image": "https://gitee.com/subata/images/帮助界面-1-1024x647.png =300x",
       "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-11-07T13:13:55.000Z",
+      "date_modified": "2023-11-17T08:50:27.000Z",
       "authors": [
         {
           "name": "杰克龙"
@@ -239,11 +282,11 @@
       "title": "宠物系统",
       "url": "https://gitee.com/subata/base/index3.html",
       "id": "https://gitee.com/subata/base/index3.html",
-      "summary": "前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。 新手攻略（by安包） 宠物从哪里来？ 在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从...",
-      "content_html": "<p>前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。</p>\n<p><strong>新手攻略（by安包）</strong></p>\n<p><strong>宠物从哪里来？</strong></p>\n<p>在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从学院教授处获得专属学院宠物。除了通过游戏里进行伐木固定BOSS掉落、金币/皇冠购买等，还可以通过和其他的玩家进行孵化。只要对方的宠物不是专属，就可以随机获得两个宠物中的其中任何一个，甚至还会得到新的混合宠物。</p>\n<p><strong>宠物的等级</strong></p>\n<p>所有的宠物最开始都是婴儿形态，需要125的经验才能成为少年。宠物总共有6个不同阶段，以下是各阶段需要的经验：</p>\n<p>婴儿到少年 = 125XP<br>\n少年到成年 = 250 XP<br>\n成年到长者 = 525 XP<br>\n长者到英雄 = 1050 XP<br>\n英雄到王者 = 2125 XP<br>\n王者到极限 = 2250 XP</p>\n<p>每次宠物的等级提升，除了从王者到极限以外，它将获得某种形式的天赋。从王者到极限并不会开启天赋，而是送给玩家一个+65属性的随机宠物宝石。</p>\n<figure><img src=\"/images/ZPZW9OENUATVR718RS-1024x768.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>了解宠物的各项数值</strong></p>\n<p>宠物有五个影响其天赋的主要属性 - 力量、智力、敏捷、意志和精神。<strong>每个属性的数值越高，你的宠物天赋技能的百分比就越高</strong>。例如，一个拥有高属性的宠物，如下图所示，将会给予玩家更多的伤害或抵抗力。当然，这同样取决于宠物的天赋。举个例子：同样是火焰攻击天赋，火焰精通者（fire-dealer）的最高值是11点，而火焰-恩赐（fire-boon）则只有4点。</p>\n<figure><img src=\"/images/6I4ADOMIBPE34Q2@Y8N-1024x797.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/OWCUIZHA5R@4D8A8H.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/5LF3QV@_BEF9PI@69S.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>宠物在经过训练后，最好将所有属性都达到最大值。当然也有例外，智力这个属性影响的加成并不重要，所以可以暂时忽略它。</p>\n<figure><img src=\"/images/GTH1F6DKY2MNAULM@X.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>除此以外，力量、敏捷、意志和精神所影响的属性大多是玩家需要的，可以通过喂食小吃拉到最大值。</p>\n<figure><img src=\"/images/D67@H7QWBMRN3@C7_R0.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/9YR5LZ9J@LUT@7HAEG@I.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/YUPBGV2QX5SI0ICPIG.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/U9FSK7KCB5@NKCG4.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>此时你可能注意到，最下方还有一个属性：happiness，即宠物幸福值。这是一个并不影响宠物基本数值的属性，但是一些特定的扮演宠物任务和天赋（Will Cast 各类技能天赋）需要用到这个属性。可以通过喂食小吃进行补充</p>\n<p><strong>如何练宠</strong></p>\n<p>宠物可以通过完成魔法城宠物馆的迷你小游戏来进行训练。每个小游戏可以带来最多4经验，同样取决于玩家在小游戏中的表现。一般来说，宠物炫舞是最快的小游戏，所以目前只介绍这个：</p>\n<figure><img src=\"/images/Picture-2020-04-09-23-03-06-768x576-1.jpg\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>使用方向键，跟随提示的箭头进行记忆。<strong>连续3次成功即视为通过。</strong></p>\n<p>完成每个小游戏后，你可以为你的宠物喂食任意一种宠物零食。</p>\n<p><strong>同样的游戏只需赢25次，后续就可以跳过游戏阶段直接进行宠物喂食，省时省力。</strong></p>\n<p><strong>宠物零食的筛选</strong></p>\n<p>选择正确的宠物零食可以影响到你的宠物成长的速度，尽量挑选能提高有助于你的宠物属性的零食。游戏中最好的零食能提供40-50的经验值，这些是一种特殊类型的零食，称为mega snacks。这些零食可以通过手工制作、击败某些老板、园艺或在皇冠商店mega snacks pack获得（不推荐）。<strong>目前为止园艺依旧是获得超级零食的最佳办法，具体可参考隔壁如何成为种菜大师。</strong></p>\n<p>同样的，宠物也有自己喜欢的食物。不过相比起超级零食提供的加成，喂宠物喜欢的零食只会提供1到2点额外加成，不用特地去搜集宠物喜欢的零食进行投喂。</p>\n<figure><img src=\"/images/8OZADQJAT1Z6I6EHFRL.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑超级零食之一</p>\n<p><strong>宠物天赋</strong></p>\n<p>一个宠物可以拥有不同种类的天赋。每个初代宠物的天赋都是固定的，一旦与他人的宠物进行孵化，新生宠物的天赋就会遗传父母的天赋库。以下为天赋类型分类：</p>\n<p><strong>玩家状态类型提升天赋</strong></p>\n<p>这类天赋可以提供攻击、防御、治疗、金豆率、豹击、穿刺等。通常来说，除了金豆率、豹击和治疗，攻击，防御和穿刺是最泛用的天赋类型。</p>\n<figure><img src=\"/images/DC5E9NBRU0GPPSLQWSY.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑一只标准的攻+防+穿刺的宠物</p>\n<p><strong>概率触发/释放类天赋</strong></p>\n<p>这类May cast可以自动施放很多不同的魔法，包括全局魔法、刃、护盾、光环、治疗等。May cast天赋不会占用玩家的豆子。由于有可能触发治疗的技能，这些天赋在盾类/奶妈类的玩家角色中比较受欢迎。当然，由于爬塔的Deckathalon活动中角色本身属性不会带进塔里，这类天赋也很受欢迎。</p>\n<figure><img src=\"/images/UV8C@C_BNFYAKGKQG.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>能力属性提升天赋</strong></p>\n<p>这类天赋可以提升宠物的属性数值。通常来说，只有最高的+65Mighty(力量）是最泛用的，它可以分别提升一只宠物的最大攻击、防御、穿刺。以下是一只带了+65天赋和不带65天赋的宠物数值对比：</p>\n<figure><img src=\"/images/DHY_5_W4DB7DFUAPC.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑不带65力量天赋</p>\n<figure><img src=\"/images/UT4T@1HED2A9G176B_2.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑带65力量天赋</p>\n<p>可以看到攻击、防御和穿刺天赋分别加了1点，</p>\n<p><strong>意念释放（Will Cast）天赋</strong></p>\n<p>这类天赋与 \"概率施放天赋 \"极为相似，但实际上是按命令施放。它们同样不会占用角色的豆子，但可以通过玩家人为操纵释放。另外，在战斗中施放这些天赋需要花费幸福值，所以需要利用这些天赋进行战斗前一定要检查给宠物喂饱了零食</p>\n<figure><img src=\"/images/E@UJ3WE8_8L58CAPH@LD.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/X4NKS4LT9JSRSL3MVDP-1024x491.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p><strong>冒险天赋</strong></p>\n<p>这些是平时冒险时会触发的天赋。和战斗天赋一样，每个宠物在同一时间只能拥有一个。它们的功能是能够搜索物品，如箱子和试剂，或是提供给玩家额外的战利品。</p>\n<figure><img src=\"/images/Storm-Scout.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑发现风暴材料的天赋</p>\n<p><strong>宠物宝石</strong></p>\n<p>当你的巫师等级达到15，同时宠物升级到长者时，可以获得一个宝石插槽。玩家可以在其中添加一颗星形珠宝。这些宝石可以提供许多不同的天赋，如概率释放、能量、提升玩家属性等等等等。部分宝石的添加有宠物的等级限制，例如火焰精通者（fire-dealer）这类的高级天赋必须在宠物达到极限时才能添加。这些宝石可以通过制作、园艺、BOSS掉落，甚至可以从皇冠商店的包裹中购买（但不推荐）。目前最多的掉落地点是天城（Empyrea）-爱丽儿森林(Ariel Jungle)-萤火虫(Fire Fly)。</p>\n<figure><img src=\"/images/L@ZDISYUJ1R15VSE3.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑极限才能添加的高级宝石</p>\n<p><strong>宠物孵化</strong></p>\n<p>孵化是一种获得理想天赋的方法。通过与其他宠物孵化，新生的宠物可能具有更有用的天赋。每次孵化，后代的宠物都会有父母双方的混合天赋。因此，你与某一特定宠物孵化的次数越多，你复制该宠物特质的机会就越大。这个在宠物天赋库中获得你想要的天赋的过程可能是非常耗时和昂贵的（大部分孵化一次需要5W金币），所以不要气馁。在你开始看到后代宠物开始像所需的宠物之前，往往需要进行大量的尝试。</p>\n",
-      "image": "https://gitee.com/subata/images/ZPZW9OENUATVR718RS-1024x768.png",
+      "summary": "前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。 宠物从哪里来？ 在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从学院教授处获得专属学院...",
+      "content_html": "<p>前言：Wizard101的宠物可以提供百分比伤害提升，百分比防御提升，各种概率触发和需要消耗幸福值稳定触发的天赋，以及其他更加方便的状态和天赋。</p>\n<h2> <strong>宠物从哪里来？</strong></h2>\n<p>在游戏中，宠物的来源错综复杂，一一列出需要很长的时间，故若是需要特定宠物可以自行进行wiki搜索。但可以确定的是，玩家可以分别在48级，58级，78级，98和118级中从学院教授处获得专属学院宠物。除了通过游戏里进行伐木固定BOSS掉落、金币/皇冠购买等，还可以通过和其他的玩家进行孵化。只要对方的宠物不是专属，就可以随机获得两个宠物中的其中任何一个，甚至还会得到新的混合宠物。</p>\n<h2> <strong>宠物的等级</strong></h2>\n<p>所有的宠物最开始都是婴儿形态，需要125的经验才能成为少年。宠物总共有6个不同阶段，以下是各阶段需要的经验：</p>\n<ul>\n<li>婴儿到少年 = 125XP</li>\n<li>少年到成年 = 250 XP</li>\n<li>成年到长者 = 525 XP</li>\n<li>长者到英雄 = 1050 XP</li>\n<li>英雄到王者 = 2125 XP</li>\n<li>王者到极限 = 2250 XP</li>\n</ul>\n<p>每次宠物的等级提升，除了从王者到极限以外，它将获得某种形式的天赋。从王者到极限并不会开启天赋，而是送给玩家一个+65属性的随机宠物宝石。</p>\n<figure><img src=\"/images/ZPZW9OENUATVR718RS-1024x768.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> <strong>了解宠物的各项数值</strong></h2>\n<p>宠物有五个影响其天赋的主要属性 - 力量、智力、敏捷、意志和精神。<strong>每个属性的数值越高，你的宠物天赋技能的百分比就越高</strong>。例如，一个拥有高属性的宠物，如下图所示，将会给予玩家更多的伤害或抵抗力。当然，这同样取决于宠物的天赋。举个例子：同样是火焰攻击天赋，火焰精通者（fire-dealer）的最高值是11点，而火焰-恩赐（fire-boon）则只有4点。</p>\n<figure><img src=\"/images/6I4ADOMIBPE34Q2@Y8N-1024x797.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/OWCUIZHA5R@4D8A8H.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/5LF3QV@_BEF9PI@69S.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>宠物在经过训练后，最好将所有属性都达到最大值。当然也有例外，智力这个属性影响的加成并不重要，所以可以暂时忽略它。</p>\n<figure><img src=\"/images/GTH1F6DKY2MNAULM@X.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>除此以外，力量、敏捷、意志和精神所影响的属性大多是玩家需要的，可以通过喂食小吃拉到最大值。</p>\n<figure><img src=\"/images/D67@H7QWBMRN3@C7_R0.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/9YR5LZ9J@LUT@7HAEG@I.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/YUPBGV2QX5SI0ICPIG.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/U9FSK7KCB5@NKCG4.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>此时你可能注意到，最下方还有一个属性：happiness，即宠物幸福值。这是一个并不影响宠物基本数值的属性，但是一些特定的扮演宠物任务和天赋（Will Cast 各类技能天赋）需要用到这个属性。可以通过喂食小吃进行补充</p>\n<h2> <strong>如何练宠</strong></h2>\n<h3> <strong>练宠游戏</strong></h3>\n<p>宠物可以通过完成魔法城宠物馆的迷你小游戏来进行训练。每个小游戏可以带来最多4经验，同样取决于玩家在小游戏中的表现。一般来说，宠物炫舞是最快的小游戏，所以目前只介绍这个：</p>\n<figure><img src=\"/images/Picture-2020-04-09-23-03-06-768x576-1.jpg\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>使用方向键，跟随提示的箭头进行记忆。<strong>连续3次成功即视为通过。</strong></p>\n<p>完成每个小游戏后，你可以为你的宠物喂食任意一种宠物零食。</p>\n<p><strong>同样的游戏只需赢25次，后续就可以跳过游戏阶段直接进行宠物喂食，省时省力。</strong></p>\n<h3> <strong>宠物零食的筛选</strong></h3>\n<p>选择正确的宠物零食可以影响到你的宠物成长的速度，尽量挑选能提高有助于你的宠物属性的零食。游戏中最好的零食能提供40-50的经验值，这些是一种特殊类型的零食，称为mega snacks。这些零食可以通过手工制作、击败某些老板、园艺或在皇冠商店mega snacks pack获得（不推荐）。<strong>目前为止园艺依旧是获得超级零食的最佳办法，具体可参考隔壁如何成为种菜大师。</strong></p>\n<p>同样的，宠物也有自己喜欢的食物。不过相比起超级零食提供的加成，喂宠物喜欢的零食只会提供1到2点额外加成，不用特地去搜集宠物喜欢的零食进行投喂。</p>\n<figure><img src=\"/images/8OZADQJAT1Z6I6EHFRL.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑超级零食之一</p>\n<h2> <strong>宠物天赋</strong></h2>\n<p>一个宠物可以拥有不同种类的天赋。每个初代宠物的天赋都是固定的，一旦与他人的宠物进行孵化，新生宠物的天赋就会遗传父母的天赋库。以下为天赋类型分类：</p>\n<h3> <strong>玩家状态类型提升天赋</strong></h3>\n<p>这类天赋可以提供攻击、防御、治疗、金豆率、豹击、穿刺等。通常来说，除了金豆率、豹击和治疗，攻击，防御和穿刺是最泛用的天赋类型。</p>\n<figure><img src=\"/images/DC5E9NBRU0GPPSLQWSY.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑一只标准的攻+防+穿刺的宠物</p>\n<h3> <strong>概率触发/释放类天赋</strong></h3>\n<p>这类May cast可以自动施放很多不同的魔法，包括全局魔法、刃、护盾、光环、治疗等。May cast天赋不会占用玩家的豆子。由于有可能触发治疗的技能，这些天赋在盾类/奶妈类的玩家角色中比较受欢迎。当然，由于爬塔的Deckathalon活动中角色本身属性不会带进塔里，这类天赋也很受欢迎。</p>\n<figure><img src=\"/images/UV8C@C_BNFYAKGKQG.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h3> <strong>能力属性提升天赋</strong></h3>\n<p>这类天赋可以提升宠物的属性数值。通常来说，只有最高的+65Mighty（力量）是最泛用的，它可以分别提升一只宠物的最大攻击、防御、穿刺。以下是一只带了+65天赋和不带65天赋的宠物数值对比：</p>\n<figure><img src=\"/images/DHY_5_W4DB7DFUAPC.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑不带65力量天赋</p>\n<figure><img src=\"/images/UT4T@1HED2A9G176B_2.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑带65力量天赋</p>\n<p>可以看到攻击、防御和穿刺天赋分别加了1点，</p>\n<h3> <strong>意念释放（Will Cast）天赋</strong></h3>\n<p>这类天赋与 \"概率施放天赋 \"极为相似，但实际上是按命令施放。它们同样不会占用角色的豆子，但可以通过玩家人为操纵释放。另外，在战斗中施放这些天赋需要花费幸福值，所以需要利用这些天赋进行战斗前一定要检查给宠物喂饱了零食</p>\n<figure><img src=\"/images/E@UJ3WE8_8L58CAPH@LD.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<figure><img src=\"/images/X4NKS4LT9JSRSL3MVDP-1024x491.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h3> <strong>冒险天赋</strong></h3>\n<p>这些是平时冒险时会触发的天赋。和战斗天赋一样，每个宠物在同一时间只能拥有一个。它们的功能是能够搜索物品，如箱子和试剂，或是提供给玩家额外的战利品。</p>\n<figure><img src=\"/images/Storm-Scout.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑发现风暴材料的天赋</p>\n<h3> <strong>宠物宝石</strong></h3>\n<p>当你的巫师等级达到15，同时宠物升级到长者时，可以获得一个宝石插槽。玩家可以在其中添加一颗星形珠宝。这些宝石可以提供许多不同的天赋，如概率释放、能量、提升玩家属性等等等等。部分宝石的添加有宠物的等级限制，例如火焰精通者（fire-dealer）这类的高级天赋必须在宠物达到极限时才能添加。这些宝石可以通过制作、园艺、BOSS掉落，甚至可以从皇冠商店的包裹中购买（但不推荐）。目前最多的掉落地点是天城（Empyrea）-爱丽儿森林(Ariel Jungle=300x)-萤火虫(Fire Fly=300x)。</p>\n<figure><img src=\"/images/L@ZDISYUJ1R15VSE3.png\" alt=\"\" width=\"300\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<p>↑极限才能添加的高级宝石</p>\n<h2> <strong>宠物孵化</strong></h2>\n<p>孵化是一种获得理想天赋的方法。通过与其他宠物孵化，新生的宠物可能具有更有用的天赋。每次孵化，后代的宠物都会有父母双方的混合天赋。因此，你与某一特定宠物孵化的次数越多，你复制该宠物特质的机会就越大。这个在宠物天赋库中获得你想要的天赋的过程可能是非常耗时和昂贵的（大部分孵化一次需要5W金币），所以不要气馁。在你开始看到后代宠物开始像所需的宠物之前，往往需要进行大量的尝试。</p>\n",
+      "image": "https://gitee.com/subata/images/ZPZW9OENUATVR718RS-1024x768.png =300x",
       "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-11-17T07:45:21.000Z",
+      "date_modified": "2023-11-17T08:50:27.000Z",
       "authors": [
         {
           "name": "安大帅包"
@@ -321,6 +364,94 @@
           "name": "杰克龙 迭量戈"
         }
       ],
+      "tags": []
+    },
+    {
+      "title": "练级指南",
+      "url": "https://gitee.com/subata/deep/index1.html",
+      "id": "https://gitee.com/subata/deep/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "游戏设置详解",
+      "url": "https://gitee.com/subata/deep/index2.html",
+      "id": "https://gitee.com/subata/deep/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "卡牌描述详解",
+      "url": "https://gitee.com/subata/deep/index3.html",
+      "id": "https://gitee.com/subata/deep/index3.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "副本介绍",
+      "url": "https://gitee.com/subata/deep/index4.html",
+      "id": "https://gitee.com/subata/deep/index4.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "组队、公会与冒险小队",
+      "url": "https://gitee.com/subata/deep/index5.html",
+      "id": "https://gitee.com/subata/deep/index5.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "民间货币系统(激励宝藏卡与金币)",
+      "url": "https://gitee.com/subata/deep/index6.html",
+      "id": "https://gitee.com/subata/deep/index6.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "捆绑包（Bundles）和挑战本（Gauntlets）",
+      "url": "https://gitee.com/subata/deep/index7.html",
+      "id": "https://gitee.com/subata/deep/index7.html",
+      "summary": "一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...",
+      "content_html": "<figure><img src=\"/images/bundle.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> 一、捆绑包（Bundles）</h2>\n<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>\n<figure><img src=\"/images/heavenlypalacebundle.png\" alt=\"Heavenly Palace Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Heavenly Palace Bundle</figcaption></figure>\n<h3> 1.购买与使用</h3>\n<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>\n<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>\n<figure><img src=\"/images/code.png\" alt=\"数字代码使用\" tabindex=\"0\" loading=\"lazy\"><figcaption>数字代码使用</figcaption></figure>\n<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>\n<h3> 2.Gauntlet bundle</h3>\n<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>\n<figure><img src=\"/images/nightmirebundle.png\" alt=\"Night Mire Gauntlet+Crowns Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>\n<figure><img src=\"/images/accursedgauntletbundle.png\" alt=\"Accursed play Gauntlet Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>\n<h2> 二、挑战本（Gauntlets）</h2>\n<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h3> 1.Housing Gauntlets</h3>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h3> 2. 杯子（Ultra duel）</h3>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h3> 3.一次性本（One-Shot Gauntlet）</h3>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h3> 4. 重赛杯子（Boss Rematches）</h3>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" tabindex=\"0\" loading=\"lazy\"><figcaption>NPC</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" tabindex=\"0\" loading=\"lazy\"><figcaption>配方</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" tabindex=\"0\" loading=\"lazy\"><figcaption>Boss Rematches</figcaption></figure>\n",
+      "image": "https://gitee.com/subata/images/bundle.png",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-11-07T13:41:02.000Z",
+      "authors": [
+        {
+          "name": "超威兰猫"
+        }
+      ],
+      "tags": [
+        "游戏指南"
+      ]
+    },
+    {
+      "title": "毕业装备",
+      "url": "https://gitee.com/subata/deep/index8.html",
+      "id": "https://gitee.com/subata/deep/index8.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
       "tags": []
     },
     {
@@ -430,6 +561,26 @@
       "tags": []
     },
     {
+      "title": "阿尼姆斯提取-捉魂",
+      "url": "https://gitee.com/subata/other/index1.html",
+      "id": "https://gitee.com/subata/other/index1.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "坎坎普斯-场外魔法",
+      "url": "https://gitee.com/subata/other/index2.html",
+      "id": "https://gitee.com/subata/other/index2.html",
+      "content_html": "",
+      "date_published": "2023-10-31T15:29:51.000Z",
+      "date_modified": "2023-10-31T16:06:07.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "打造系统",
       "url": "https://gitee.com/subata/manufacture/index1.html",
       "id": "https://gitee.com/subata/manufacture/index1.html",
@@ -453,114 +604,6 @@
       "title": "钓鱼指南",
       "url": "https://gitee.com/subata/manufacture/index3.html",
       "id": "https://gitee.com/subata/manufacture/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "练级指南",
-      "url": "https://gitee.com/subata/deep/index1.html",
-      "id": "https://gitee.com/subata/deep/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "游戏设置详解",
-      "url": "https://gitee.com/subata/deep/index2.html",
-      "id": "https://gitee.com/subata/deep/index2.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "卡牌描述详解",
-      "url": "https://gitee.com/subata/deep/index3.html",
-      "id": "https://gitee.com/subata/deep/index3.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "副本介绍",
-      "url": "https://gitee.com/subata/deep/index4.html",
-      "id": "https://gitee.com/subata/deep/index4.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "组队、公会与冒险小队",
-      "url": "https://gitee.com/subata/deep/index5.html",
-      "id": "https://gitee.com/subata/deep/index5.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "民间货币系统(激励宝藏卡与金币)",
-      "url": "https://gitee.com/subata/deep/index6.html",
-      "id": "https://gitee.com/subata/deep/index6.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "捆绑包（Bundles）和挑战本（Gauntlets）",
-      "url": "https://gitee.com/subata/deep/index7.html",
-      "id": "https://gitee.com/subata/deep/index7.html",
-      "summary": "一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...",
-      "content_html": "<figure><img src=\"/images/bundle.png\" alt=\"\" tabindex=\"0\" loading=\"lazy\"><figcaption></figcaption></figure>\n<h2> 一、捆绑包（Bundles）</h2>\n<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>\n<figure><img src=\"/images/heavenlypalacebundle.png\" alt=\"Heavenly Palace Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Heavenly Palace Bundle</figcaption></figure>\n<h3> 1.购买与使用</h3>\n<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>\n<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>\n<figure><img src=\"/images/code.png\" alt=\"数字代码使用\" tabindex=\"0\" loading=\"lazy\"><figcaption>数字代码使用</figcaption></figure>\n<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>\n<h3> 2.Gauntlet bundle</h3>\n<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>\n<figure><img src=\"/images/nightmirebundle.png\" alt=\"Night Mire Gauntlet+Crowns Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>\n<figure><img src=\"/images/accursedgauntletbundle.png\" alt=\"Accursed play Gauntlet Bundle\" tabindex=\"0\" loading=\"lazy\"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>\n<h2> 二、挑战本（Gauntlets）</h2>\n<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>\n<h3> 1.Housing Gauntlets</h3>\n<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>\n<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>\n<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>\n<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png\" alt=\"Housing Gauntlets\" tabindex=\"0\" loading=\"lazy\"><figcaption>Housing Gauntlets</figcaption></figure>\n<h3> 2. 杯子（Ultra duel）</h3>\n<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>\n<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>\n<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png\" alt=\"Ultra duel\" tabindex=\"0\" loading=\"lazy\"><figcaption>Ultra duel</figcaption></figure>\n<h3> 3.一次性本（One-Shot Gauntlet）</h3>\n<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png\" alt=\"One-Shot Gauntlet\" tabindex=\"0\" loading=\"lazy\"><figcaption>One-Shot Gauntlet</figcaption></figure>\n<h3> 4. 重赛杯子（Boss Rematches）</h3>\n<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png\" alt=\"NPC\" tabindex=\"0\" loading=\"lazy\"><figcaption>NPC</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png\" alt=\"配方\" tabindex=\"0\" loading=\"lazy\"><figcaption>配方</figcaption></figure>\n<figure><img src=\"https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png\" alt=\"Boss Rematches\" tabindex=\"0\" loading=\"lazy\"><figcaption>Boss Rematches</figcaption></figure>\n",
-      "image": "https://gitee.com/subata/images/bundle.png",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-11-07T13:41:02.000Z",
-      "authors": [
-        {
-          "name": "超威兰猫"
-        }
-      ],
-      "tags": [
-        "游戏指南"
-      ]
-    },
-    {
-      "title": "毕业装备",
-      "url": "https://gitee.com/subata/deep/index8.html",
-      "id": "https://gitee.com/subata/deep/index8.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "阿尼姆斯提取-捉魂",
-      "url": "https://gitee.com/subata/other/index1.html",
-      "id": "https://gitee.com/subata/other/index1.html",
-      "content_html": "",
-      "date_published": "2023-10-31T15:29:51.000Z",
-      "date_modified": "2023-10-31T16:06:07.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "坎坎普斯-场外魔法",
-      "url": "https://gitee.com/subata/other/index2.html",
-      "id": "https://gitee.com/subata/other/index2.html",
       "content_html": "",
       "date_published": "2023-10-31T15:29:51.000Z",
       "date_modified": "2023-10-31T16:06:07.000Z",
