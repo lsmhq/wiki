@@ -116,5 +116,12 @@ export default sidebar({
       link: '/template/rules.md',
       icon: 'heart'
     }
+  ],'/subata/':[
+    {
+      text: "指南",
+      icon: "star",
+      children: 'structure',
+      collapsible: true
+    }
   ]
 });
