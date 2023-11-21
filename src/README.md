@@ -48,47 +48,47 @@ highlights:
       background-size: initial
     features:
       - title: 入坑准备
-        icon: clipboard-check
+        icon: star
         # details: 描述
         link: /main/index4.html
 
       - title: 新人基础指南
-        icon: box-archive
+        icon: book
         # details: 描述
         link: /base/index1.html
 
       - title: 深入游戏指南
-        icon: table-columns
+        icon: plane
         # details: 描述
         link: /deep/index1.html
 
       - title: 常用工具
-        icon: code
+        icon: tools
         # details: 描述
         link: /tools/index1.html
 
       - title: 日常休闲
-        icon: align-center
+        icon: sun
         # details: 描述
         link: /daily/index1.html
 
       - title: 战斗玩法
-        icon: code
+        icon: gun
         # details: 描述
         link: /fight/index1.html
 
       - title: 特殊玩法(轮换周常)
-        icon: superscript
+        icon: play
         # details: 描述
         link: /special/index1.html
 
       - title: 生产采集
-        icon: quote-left
+        icon: hammer
         # details: 描述
         link: /manufacture/index1.html
 
       - title: 其他
-        icon: highlighter
+        icon: child
         # details: 描述
         link: /other/index1.html
 
