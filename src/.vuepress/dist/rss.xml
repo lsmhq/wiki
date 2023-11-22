@@ -6,8 +6,8 @@
     <link>https://gitee.com/subata/</link>
     <description>Subata</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Nov 2023 09:25:57 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Nov 2023 09:25:57 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2023 02:01:12 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2023 02:01:12 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>自定义组件</category>
@@ -22,33 +22,6 @@
     <category>模板专属分类</category>
     <category>游戏指南</category>
     <category>使用指南</category>
-    <item>
-      <title>使用说明</title>
-      <link>https://gitee.com/subata/subata/introduction.html</link>
-      <guid>https://gitee.com/subata/subata/introduction.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">使用说明</source>
-      <description>安装前往本站首页面，点击下载按钮进行下载;</description>
-      <pubDate>Tue, 21 Nov 2023 08:27:22 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 安装</h2>
-<ul>
-<li>前往本站首页面，点击下载按钮进行下载</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>常见问题</title>
-      <link>https://gitee.com/subata/subata/question.html</link>
-      <guid>https://gitee.com/subata/subata/question.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">常见问题</source>
-      <pubDate>Tue, 21 Nov 2023 08:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新日志</title>
-      <link>https://gitee.com/subata/subata/update.html</link>
-      <guid>https://gitee.com/subata/subata/update.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">更新日志</source>
-      <pubDate>Tue, 21 Nov 2023 08:27:22 GMT</pubDate>
-    </item>
     <item>
       <title>自定义组件</title>
       <link>https://gitee.com/subata/template/components.html</link>
@@ -504,128 +477,6 @@
       <enclosure url="https://gitee.com/subata/assets/background/1698762378210.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>练级指南</title>
-      <link>https://gitee.com/subata/deep/index1.html</link>
-      <guid>https://gitee.com/subata/deep/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>游戏设置详解</title>
-      <link>https://gitee.com/subata/deep/index2.html</link>
-      <guid>https://gitee.com/subata/deep/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡牌描述详解</title>
-      <link>https://gitee.com/subata/deep/index3.html</link>
-      <guid>https://gitee.com/subata/deep/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>副本介绍</title>
-      <link>https://gitee.com/subata/deep/index4.html</link>
-      <guid>https://gitee.com/subata/deep/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队、公会与冒险小队</title>
-      <link>https://gitee.com/subata/deep/index5.html</link>
-      <guid>https://gitee.com/subata/deep/index5.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>民间货币系统(激励宝藏卡与金币)</title>
-      <link>https://gitee.com/subata/deep/index6.html</link>
-      <guid>https://gitee.com/subata/deep/index6.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>捆绑包（Bundles）和挑战本（Gauntlets）</title>
-      <link>https://gitee.com/subata/deep/index7.html</link>
-      <guid>https://gitee.com/subata/deep/index7.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">捆绑包（Bundles）和挑战本（Gauntlets）</source>
-      <description>一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...</description>
-      <category>游戏指南</category>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-      <content:encoded><![CDATA[<figure><img src="/images/bundle.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2> 一、捆绑包（Bundles）</h2>
-<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>
-<figure><img src="/images/heavenlypalacebundle.png" alt="Heavenly Palace Bundle" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
-<h3> 1.购买与使用</h3>
-<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>
-<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>
-<figure><img src="/images/code.png" alt="数字代码使用" tabindex="0" loading="lazy"><figcaption>数字代码使用</figcaption></figure>
-<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>
-<h3> 2.Gauntlet bundle</h3>
-<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>
-<figure><img src="/images/nightmirebundle.png" alt="Night Mire Gauntlet+Crowns Bundle" tabindex="0" loading="lazy"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>
-<figure><img src="/images/accursedgauntletbundle.png" alt="Accursed play Gauntlet Bundle" tabindex="0" loading="lazy"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>
-<h2> 二、挑战本（Gauntlets）</h2>
-<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
-<h3> 1.Housing Gauntlets</h3>
-<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
-<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
-<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
-<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
-<h3> 2. 杯子（Ultra duel）</h3>
-<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
-<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
-<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
-<h3> 3.一次性本（One-Shot Gauntlet）</h3>
-<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
-<h3> 4. 重赛杯子（Boss Rematches）</h3>
-<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" tabindex="0" loading="lazy"><figcaption>NPC</figcaption></figure>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" tabindex="0" loading="lazy"><figcaption>配方</figcaption></figure>
-<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" tabindex="0" loading="lazy"><figcaption>Boss Rematches</figcaption></figure>
-]]></content:encoded>
-      <enclosure url="https://gitee.com/subata/images/bundle.png" type="image/png"/>
-    </item>
-    <item>
-      <title>毕业装备</title>
-      <link>https://gitee.com/subata/deep/index8.html</link>
-      <guid>https://gitee.com/subata/deep/index8.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日/每周任务</title>
-      <link>https://gitee.com/subata/daily/index1.html</link>
-      <guid>https://gitee.com/subata/daily/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>组队志愿者</title>
-      <link>https://gitee.com/subata/daily/index2.html</link>
-      <guid>https://gitee.com/subata/daily/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>城堡游戏</title>
-      <link>https://gitee.com/subata/daily/index3.html</link>
-      <guid>https://gitee.com/subata/daily/index3.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>小游戏</title>
-      <link>https://gitee.com/subata/daily/index4.html</link>
-      <guid>https://gitee.com/subata/daily/index4.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
       <title>游戏背景介绍</title>
       <link>https://gitee.com/subata/base/index1.html</link>
       <guid>https://gitee.com/subata/base/index1.html</guid>
@@ -1001,6 +852,142 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
+      <title>练级指南</title>
+      <link>https://gitee.com/subata/deep/index1.html</link>
+      <guid>https://gitee.com/subata/deep/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">练级指南</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏设置详解</title>
+      <link>https://gitee.com/subata/deep/index2.html</link>
+      <guid>https://gitee.com/subata/deep/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">游戏设置详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡牌描述详解</title>
+      <link>https://gitee.com/subata/deep/index3.html</link>
+      <guid>https://gitee.com/subata/deep/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">卡牌描述详解</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>副本介绍</title>
+      <link>https://gitee.com/subata/deep/index4.html</link>
+      <guid>https://gitee.com/subata/deep/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">副本介绍</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队、公会与冒险小队</title>
+      <link>https://gitee.com/subata/deep/index5.html</link>
+      <guid>https://gitee.com/subata/deep/index5.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队、公会与冒险小队</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>民间货币系统(激励宝藏卡与金币)</title>
+      <link>https://gitee.com/subata/deep/index6.html</link>
+      <guid>https://gitee.com/subata/deep/index6.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">民间货币系统(激励宝藏卡与金币)</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>捆绑包（Bundles）和挑战本（Gauntlets）</title>
+      <link>https://gitee.com/subata/deep/index7.html</link>
+      <guid>https://gitee.com/subata/deep/index7.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">捆绑包（Bundles）和挑战本（Gauntlets）</source>
+      <description>一、捆绑包（Bundles） Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具...</description>
+      <category>游戏指南</category>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="/images/bundle.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2> 一、捆绑包（Bundles）</h2>
+<p>Wizard101 捆绑包一直是 Wizard101 玩家获得游戏内专属物品道具的主要方式。捆绑包是其中宣传的各种商品的组合购买。这些物品道具通常是捆绑包本身独有的，并且由捆绑包的名称来表示整体主题风格。例如，官网线上售卖的天宫捆绑包（Heavenly Palace Bundle） 由与东方仙境主题有关的物品和付费代币道具组成。</p>
+<figure><img src="/images/heavenlypalacebundle.png" alt="Heavenly Palace Bundle" tabindex="0" loading="lazy"><figcaption>Heavenly Palace Bundle</figcaption></figure>
+<h3> 1.购买与使用</h3>
+<p>捆绑包可以从沃尔玛等国外商店以卡片的形式购买，也可以从 Gamestop 等网站以数字卡的形式在线购买。对于从商店实际购买的捆绑包，买家会收到一张背面写有代码的卡片。从 Gamestop 网站购买的数字卡与商店实体卡效果一样，唯一的区别是你不会获得实体卡，而只会收到一个数字代码。</p>
+<p>当你购买了捆绑包后，可以将数字代码复制并粘贴到 Wizard101 的兑换卡/代码提示中，以将内容兑换到您的帐户中。</p>
+<figure><img src="/images/code.png" alt="数字代码使用" tabindex="0" loading="lazy"><figcaption>数字代码使用</figcaption></figure>
+<p><strong>一些捆绑包也可以直接从 Wizard101 官网上购买。除此之外，QQ群里面也有玩家会不定时出售，若你有需求不妨在群里问问。</strong></p>
+<h3> 2.Gauntlet bundle</h3>
+<p>除了捆绑包中包含各种各样的物品道具，名称中带有Gauntlets的捆绑包通常包含一个城堡挑战副本（Gauntlets），付费代币或某些其他道具。其他道具可能包含特殊的坐骑、服装、魔杖和宠物。</p>
+<figure><img src="/images/nightmirebundle.png" alt="Night Mire Gauntlet+Crowns Bundle" tabindex="0" loading="lazy"><figcaption>Night Mire Gauntlet+Crowns Bundle</figcaption></figure>
+<figure><img src="/images/accursedgauntletbundle.png" alt="Accursed play Gauntlet Bundle" tabindex="0" loading="lazy"><figcaption>Accursed play Gauntlet Bundle</figcaption></figure>
+<h2> 二、挑战本（Gauntlets）</h2>
+<p>Gauntlets是玩家城堡中的副本（属于家园道具可以放置在自己的城堡里）。Gauntlets有四种不同的类型。</p>
+<h3> 1.Housing Gauntlets</h3>
+<p>这种Gauntlets通常从购买Gauntlets Bundle中获得，有些时候游戏内的皇冠商城里会限时返厂售卖一些Gauntlets，可以用皇冠进行购买。</p>
+<p>这种类型的挑战本可以重复多次使用，并且有着全新地图和剧情，最重要的是它作为副本意味着可以通过击败其中的怪物获得一些掉落物品，这些掉落物品通常都是付费卡包里面的物品，有着稀有坐骑、外观和宠物等，</p>
+<p>某些Gauntlets还会掉落一些游戏内的稀有资源，例如高等级宠物小吃，材料和宝藏卡等。当你购买了这种类型的Gauntlets。你可以将它放置在自己的城堡里邀请自己的好友（最多三人），四人一起去攻略它，享受团队合作的快乐。</p>
+<p>请注意副本有着不同难度等级，该等级取决于最低级别的参与者，不同的难度等级掉落的物品道具也不同。在进副本前，最好去wiki查一下。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-4.png" alt="Housing Gauntlets" tabindex="0" loading="lazy"><figcaption>Housing Gauntlets</figcaption></figure>
+<h3> 2. 杯子（Ultra duel）</h3>
+<p>第二种类型不一定是Gauntlets，它被称为杯子(Ultra duel)。可以在皇冠商城购买，或者是由某些boos掉落的。杯子是与游戏中某些boos战的二周目，boos会有显著的提升，他们会掉落一些装备、外观和坐骑。</p>
+<p>值得注意的是，它们每个只能使用一次并且杯子一共有三个等级：金、银、铜，不同等级的杯子掉落物与难度均不同，金最好，银、铜其次。</p>
+<p>杯子基本群里老玩家都有好多，不用花钱买，免费的。杯子会掉落全系的坐骑和合成坐骑的道具资源，非常好看，刚入坑的玩家想要美美的坐骑绝对不能错过。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-5.png" alt="Ultra duel" tabindex="0" loading="lazy"><figcaption>Ultra duel</figcaption></figure>
+<h3> 3.一次性本（One-Shot Gauntlet）</h3>
+<p>这种Gauntlets与housing Gauntlets不同的是，你只能从皇冠商店里购买它，并且只能使用一次，就像杯子(Ultra duel)一样。然而，它会有概率掉落永久付费坐骑以及一些有趣的装备外观。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-6.png" alt="One-Shot Gauntlet" tabindex="0" loading="lazy"><figcaption>One-Shot Gauntlet</figcaption></figure>
+<h3> 4. 重赛杯子（Boss Rematches）</h3>
+<p>与Ultra Duels类似，也是与游戏中的Boss进行二番战，并且只能进行一次。不同的是，每个重赛杯子都有多个难度等级，难度也是很高的。可以在竞技场中找npc拉克尔制作。</p>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-7.png" alt="NPC" tabindex="0" loading="lazy"><figcaption>NPC</figcaption></figure>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-8.png" alt="配方" tabindex="0" loading="lazy"><figcaption>配方</figcaption></figure>
+<figure><img src="https://subata.top/wp-content/uploads/2023/10/word-image-1871-9.png" alt="Boss Rematches" tabindex="0" loading="lazy"><figcaption>Boss Rematches</figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/images/bundle.png" type="image/png"/>
+    </item>
+    <item>
+      <title>毕业装备</title>
+      <link>https://gitee.com/subata/deep/index8.html</link>
+      <guid>https://gitee.com/subata/deep/index8.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">毕业装备</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日/每周任务</title>
+      <link>https://gitee.com/subata/daily/index1.html</link>
+      <guid>https://gitee.com/subata/daily/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">每日/每周任务</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>组队志愿者</title>
+      <link>https://gitee.com/subata/daily/index2.html</link>
+      <guid>https://gitee.com/subata/daily/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">组队志愿者</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>城堡游戏</title>
+      <link>https://gitee.com/subata/daily/index3.html</link>
+      <guid>https://gitee.com/subata/daily/index3.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">城堡游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>小游戏</title>
+      <link>https://gitee.com/subata/daily/index4.html</link>
+      <guid>https://gitee.com/subata/daily/index4.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">小游戏</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尼姆斯提取-捉魂</title>
+      <link>https://gitee.com/subata/other/index1.html</link>
+      <guid>https://gitee.com/subata/other/index1.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>坎坎普斯-场外魔法</title>
+      <link>https://gitee.com/subata/other/index2.html</link>
+      <guid>https://gitee.com/subata/other/index2.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
+      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
+    </item>
+    <item>
       <title>打造系统</title>
       <link>https://gitee.com/subata/manufacture/index1.html</link>
       <guid>https://gitee.com/subata/manufacture/index1.html</guid>
@@ -1019,20 +1006,6 @@ $Critical Chance=\frac{min(0.95,Level)*3C}{3C+B}$</p>
       <link>https://gitee.com/subata/manufacture/index3.html</link>
       <guid>https://gitee.com/subata/manufacture/index3.html</guid>
       <source url="https://gitee.com/subata/rss.xml">钓鱼指南</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿尼姆斯提取-捉魂</title>
-      <link>https://gitee.com/subata/other/index1.html</link>
-      <guid>https://gitee.com/subata/other/index1.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">阿尼姆斯提取-捉魂</source>
-      <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎坎普斯-场外魔法</title>
-      <link>https://gitee.com/subata/other/index2.html</link>
-      <guid>https://gitee.com/subata/other/index2.html</guid>
-      <source url="https://gitee.com/subata/rss.xml">坎坎普斯-场外魔法</source>
       <pubDate>Tue, 31 Oct 2023 15:29:51 GMT</pubDate>
     </item>
     <item>
@@ -1252,6 +1225,73 @@ Spellments：技能碎片，用于解锁和升级技能<br>
 <p>游戏账户状态区分为免费试玩（Free to Play）和会员（Membership）</p>
 
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>使用说明</title>
+      <link>https://gitee.com/subata/subatamd/introduction.html</link>
+      <guid>https://gitee.com/subata/subatamd/introduction.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">使用说明</source>
+      <description>安装前往本站首页面，点击下载按钮进行下载，等待下载完成; 首页 下载进度下载完成后点击保留，本客户端==无任何流氓行为==，请放心食用; 保留 任然保留此时，我们打开下载好的安装包，可能系统会阻止; 这是因为subataImgs目前==没有软件签名==，系统无法识别是甚麽软件，相当于==没户口==; 开==户口==太浪费，于是选择了不开; ...</description>
+      <content:encoded><![CDATA[<h2> 安装</h2>
+<ul>
+<li>前往本站首页面，点击下载按钮进行下载，等待下载完成</li>
+</ul>
+<figure><img src="/subataImgs/20231122092949.png" alt="首页" width="200" tabindex="0" loading="lazy"><figcaption>首页</figcaption></figure>
+<figure><img src="/subataImgs/download.png" alt="下载进度" width="200" tabindex="0" loading="lazy"><figcaption>下载进度</figcaption></figure>
+<ul>
+<li>下载完成后点击保留，本客户端<mark>无任何流氓行为</mark>，请放心食用</li>
+</ul>
+<figure><img src="/subataImgs/finished.png" alt="保留" width="200" tabindex="0" loading="lazy"><figcaption>保留</figcaption></figure>
+<figure><img src="/subataImgs/20231122093930.png" alt="任然保留" width="200" tabindex="0" loading="lazy"><figcaption>任然保留</figcaption></figure>
+<ul>
+<li>
+<p>此时，我们打开下载好的安装包，可能系统会阻止</p>
+</li>
+<li>
+<p>这是因为subataImgs目前<mark>没有软件签名</mark>，系统无法识别是甚麽软件，相当于<mark>没户口</mark></p>
+</li>
+<li>
+<p>开<mark>户口</mark>太浪费，于是选择了不开</p>
+</li>
+<li>
+<p>但我们依旧能够运行安装包</p>
+</li>
+</ul>
+<figure><img src="/subataImgs/install.png" alt="双击运行安装包" width="200" tabindex="0" loading="lazy"><figcaption>双击运行安装包</figcaption></figure>
+<figure><img src="/subataImgs/20231122094728.png" alt="仍要运行" width="200" tabindex="0" loading="lazy"><figcaption>仍要运行</figcaption></figure>
+<ul>
+<li>下面就是傻瓜下一步</li>
+</ul>
+<figure><img src="/subataImgs/install1.png" alt="下一步" width="400" tabindex="0" loading="lazy"><figcaption>下一步</figcaption></figure>
+<ul>
+<li>可以自定义安装路径</li>
+</ul>
+<figure><img src="/subataImgs/install2.png" alt="自定义安装路径" width="400" tabindex="0" loading="lazy"><figcaption>自定义安装路径</figcaption></figure>
+<figure><img src="/subataImgs/install3.png" alt="等待..." width="400" tabindex="0" loading="lazy"><figcaption>等待...</figcaption></figure>
+<figure><img src="/subataImgs/install4.png" alt="完成" width="400" tabindex="0" loading="lazy"><figcaption>完成</figcaption></figure>
+<ul>
+<li>
+<p>此时，我们可以看到桌面上出现一个图标，双击它</p>
+</li>
+<li>
+<p>能够打开说明安装成功了</p>
+</li>
+</ul>
+<h2> 界面</h2>
+]]></content:encoded>
+      <enclosure url="https://gitee.com/subata/subataImgs/20231122092949.png =200x" type="image/"/>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://gitee.com/subata/subatamd/question.html</link>
+      <guid>https://gitee.com/subata/subatamd/question.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">常见问题</source>
+    </item>
+    <item>
+      <title>更新日志</title>
+      <link>https://gitee.com/subata/subatamd/update.html</link>
+      <guid>https://gitee.com/subata/subatamd/update.html</guid>
+      <source url="https://gitee.com/subata/rss.xml">更新日志</source>
     </item>
   </channel>
 </rss>

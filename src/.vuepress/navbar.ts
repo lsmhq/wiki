@@ -6,15 +6,15 @@ export default navbar([
         children:[
             {
                 text: '更新日志',
-                link: '/subata/update',
+                link: '/subatamd/update',
                 icon: 'sun'
             },{
                 text: '使用说明',
-                link: '/subata/introduction',
+                link: '/subatamd/introduction',
                 icon: 'book'
             },{
                 text: '常见问题',
-                link: '/subata/question',
+                link: '/subatamd/question',
                 icon: 'question'
             }
         ]

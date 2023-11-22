@@ -116,7 +116,7 @@ export default sidebar({
       link: '/template/rules.md',
       icon: 'heart'
     }
-  ],'/subata/':[
+  ],'/subatamd/':[
     {
       text: "指南",
       icon: "star",
