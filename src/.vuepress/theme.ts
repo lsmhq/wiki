@@ -51,15 +51,15 @@ export default hopeTheme({
   },
   plugins: {
     // You should generate and use your own comment service
-    comment: {
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
-      comment: false
-    },
-    activeHeaderLinks: false,
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "vuepress-theme-hope/giscus-discussions",
+    //   repoId: "R_kgDOG_Pt2A",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    //   comment: true
+    // },
+    // activeHeaderLinks: true,
     components:{
       components:[
         'Badge',
@@ -68,22 +68,17 @@ export default hopeTheme({
         'Share'
       ]
     },
-
+    
     photoSwipe: true,
 
     copyCode:{
       showInMobile: true,
-    },
-    feed:{
-      json: true,
-      rss: true
     },
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
       card: true,
-
       // install chart.js before enabling it
       // chart: true,
 
