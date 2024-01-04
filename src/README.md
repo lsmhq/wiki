@@ -38,7 +38,7 @@ highlights:
       - title: 清晰的补丁管理
       - title: 方便的多账号管理
 
-  - header: 通过下方快速跳转指定模块
+  - header: 更多
     description: 
     # image: /assets/image/logo.ico
     bgImage: /subata/4-light.svg
