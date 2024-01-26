@@ -18,16 +18,16 @@ actions:
     link: ./template/start.md
     type: primary
 
-  - text: 下载启动器v2.1.3
+  - text: 下载启动器v2.1.4
     type: default
-    link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.3.exe
+    link: http://101.43.174.221:3001/file/subataUpdate/Subata%20Setup%202.1.4.exe
 
   - text: 联系我们-QQ
     type: default
     link: https://qm.qq.com/cgi-bin/qm/qr?k=M3OaXkN0Na4dTCjhuRFOg4lYVFM-T7zf&jump_from=webapi&authKey=F5F8uIKs3dO114jF/vlVHYAzbVRUyEarkRZOF3xQq1xj6qL6eYm3RZmr+lhPx82E
 
 highlights:
-  - header: Subata v2.1.3
+  - header: Subata v2.1.4
     image: /assets/image/subata.png
     bgImage: /subata/3-light.svg
     bgImageDark: /subata/3-dark.svg

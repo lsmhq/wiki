@@ -1,5 +1,5 @@
 <template>
-    <details class="item">
+  <details class="item">
     <summary class="title">
       <span class="title-title">敬请期待下一版本</span>
       <span class="title-time"> ......</span>
@@ -10,7 +10,7 @@
   <details class="item" v-for="item in updates" :key="item.time">
     <summary class="title">
       <span class="title-title">{{ item.title }}</span>
-      <span class="title-time">{{ item.time }}-{{item.username}}</span>
+      <span class="title-time">{{ item.time }}-{{ item.username }}</span>
       <span class="title-time">点击展开</span>
     </summary>
     <div v-html="item.msg"></div>
@@ -312,6 +312,12 @@ export default {
           title: "v2.1.3",
           username: "蓝色灭火器",
           time: "2023-09-14 19:55:03",
+        },
+        {
+          msg: "新年快乐\n更新内容\n1、新增一款红色风格皮肤\n2、开放自定义启动参数\n3、增加游戏新版wiki\n4、有雪！",
+          title: "v2.1.4",
+          username: "蓝色灭火器",
+          time: "2024-01-26 16:53:27",
         },
       ],
     };
